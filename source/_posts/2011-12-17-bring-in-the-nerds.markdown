@@ -3,7 +3,7 @@ layout: post
 title: "Bring in the nerds"
 date: 2011-12-17 12:06
 comments: true
-categories: 
+categories: Politics
 ---
 
 Joshua Kopstein, writing in [Dear Congress, It's No Longer OK To Not Know How The Internet Works](http://motherboard.vice.com/2011/12/16/dear-congress-it-s-no-longer-ok-to-not-know-how-the-internet-works), getting angry with Congress on the SOPA hearings:

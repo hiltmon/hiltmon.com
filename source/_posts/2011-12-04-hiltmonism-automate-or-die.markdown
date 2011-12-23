@@ -3,7 +3,7 @@ layout: post
 title: "Hiltmonism - Automate or Die"
 date: 2011-12-04 09:59
 comments: true
-categories: 
+categories: Hiltmonism
 ---
 
 Computers are excellent at performing dull repetitive structured tasks, yet many organizations use armies of people to perform these tasks. Computers are also great at following along the same mind numbing process over and over again (we call this programming), yet we tend as users of computers, to perform these tasks manually on our computers.
