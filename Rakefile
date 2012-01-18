@@ -109,7 +109,8 @@ task :new_post, :title do |t, args|
     post.puts "categories: "
     post.puts "---"
   end
-  # And open it for editing
+  # Log to Day One and open it for editing
+  %x{~/scripts/LogtoDayOne.rb "@blog #{title}"}
   %x{open "#{filename}"}
 end
 
