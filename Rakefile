@@ -109,9 +109,9 @@ task :new_post, :title do |t, args|
     post.puts "categories: "
     post.puts "---"
   end
-  # Log to Day One and open it for editing
+  # Log to Day One and open it for editing in Byword
   %x{~/scripts/LogtoDayOne.rb "@blog #{title}"}
-  %x{open "#{filename}"}
+  %x{open "#{filename}" -a Byword}
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
