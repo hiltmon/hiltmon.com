@@ -110,7 +110,7 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   # Log to Day One and open it for editing in Byword
-  %x{~/scripts/LogtoDayOne.rb "@blog #{title}"}
+  %x{~/scripts/LogtoDayOne.rb "@hiltmon.com #{title}"}
   %x{open "#{filename}" -a Byword}
 end
 
