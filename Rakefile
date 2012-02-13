@@ -110,7 +110,7 @@ task :new_post, :title do |t, args|
     post.puts "---"
   end
   # Log to Day One and open it for editing in Byword
-  %x{~/scripts/LogtoDayOne.rb "@hiltmon.com #{title}"}
+  %x{~/scripts/LogtoDayOne.rb "@hiltmon.com Post: #{title}"}
   %x{open "#{filename}" -a Byword}
 end
 
@@ -148,6 +148,9 @@ task :new_page, :filename do |t, args|
       page.puts "footer: true"
       page.puts "---"
     end
+    # Log to Day One and open it for editing in Byword
+    %x{~/scripts/LogtoDayOne.rb "@hiltmon.com Page: #{title}"}
+    %x{open "#{file}" -a Byword}
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
   end
