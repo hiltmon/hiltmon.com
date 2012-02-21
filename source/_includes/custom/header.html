@@ -1,6 +1,11 @@
 <hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
+  <div style="float:left;margin-top:10px;margin-right:24px">
+    <a href="{{ root_url }}/">
+      {% img left /images/hiltmon-logo-128.png 64 64 %}
+    </a>
+  </div>
+    <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+    {% if site.subtitle %}
+      <h2>{{ site.subtitle }}</h2>
+    {% endif %}
 </hgroup>
