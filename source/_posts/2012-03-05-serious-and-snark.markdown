@@ -10,19 +10,19 @@ One of the key reasons I separated [hiltmon.com](http://www.hiltmon.com) and [no
 
 Last evening, on twitter, it seems some of the indie celebs are doing the same:
 
-{% blockquote @danielpunkass %}
+{% blockquote @danielpunkass, Twitter %}
 @marcoarment @gte @gruber My only handicap is I am afraid to tarnish red-sweater with too many crazy posts, so I'm building a new blog...
 {% endblockquote %}
 
 David Barnard points out that your business should have a voice:
 
-{% blockquote @drbarnard %}
+{% blockquote @drbarnard, Twitter %}
 @danielpunkass @marcoarment @gruber yeah. Voice of an entity is important. Separating private opinion from business position makes sense.
 {% endblockquote %}
 
 Marco Arment, in a Yoda moment, gets poingnant:
 
-{% blockquote @marcoarment %}
+{% blockquote @marcoarment, Twitter %}
 @drbarnard @danielpunkass Our companies will come and go. Our names and personal reputations can be built up for life.
 {% endblockquote %}
 
