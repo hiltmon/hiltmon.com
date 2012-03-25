@@ -3,7 +3,7 @@ layout: post
 title: "The Markdown File Extension"
 date: 2012-03-07 11:39
 comments: true
-categories: 
+categories: Markdown
 ---
 
 The correct file extension for markdown files is:
