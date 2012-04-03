@@ -31,7 +31,7 @@ You can get in touch with me using any of the methods below. **Note**: If you’
 
 * **Business:** [Noverse LLC](http://www.noverse.com)
 * **Twitter:** [@hiltmon](http://twitter.com/hiltmon)
-* **Google+:** [Hilton Lipschitz](https://plus.google.com/u/0/106938375254936779482/about)
+* **Google+:** <a rel="me" href="https://plus.google.com/u/0/106938375254936779482/about">Hilton Lipschitz</a>
 * **Email:** hiltmon (at this domain or **gmail** or **noverse** domains)
 * **Instant Messaging:** hiltmon (at the **gmail** domain using gtalk or iChat)
 * **FaceTime:** hiltmon (at the **gmail** or the **mac**/**me** domains)
