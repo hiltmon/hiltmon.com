@@ -17,7 +17,11 @@ Please read the following list in its entirety before acting:
 * You should sit and wait while it scans all your drives, feel free to continue to hyperventilate
 * You must pay for the annual subscription to the AV vendor
 * You are safe, and may now stop panicking
-* *Don't do any of the above. There's no point. So don't do it.*
+* **_Don't do any of the above. There's no point._**
+
+{% blockquote Nicholas J Percoco, https://twitter.com/#!/c7five/status/191496387031085057 %}
+We investigated >300 breaches in 2011. 100% used malware. 0% detected by AV on targets. In lab 25 AV engines detected 12%.
+{% endblockquote %}
 
 Didn't read the whole list before acting? Sigh.
 
