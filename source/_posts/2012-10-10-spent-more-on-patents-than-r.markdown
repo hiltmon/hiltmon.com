@@ -3,7 +3,7 @@ layout: post
 title: "Spent more on Patents than R&D?"
 date: 2012-10-10 10:12
 comments: true
-categories: 
+categories: [Apple, News, Patents]
 ---
 
 Ian Betteridge [@ianbetteridge](http://twitter.com/ianbetteridge) takes the New York Times *down* in [Did Apple and Google really spend more on patents than R&D?](http://www.technovia.co.uk/2012/10/did-apple-and-google-really-spend-more-on-patents-than-rd-yes-but-its-not-all-it-seems.html), in response to the NYT article [The iEconomy: Apple and Technology Manufacturing](http://www.nytimes.com/interactive/business/ieconomy.html) (Subscription required):

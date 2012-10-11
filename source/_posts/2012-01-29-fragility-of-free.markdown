@@ -3,7 +3,7 @@ layout: post
 title: "Fragility of Free"
 date: 2012-01-29 11:49
 comments: true
-categories: 
+categories: Business
 ---
 
 A great article by Ben Brooks called [Fragility of Free](http://brooksreview.net/2011/03/fragility-free/), well worth a read:

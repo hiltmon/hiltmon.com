@@ -3,7 +3,7 @@ layout: post
 title: "Scratched iPhones"
 date: 2012-10-10 10:58
 comments: true
-categories: 
+categories: [Apple, iPhone]
 ---
 
 There’s a big brouhaha in the news these days that new iPhone 5’s come scratched out of the box, and that the new aluminium backs scratch too easily. So much noise that Apple is trying to “fix” the problem by not shipping pre-scratched ones, and by telling people that scratching is normal for aluminium products.

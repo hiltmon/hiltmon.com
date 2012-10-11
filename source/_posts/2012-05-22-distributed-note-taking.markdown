@@ -3,7 +3,7 @@ layout: post
 title: "Distributed Note Taking"
 date: 2012-05-22 09:39
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 I have switched over to and finally locked in on a new distributed note taking process, using [Elements](http://www.secondgearsoftware.com/elements/) on the iPad, [Dropbox](http://www.dropbox.com) synching, [TextExpander](http://smilesoftware.com/TextExpander/) file naming and [nvAlt](http://brettterpstra.com/project/nvalt/) on the Mac. Here's how I got to this point, and how it works.

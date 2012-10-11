@@ -3,7 +3,7 @@ layout: post
 title: "Change is Good - New Applications replacing Old Ones"
 date: 2012-08-03 15:38
 comments: true
-categories: 
+categories: [Software, Productivity]
 ---
 
 There is some amazing independent software out there for the Mac. And I use a lot of it. I realized today, while fixing a problem on my wife’s laptop, that I have pretty much replaced many older products with new ones on my computer over the last year or so, yet she still uses all the old stuff.

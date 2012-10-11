@@ -3,7 +3,7 @@ layout: post
 title: "Make a better product"
 date: 2012-01-18 13:12
 comments: true
-categories: 
+categories: Business
 ---
 
 Rich Siegel, of [BBEdit](http://www.barebones.com/products/bbedit/index.html) fame, in his blog article [Bar Sopa](http://rms2.tumblr.com/post/16065567721/bar-sopa), makes the right point on piracy:

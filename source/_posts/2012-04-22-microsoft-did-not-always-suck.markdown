@@ -3,7 +3,7 @@ layout: post
 title: "Microsoft did not always suck"
 date: 2012-04-22 11:27
 comments: true
-categories: 
+categories: [Microsoft]
 ---
 
 I was a Mac when Apple was beleaguered. Those were the days when Microsoft was in ascendancy, this new Blackberry thing was cool and Google was just a search engine. It's traditional, and expected, for us Mac people to outright disparage Microsoft and all its products as things that suck. But the reality is that Microsoft has made some pretty amazing products in spite of its size, bureaucracy and inertia. These are some of the things I think they did just right.

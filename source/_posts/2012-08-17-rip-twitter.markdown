@@ -3,7 +3,7 @@ layout: post
 title: "RIP Twitter"
 date: 2012-08-17 08:26
 comments: true
-categories: 
+categories: [Social]
 ---
 
 “*I wish to complain about this parrot what I purchased not half an hour ago from this very boutique.*”

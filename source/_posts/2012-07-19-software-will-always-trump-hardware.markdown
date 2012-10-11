@@ -3,7 +3,7 @@ layout: post
 title: "Software will always trump Hardware"
 date: 2012-07-19 18:59
 comments: true
-categories: 
+categories: [Software, Computers]
 ---
 
 Shawn Blanc reviews the Nexus 7 tablet in [Thoughts and Impressions of the Nexus 7](http://shawnblanc.net/2012/07/the-nexus-7/), and concludes with a great point:

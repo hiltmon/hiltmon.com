@@ -3,7 +3,7 @@ layout: post
 title: "Expect the Unexpected"
 date: 2012-08-08 11:49
 comments: true
-categories: 
+categories: [Software]
 ---
 
 There was a panic at one of my client sites today when the reporting software I wrote for them stopped working. Instead of presenting reports as usual, the software threw an unknown error.

@@ -3,7 +3,7 @@ layout: post
 title: "Stop with the old Text Editors already"
 date: 2012-10-08 19:11
 comments: true
-categories: 
+categories: [Text Editors, Productivity]
 ---
 
 Over the past few years, it has become *a thing* to stop using IDE’s and modern text editors in favor of Vim. I understand older programmers using Vim out of habit, but the new generation of programmers? I don’t get it. Every-time I write about text editors, this growing group tweets to give modern GUI editors up and switch to old trusty rusty crusty terminal-based Vim. 

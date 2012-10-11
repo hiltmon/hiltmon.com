@@ -3,7 +3,7 @@ layout: post
 title: "7 Reasons Why I Can’t Do “Free”"
 date: 2012-07-19 19:03
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Sharon Hayes clearly explains why she does not work for free in [7 Reasons Why I Can’t Do “Free”](http://www.sharonhayes.com/musings/no-free-lunch/), check it out.

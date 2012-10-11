@@ -3,7 +3,7 @@ layout: post
 title: "The value of Apps"
 date: 2012-07-24 08:37
 comments: true
-categories: 
+categories: [Software]
 ---
 
 The online conversation on the Sparrow sale continues unabated. But in amongst all the vitriol, I found some amazing articles written long before the sale pretty much predicting how it is now. Here are some great quotes and links.

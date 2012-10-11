@@ -3,7 +3,7 @@ layout: post
 title: "On the Nexus 7"
 date: 2012-06-28 09:07
 comments: true
-categories: 
+categories: [Computers, Software]
 ---
 
 Yesterday, Google announced the [Nexus 7](http://www.google.com/nexus/#/7), their first hardware and software combination tablet.

@@ -3,7 +3,7 @@ layout: post
 title: "Unrepairable"
 date: 2012-06-17 14:27
 comments: true
-categories: 
+categories: [News, Computers]
 ---
 
 Last week, Apple launched the new retina Macbook Pro. Which, of course, was immediately followed by a brouhaha (*Definition: A noisy and overexcited critical response, display of interest, or trail of publicity.*)

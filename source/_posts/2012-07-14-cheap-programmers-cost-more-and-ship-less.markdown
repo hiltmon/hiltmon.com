@@ -3,7 +3,7 @@ layout: post
 title: "Cheap programmers cost more and ship less"
 date: 2012-07-14 16:34
 comments: true
-categories: 
+categories: [Business]
 ---
 
 I've been programming for 22 years. When I started Noverse two years ago as a professional software design and development company, I knew I would be competing against younger, cheaper programmers and masses of very cheap outsourced programmers.

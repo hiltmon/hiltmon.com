@@ -3,7 +3,7 @@ layout: post
 title: "Carriers are the biggest threat to innovation"
 date: 2012-07-05 11:11
 comments: true
-categories: 
+categories: [Carriers]
 ---
 
 Nilay Patel, writing for The Verge gets it in [Five years after the iPhone, carriers are the biggest threat to innovation](http://www.theverge.com/2012/7/5/3138711/five-years-after-the-iphone-carriers-are-the-biggest-threat-to-innovation-editorial). Extremely clear and well written, too many awesome quotes.

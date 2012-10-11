@@ -3,7 +3,7 @@ layout: post
 title: "Target the Forward Fringe"
 date: 2012-07-06 11:51
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Daniel Jalkut, writing on his Red-Sweater blog in [Target The Forward Fringe](http://www.red-sweater.com/blog/2568/target-the-forward-fringe) nails who our target market truly is, in discussing whether to retina-ize (HiDPI) our websites and applications.

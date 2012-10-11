@@ -3,7 +3,7 @@ layout: post
 title: "Export to Excel is a Red Flag"
 date: 2012-09-29 15:57
 comments: true
-categories: 
+categories: [Software]
 ---
 
 As a developer, I often get requests from clients asking me if I could deliver them a spreadsheet using their data from their systems that contains X and Y and Z. As a maker of software products, I often get asked whether my product supports ‘Export to Excel’.

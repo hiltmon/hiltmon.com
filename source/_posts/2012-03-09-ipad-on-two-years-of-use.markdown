@@ -3,7 +3,7 @@ layout: post
 title: "iPad - On Two Years of Use"
 date: 2012-03-09 09:44
 comments: true
-categories: 
+categories: iPad
 ---
 
 Can you believe it, the iPad has been around only *two* years, two! Yet it feels like there was never a time before we had them.

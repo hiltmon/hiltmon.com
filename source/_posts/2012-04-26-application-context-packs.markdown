@@ -3,7 +3,7 @@ layout: post
 title: "Application Context Packs"
 date: 2012-04-26 09:49
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 When developing in Rails, I use a certain pack of applications; when coding for iOS, I use a different pack of applications; and when in a blogging context, I use a third pack of applications. And then there is the regular set of applications that I usually leave running. Starting and switching between these contexts used to take time, until I found a better way.

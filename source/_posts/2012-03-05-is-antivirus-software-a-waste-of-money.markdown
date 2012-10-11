@@ -3,7 +3,7 @@ layout: post
 title: "Is Antivirus Software a Waste of Money?"
 date: 2012-03-05 13:25
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Not astonishing at all in Wired's [Is Antivirus Software a Waste of Money?](http://www.wired.com/wiredenterprise/2012/03/antivirus/) by Robert McMillan:

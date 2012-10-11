@@ -3,7 +3,7 @@ layout: post
 title: "Moom Corners"
 date: 2012-08-03 13:07
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 Another quick trick, this time for [Moom](http://manytricks.com/moom/). When doing Ruby on Rails programming, I like my terminal at the bottom-right of the screen, my text editor at the bottom-left, the browser top-right and BBEdit (for taking notes) at the top-left. When blogging, I like the terminal in the same place, but I want Byword at the top-left. I got tired of dragging windows everywhere, so I set up keyboard shortcuts usimg Moom to place windows in the corners.

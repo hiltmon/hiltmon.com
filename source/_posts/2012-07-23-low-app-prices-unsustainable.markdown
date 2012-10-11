@@ -3,7 +3,7 @@ layout: post
 title: "Low app prices unsustainable"
 date: 2012-07-23 19:39
 comments: true
-categories: 
+categories: [Software]
 ---
 
 David Barnard, of AppCubby, writing in [The Sparrow Problem](http://appcubby.com/blog/the-sparrow-problem/), where he competently works out that the sales and income numbers for Sparrow were not enough to sustain the team, and therefore the business, concludes:

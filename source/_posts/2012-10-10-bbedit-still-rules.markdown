@@ -3,7 +3,7 @@ layout: post
 title: "BBEdit still Rules"
 date: 2012-10-10 09:48
 comments: true
-categories: 
+categories: [Text Editors, Macintosh, Productivity]
 ---
 
 Lovely article on how the stalwart classic [BBEdit](http://www.barebones.com/products/bbedit/index.html) still rules by Andy Ihnatko ([@ihnatko](http://twitter.com/ihnatko)) on Macworld today, entitled [Mac classics: Why BBEdit rules](http://www.macworld.com/article/2011461/mac-classics-why-bbedit-rules.html)

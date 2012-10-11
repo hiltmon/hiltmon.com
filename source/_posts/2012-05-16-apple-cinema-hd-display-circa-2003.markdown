@@ -3,7 +3,7 @@ layout: post
 title: "Apple Cinema HD Display circa 2003"
 date: 2012-05-16 16:26
 comments: true
-categories: 
+categories: [Apple, Computers]
 ---
 
 That's right kids, I am still using the old 23" Apple Cinema HD Display I purchased in 2003, 9 years ago, before Apple went all aluminium.

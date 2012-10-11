@@ -3,7 +3,7 @@ layout: post
 title: "The news routine"
 date: 2012-04-19 13:58
 comments: true
-categories: 
+categories: [News]
 ---
 
 Twitter, Facebook, RSS, all wonderful services, all bombarding us with information, all taking time and attention away from things we should be doing. In order to remain productive, I have moved these services onto the iPad and created a *reading* routine to eliminate the temptation to waste hours on these services.

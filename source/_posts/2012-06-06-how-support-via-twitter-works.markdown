@@ -3,7 +3,7 @@ layout: post
 title: "How support via Twitter works"
 date: 2012-06-06 16:21
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Daniel Jalkut asked a question on Twitter

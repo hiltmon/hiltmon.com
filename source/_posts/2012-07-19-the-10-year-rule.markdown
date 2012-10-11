@@ -3,7 +3,7 @@ layout: post
 title: "The 10-year rule"
 date: 2012-07-19 21:44
 comments: true
-categories: 
+categories: [Finance]
 ---
 
 {% blockquote Warren Buffett, %}

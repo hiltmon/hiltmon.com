@@ -3,7 +3,7 @@ layout: post
 title: "Spike UI Teaser"
 date: 2012-04-19 18:49
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Following on to last week's [Spike Solutions](http://www.hiltmon.com/blog/2012/04/06/spike-solutions/) piece, I did some work on the second spike, to see if I could use CoreGraphics to render some of the UI components I want for the new product. Wow, worked out great, one less known unknown to deal with. Turns out, CoreGraphics does a lot of what you can do in PhotoShop, just in real time and on the GPU.

@@ -3,7 +3,7 @@ layout: post
 title: "Project Folder Layout"
 date: 2012-06-30 12:32
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 We all work on multiple projects. And we're creating new ones all the time, whether for new engagements, new personal projects or spikes. I personally like to have all my project files properly organized, every component of the project has its place, so I have been using my own standard project folder layout for years.

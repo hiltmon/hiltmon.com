@@ -3,7 +3,7 @@ layout: post
 title: "Freemium Simulation Games prove Stupidity"
 date: 2012-03-25 13:26
 comments: true
-categories: 
+categories: [Business]
 ---
 
 I don't get the allure and popularity of freemium time-based simulation games like Farmville, DragonVale, Tap Zoo, and Smurfs Village. Yet these games are the top grossing games on the App Store. So I decided to take one on to see if I can find the 'it' factor that makes these games so enjoyable, popular and profitable, without paying real money to short-circuit the game.

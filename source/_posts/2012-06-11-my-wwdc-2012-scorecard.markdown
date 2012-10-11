@@ -3,7 +3,7 @@ layout: post
 title: "My WWDC 2012 Scorecard"
 date: 2012-06-11 17:51
 comments: true
-categories: 
+categories: [Apple]
 ---
 
 I published my [WWDC 2012 Keynote Predictions](http://www.hiltmon.com/blog/2012/06/09/my-wwdc-2012-predictions/) a few days ago, lets see how well I did:

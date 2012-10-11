@@ -3,7 +3,7 @@ layout: post
 title: "It should only take you a few hours..."
 date: 2012-01-11 22:55
 comments: true
-categories: 
+categories: Business
 ---
 
 It sure seems easy to make a table. Anyone can do it, right? Get 1 large flat rectangular piece of wood, 4 equally tall wooden poles, 4 nails and a hammer. Nail the 4 poles to each corner of the flat rectangular bit, and you have a table. Ta daaa!

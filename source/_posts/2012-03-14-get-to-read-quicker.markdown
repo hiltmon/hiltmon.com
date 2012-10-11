@@ -3,7 +3,7 @@ layout: post
 title: "Get to read quicker"
 date: 2012-03-14 19:43
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 People come to [hiltmon.com](http://www.hiltmon.com) to read, and occasionally to comment on the writing found here. Statistics show that no-one uses the social icons to tweet, Facebook or Google+ the articles.

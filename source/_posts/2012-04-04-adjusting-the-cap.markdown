@@ -3,7 +3,7 @@ layout: post
 title: "Adjusting the Cap"
 date: 2012-04-04 19:39
 comments: true
-categories: 
+categories: [Carriers]
 ---
 
 Alex Knight, writing in his own blog [Zero Distraction](http://zerodistraction.com/) in [The Disparity between Smartphones And Mobile Carriers](http://zerodistraction.com/blog/2012/4/3/the-disparity-between-smartphones-and-mobile-carriers.html) sets the scene exactly as I see it:

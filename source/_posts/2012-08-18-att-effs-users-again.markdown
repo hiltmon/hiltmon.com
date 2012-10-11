@@ -3,7 +3,7 @@ layout: post
 title: "AT&T effs users again"
 date: 2012-08-18 12:41
 comments: true
-categories: 
+categories: [Carriers, News]
 ---
 
 The beard, Jim Dalrymple nails it in [AT&T fucks users… again](http://www.loopinsight.com/2012/08/18/att-fucks-users-again/):

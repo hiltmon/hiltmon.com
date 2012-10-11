@@ -3,7 +3,7 @@ layout: post
 title: "Not Your Free Tech Support"
 date: 2012-03-13 12:56
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Friends, family, colleagues, I love you all, but I am not your free tech support guy. Computer *programmers* do *not* exist to fix *your* computer, printer or network problems, we don't even fix our own. Do us all a favor, and *stop* asking us to fix your things, or worse, just expecting us to do so. We're not interested. It's not what we do. Move along.

@@ -3,7 +3,7 @@ layout: post
 title: "Sandboxing and Productivity Utilities"
 date: 2012-06-11 09:02
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 Apple's recent requirement for all App Store applications to be sandboxed has led to a problem for us pro users, many of our magical productivity utilities will no longer work. And if you think that's a problem for us, imagine how the developers feel.

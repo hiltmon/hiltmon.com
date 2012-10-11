@@ -3,7 +3,7 @@ layout: post
 title: "Where the light is better"
 date: 2012-01-26 10:30
 comments: true
-categories: 
+categories: Business
 ---
 
 {% blockquote %}

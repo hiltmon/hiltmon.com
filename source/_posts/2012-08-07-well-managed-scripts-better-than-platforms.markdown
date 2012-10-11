@@ -3,7 +3,7 @@ layout: post
 title: "Well Managed Scripts better than Platforms"
 date: 2012-08-07 12:03
 comments: true
-categories: 
+categories: [Software]
 ---
 
 One of the most misunderstood things in computing is the need and power of scripts. Most IT shops seek out platforms, tools and technologies to perform business functions, when a bunch of well architected and documented scripts is all that is really needed.

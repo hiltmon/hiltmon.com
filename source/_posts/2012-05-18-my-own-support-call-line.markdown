@@ -3,7 +3,7 @@ layout: post
 title: "My own support call line"
 date: 2012-05-18 11:08
 comments: true
-categories: 
+categories: [Business]
 ---
 
 My ideal vendor support line is a direct number to call the exact person I need to speak to for support. Unfortunately, this is not economic for vendors, especially since I may never call this lucky, and quite bored, person for support.

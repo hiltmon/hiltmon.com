@@ -3,7 +3,7 @@ layout: post
 title: "iPhone is 5 today"
 date: 2012-06-29 19:18
 comments: true
-categories: 
+categories: [iPhone]
 ---
 
 Five years ago, the first iPhone went on sale. My, have mobile phones changed since then.

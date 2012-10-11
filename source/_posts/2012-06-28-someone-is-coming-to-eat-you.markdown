@@ -3,7 +3,7 @@ layout: post
 title: "Someone is coming to eat you"
 date: 2012-06-28 08:49
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Michael Lopp, for Rands in Repose, wrote [Someone is Coming to Eat You](http://www.randsinrepose.com/archives/2012/06/28/someone_is_coming_to_eat_you.html), a brilliant article on success and competition, well worth reading.

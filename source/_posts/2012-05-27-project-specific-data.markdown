@@ -3,7 +3,7 @@ layout: post
 title: "Project Specific Data"
 date: 2012-05-27 12:39
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 One of my personal workflow bugbears has always been managing project specific data. Data like project specific contacts (who to call for what for a given project); IP's, logins and passwords (for servers, VPN's, specific applications, client LAN's); and account information (hosting, third party vendors and project specific subscriptions). 

@@ -3,7 +3,7 @@ layout: post
 title: "Text Editing Fonts and Colors"
 date: 2012-02-23 20:33
 comments: true
-categories: 
+categories: [Text Editors, Productivity]
 ---
 
 In [The Markdown Mindset](http://www.hiltmon.com/blog/2012/02/20/the-markdown-mindset/) I described how I use a variety of different editors to write Markdown in different contexts. I also use different fonts and color schemes to help me differentiate as I go along.

@@ -3,7 +3,7 @@ layout: post
 title: "App.Net Funded"
 date: 2012-08-13 12:56
 comments: true
-categories: 
+categories: [Social]
 ---
 
 Today, [App.Net](https://join.app.net) got funded. Not many of us expected that to happen, but it did, and we’re happy to pay our $50 or $100 to kick it off.  Most reports are reporting this service as a paid Twitter clone, and yes, that’s part of it. But the goals are bigger:

@@ -3,7 +3,7 @@ layout: post
 title: "Using Mission Control Desktops"
 date: 2012-06-03 10:01
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 In order to reduce distractions while I am working, yet still have the benefit of having these applications running, I use multiple [Mission Control](http://www.apple.com/macosx/whats-new/mission-control.html) desktops on my Macintosh computers. In short, I work, with focus, on Desktop 1; respond to email on Desktop 2; IM and Tweet from Desktop 3; and manage my time and activity on Desktop 4.

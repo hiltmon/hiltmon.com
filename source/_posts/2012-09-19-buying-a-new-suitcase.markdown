@@ -3,7 +3,7 @@ layout: post
 title: "Buying a new Suitcase"
 date: 2012-09-19 18:18
 comments: true
-categories: 
+categories: Purchasing
 ---
 
 My suitcase broke on the way back to Japan from Australia, so we decided it was time to buy a new one. As usual, the geek in me meant that we could not just run down to the local Yodobashi Camera and purchase the first one we found (although I did spend a lot of time prodding the ones there). I need facts and information to make the right decision. Here's how I chose the one I purchased.

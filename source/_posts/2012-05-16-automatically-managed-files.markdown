@@ -3,7 +3,7 @@ layout: post
 title: "Automatically Managed Files"
 date: 2012-05-16 16:02
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 I'm moving back to the desktop for a while to do some iOS programming. Many of the files on my laptop are auto-managing, so as I am moving the process, I thought I'd share how they are automatically managed using [Hazel](http://www.noodlesoft.com/hazel.php) from NoodleSoft.

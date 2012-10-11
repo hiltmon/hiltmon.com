@@ -3,7 +3,7 @@ layout: post
 title: "Maker's Schedule, Manager's Schedule"
 date: 2012-03-31 12:06
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Classic article by Paul Graham in 2009 called [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).

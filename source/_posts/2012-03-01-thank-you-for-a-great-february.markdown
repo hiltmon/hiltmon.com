@@ -3,7 +3,7 @@ layout: post
 title: "Thank you for a great February"
 date: 2012-03-01 11:13
 comments: true
-categories: 
+categories: [Business]
 ---
 
 It's been two months since I consolidated all my sites into this blog and started writing more. This blog just has a great February and I thought I'd share some stats.

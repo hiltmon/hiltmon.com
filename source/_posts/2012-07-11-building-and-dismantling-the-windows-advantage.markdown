@@ -3,7 +3,7 @@ layout: post
 title: "Building and dismantling the Windows advantage"
 date: 2012-07-11 23:16
 comments: true
-categories: 
+categories: [Microsoft, Windows]
 ---
 
 Horace Dediu, of the excellent Asymco blog, presents some interesting Mac vs PC stats in [Building and dismantling the Windows advantage](http://www.asymco.com/2012/07/04/the-building-and-dismantling-of-the-windows-advantage/). 

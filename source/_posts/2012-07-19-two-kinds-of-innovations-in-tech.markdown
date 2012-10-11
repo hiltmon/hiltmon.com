@@ -3,7 +3,7 @@ layout: post
 title: "Two kinds of innovations in tech"
 date: 2012-07-19 19:07
 comments: true
-categories: 
+categories: [Carriers, News]
 ---
 
 Kevin Kelleher, writing for ReadWriteWeb in [How AT&T & Verizon Learned to Stop Worrying and Love Data Hogs](http://www.readwriteweb.com/mobile/2012/07/how-att-verizon-learned-to-stop-worrying-and-love-data-hogs.php) about AT&T's new pricing model, nails the conclusion in regards to the carriers in the USA:

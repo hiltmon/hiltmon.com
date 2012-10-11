@@ -3,7 +3,7 @@ layout: post
 title: "I love my lawyers"
 date: 2012-06-15 11:17
 comments: true
-categories: 
+categories: [Business]
 ---
 
 As an experienced indie running my own business, there are things I know I am good at, things I know I am passable at and things that I simply cannot do. And one thing I will *not* do is enter into an engagement without a good contract. And I cannot do contracts.  So one of the first things I did when I set up [Noverse](http://www.noverse.com) was to find and engage the best lawyers I could find to take care of this for me.

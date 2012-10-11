@@ -3,7 +3,7 @@ layout: post
 title: "Bread crumbs in Day One"
 date: 2012-01-23 13:09
 comments: true
-categories: 
+categories: Productivity
 ---
 
 I switched over to [Day One](http://dayoneapp.com/) for journaling at the start of the year on a lark, and its become a core part of my process.

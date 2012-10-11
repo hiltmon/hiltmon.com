@@ -3,7 +3,7 @@ layout: post
 title: "Your idea sucks, now go do it anyway"
 date: 2012-02-03 10:26
 comments: true
-categories: 
+categories: Business
 ---
 
 Lovely article by Jason Cohen, worth a read, called [Your idea sucks, now go do it anyway](http://blog.asmartbear.com/your-idea-sucks-now-go-do-it-anyway.html) makes a great point on how the original idea for something usually evolves into something completely different, and success comes from embracing that evolution.

@@ -3,7 +3,7 @@ layout: post
 title: "iPhone Data Plan Follies"
 date: 2012-02-25 10:25
 comments: true
-categories: 
+categories: [iPhone, Carriers]
 ---
 
 This week, three stories came to my attention regarding iPhone data plans and usage: man wins $850 from AT&T for data throttling, Siri is ruining your cellphone service, and its all about the camera.

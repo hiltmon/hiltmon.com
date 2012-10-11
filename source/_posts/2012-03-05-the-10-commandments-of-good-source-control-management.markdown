@@ -3,7 +3,7 @@ layout: post
 title: "The 10 commandments of good source control management"
 date: 2012-03-05 20:36
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Troy Hunt lists the [The 10 commandments of good source control management](http://www.troyhunt.com/2011/05/10-commandments-of-good-source-control.html) in his blog. I use [git](http://git-scm.com/) and [github](https://github.com/hiltmon) for *eveything*, including this web site and blog.

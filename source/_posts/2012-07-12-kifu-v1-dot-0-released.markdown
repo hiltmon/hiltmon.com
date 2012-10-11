@@ -3,7 +3,7 @@ layout: post
 title: "Kifu v1.0 Released"
 date: 2012-07-12 15:56
 comments: true
-categories: 
+categories: [Software]
 ---
 
 [Noverse LLC](http://www.noverse.com) (my company) and the [The Shukai Company LLC](http://www.shukaico.com), is very pleased to announce that [Kifu](http://www.kifuapp.com) v1.0.0 has shipped. And our first customers are already happily using [Kifu](http://www.kifuapp.com) in production. We want to thank all our beta testers and beta clients for testing [Kifu](http://www.kifuapp.com) and helping us make such a great product.

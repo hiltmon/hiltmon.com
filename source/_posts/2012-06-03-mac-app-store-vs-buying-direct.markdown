@@ -3,7 +3,7 @@ layout: post
 title: "Mac App Store vs Buying Direct"
 date: 2012-06-03 16:56
 comments: true
-categories: 
+categories: [Business, Software]
 ---
 
 Jonathan 'Wolf' Rentzsch wrote a great article on [Mac App Store vs Buying Direct](http://rentzsch.tumblr.com/post/24207015641/mac-app-store-vs-buying-direct), positing that application sandboxing tips the scale in buying direct.

@@ -3,7 +3,7 @@ layout: post
 title: "Single-pay, Ad-pay or Both-pay?"
 date: 2012-06-20 10:10
 comments: true
-categories: 
+categories: [Business]
 ---
 
 *Author's note: This article makes no point, takes no stand and argues no single position. I wrote it to see if I could come to come conclusion on which of 'user-pay' vs 'ad-pay' vs 'both-pay' makes sense, and failed. But published it anyway to see if it spurs others smarter than me to explain and solve this conundrum.*

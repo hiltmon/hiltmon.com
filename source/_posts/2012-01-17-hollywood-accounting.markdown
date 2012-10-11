@@ -3,7 +3,7 @@ layout: post
 title: "Hollywood Accounting and SOPA"
 date: 2012-01-17 20:32
 comments: true
-categories: 
+categories:
 ---
 
 Hollywood Accounting refers to the opaque accounting practices used by the film, video and music industry to hyper-inflate expenditures such that their products *never* make any profits so they can then screw artists out of fees and royalties due to them. See a friendlier definition in [wikipedia](http://en.wikipedia.org/wiki/Hollywood_accounting).

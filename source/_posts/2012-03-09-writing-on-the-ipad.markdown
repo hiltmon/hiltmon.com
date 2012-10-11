@@ -3,7 +3,7 @@ layout: post
 title: "Writing on the iPad"
 date: 2012-03-09 11:12
 comments: true
-categories: 
+categories: [iPad, Markdown]
 ---
 
 This comment by *JohnDoey* (reproduced in full without permission) on the Asymco article [The new feeds and speeds: iPad vs. MacBook Air and iMac](http://www.asymco.com/2012/03/08/the-new-feeds-and-speeds/) sums up the iPad writing experience beautifully (although I think the iPad is a good production system too):

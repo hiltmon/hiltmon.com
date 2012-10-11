@@ -3,7 +3,7 @@ layout: post
 title: "iPad 4G Misleading"
 date: 2012-03-27 10:08
 comments: true
-categories: 
+categories: iPad
 ---
 
 As reported in the Verge, [Apple's iPad '4G' advertising labeled misleading by Australian watchdog, may be banned](http://www.theverge.com/2012/3/27/2905415/apple-ipad-4g-misleading-advertising-accc). The same can be said for the fictitious 4G on my iPhone 4S.

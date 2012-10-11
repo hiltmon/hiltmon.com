@@ -3,7 +3,7 @@ layout: post
 title: "The best Sushi"
 date: 2012-09-20 20:02
 comments: true
-categories: 
+categories: Food
 ---
 
 If you love traditional Japanese sushi, not the Western or Californian styles, then I have found the best sushi place in the world. But you had better hurry of you want a chance to eat there, the sushi chef is getting old.

@@ -3,7 +3,7 @@ layout: post
 title: "Less Wasting Time"
 date: 2012-01-26 10:18
 comments: true
-categories: 
+categories: Productivity
 ---
 
 The sub-theme this week is on trying to find ways to improve developer happiness and to reduce unpleasant time wasters.

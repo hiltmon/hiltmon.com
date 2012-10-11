@@ -3,7 +3,7 @@ layout: post
 title: "You're being stalked"
 date: 2012-03-27 10:20
 comments: true
-categories: 
+categories: [Social]
 ---
 
 In the same vein as an earlier article on my blog, [Giving Yourself Away With a Facebook Login](http://www.hiltmon.com/blog/2012/03/24/giving-yourself-away-with-a-facebook-login/), Alexis Madrigal writing in the atlantic in [I'm Being Followed: How Google—and 104 Other Companies—Are Tracking Me on the Web](http://www.theatlantic.com/technology/print/2012/02/im-being-followed-how-google-and-104-other-companies-are-tracking-me-on-the-web/253758/) quotes Joe Turow saying:

@@ -3,7 +3,7 @@ layout: post
 title: "Why Scope Creep is your fault"
 date: 2012-04-25 13:00
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Christopher Butler writes in [Why Scope Creep Is Your Fault (And What You Can Do To Prevent It)](http://www.newfangled.com/why_scope_creep_is_your_fault):

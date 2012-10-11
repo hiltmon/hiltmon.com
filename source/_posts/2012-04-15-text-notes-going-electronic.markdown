@@ -3,7 +3,7 @@ layout: post
 title: "Text Notes - Going Electronic"
 date: 2012-04-15 13:45
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 One of the big changes I made in the last year is how I take and store text notes. By text notes, I mean meeting notes, book lists, blog ideas, thoughts, even project estimates. I've finally gone paperless.

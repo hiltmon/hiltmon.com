@@ -3,7 +3,7 @@ layout: post
 title: "Giving yourself away with a Facebook Login"
 date: 2012-03-24 12:11
 comments: true
-categories: 
+categories: [Social]
 ---
 
 {% blockquote Hilton Lipschitz, right here right now %}

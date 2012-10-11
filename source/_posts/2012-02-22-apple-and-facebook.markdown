@@ -3,7 +3,7 @@ layout: post
 title: "Apple and Facebook"
 date: 2012-02-22 14:05
 comments: true
-categories: 
+categories: [Apple, Social]
 ---
 
 Ben Parr in Cnet's [Apple vs. Facebook: Why users are the losers](http://news.cnet.com/8301-33617_3-57381092-276/apple-vs-facebook-why-users-are-the-losers/) gets it wrong!

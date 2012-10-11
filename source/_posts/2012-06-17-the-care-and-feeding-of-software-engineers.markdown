@@ -3,7 +3,7 @@ layout: post
 title: "The care and feeding of software engineers"
 date: 2012-06-17 13:21
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Nicholas C. Zakas ([@slicknet](https://twitter.com/#!/slicknet)), writing in NCZOnline in [The care and feeding of software engineers (or, why engineers are grumpy)](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/), writes:

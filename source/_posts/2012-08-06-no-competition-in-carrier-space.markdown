@@ -3,7 +3,7 @@ layout: post
 title: "No competition in Carrier space"
 date: 2012-08-06 14:16
 comments: true
-categories: 
+categories: [Carriers]
 ---
 
 If you are looking for more proof that there is no real competition in the US mobile carrier space, check out BGR’s [iPhone: Data caps, upgrade fees blamed on iPhone by AT&T, Verizon](http://www.bgr.com/2012/08/06/iphone-data-caps-upgrade-fees-att-verizon/) by Brad Reed:

@@ -3,7 +3,7 @@ layout: post
 title: "TextExpander in Terminal"
 date: 2012-07-15 10:21
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 I spend a lot of time in Terminal.app mostly running Rails or Git commands. I am also lazy, so I like to use short macros instead of typing in the same thing over and over again. I used to use bash aliases or functions, but I mostly use [TextExpander](http://smilesoftware.com/TextExpander/) snippets now because I like to be sure they don't conflict with internal UNIX commands.

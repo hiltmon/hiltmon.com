@@ -3,7 +3,7 @@ layout: post
 title: "And this is why"
 date: 2012-04-01 12:35
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Life, communication, programming, it's all about structuring a rational argument. But too many people are either unable to, or are unwilling to, rationalize.

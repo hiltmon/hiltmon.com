@@ -3,7 +3,7 @@ layout: post
 title: "New iOS6 Cached Maps"
 date: 2012-09-24 16:37
 comments: true
-categories: 
+categories: iPhone
 ---
 
 One feature I do like about the new Maps in iOS 6, the vectors and data are now cached. Seems the application caches the last viewed maps, so the GPS works rather well when offline.

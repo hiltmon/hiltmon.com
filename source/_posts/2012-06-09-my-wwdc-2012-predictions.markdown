@@ -3,7 +3,7 @@ layout: post
 title: "My WWDC 2012 Predictions"
 date: 2012-06-09 14:36
 comments: true
-categories: 
+categories: [Apple]
 ---
 
 After writing [Annual Apple WWDC Disappointment](http://www.hiltmon.com/blog/2012/06/05/annual-apple-wwdc-disappointment/), several people have asked me what I do expect at the WWDC 2012 keynote, ignoring the rumors. So here it is, my WWDC 2012 keynote predictions, what I think in my opinion, without rumor or factual basis, will be covered at the WWDC 2012 keynote on Monday:

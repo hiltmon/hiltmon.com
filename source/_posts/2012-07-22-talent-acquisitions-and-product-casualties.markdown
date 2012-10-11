@@ -3,7 +3,7 @@ layout: post
 title: "Talent Acquisitions and Product Casualties"
 date: 2012-07-22 10:20
 comments: true
-categories: 
+categories: [News]
 ---
 
 This week, Google [purchased Sparrow SAS](http://www.theverge.com/2012/7/20/3172222/google-buys-sparrow-mail), the company that made the very popular [Sparrow](http://sprw.me/index.php) mail application for Mac and iOS. But they did **not** buy the company for the product, the bought the company for its people - the talent. Sparrow, the product, is done for.

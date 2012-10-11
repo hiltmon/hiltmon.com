@@ -3,7 +3,7 @@ layout: post
 title: "Syncing the Desktop and the Laptop"
 date: 2012-06-29 16:05
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 For the past few years, I have been working about 5&frac12; days a week on the desktop and 1&frac12; days a week on the laptop. The desktop is a monster 8-core Mac Pro with loads of RAM and my good old [23" Cinema HD Display](http://hiltmon.com/blog/2012/05/16/apple-cinema-hd-display-circa-2003/), which makes it perfect for compiling, graphics work and the usual day-to-day work stuff. The laptop is a mid-2009 MacBook Pro 15", perfect for on-site work and demos.

@@ -3,7 +3,7 @@ layout: post
 title: "Thwarted by Patents"
 date: 2012-08-25 11:33
 comments: true
-categories: 
+categories: Patents
 ---
 
 As you all know, teleportation is easy. But one cannot make a teleporter due to the crazy US Patent system. And it's frustrating me.

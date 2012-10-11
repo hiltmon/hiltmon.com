@@ -3,7 +3,7 @@ layout: post
 title: "Another view of the TSA problem"
 date: 2012-04-16 13:53
 comments: true
-categories: 
+categories:
 ---
 
 We all read TSA previous head Kip Hawley's WSJ essay on the weekend entitled [Why Airport Security Is Broken—And How To Fix It](http://online.wsj.com/article/SB10001424052702303815404577335783535660546.html?mod=WSJ_hps_editorsPicks_1) (you may hit the paywall, sorry). If not, read it now, then come back. We'll wait.

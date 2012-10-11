@@ -3,7 +3,7 @@ layout: post
 title: "With In-App Coins, We're all Losers"
 date: 2012-03-17 12:06
 comments: true
-categories: 
+categories: [Business]
 ---
 
 There are a lot of games on the iPhone App Store that offer in-app purchases of game currency in order to enable players to either speed up the game, or to buy their way to higher levels, without adding additional content. Many of these games are offered free (the *freemium* model), but make it difficult to play unless you buy these in-app coins.

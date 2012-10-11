@@ -3,7 +3,7 @@ layout: post
 title: "My first computer - Sinclair ZX81"
 date: 2012-08-01 14:24
 comments: true
-categories: 
+categories: [Computers]
 ---
 
 With the Commodore 64 turning 30 today (See: [BBC News - Commodore 64 turns 30: What do today's kids make of it?](http://www.bbc.co.uk/news/technology-19055707)), I started thinking about my first computer, the Sinclair ZX81 (see it on [Wikipedia](http://en.wikipedia.org/wiki/ZX81)), also called the Timex Sinclair 1000 in the USA.

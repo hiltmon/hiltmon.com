@@ -3,7 +3,7 @@ layout: post
 title: "Stylizing my Services Agreement"
 date: 2012-05-22 14:31
 comments: true
-categories: 
+categories: [Business]
 ---
 
 I believe that everything that a person or company delivers to another should reflect their image, style, nature, professionalism and character. Which is why the look of the [Noverse](http://www.noverse.com) Professional Services Agreement drove me mad.

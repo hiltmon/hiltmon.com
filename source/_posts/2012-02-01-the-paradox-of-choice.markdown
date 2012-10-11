@@ -3,7 +3,7 @@ layout: post
 title: "The paradox of choice"
 date: 2012-02-01 10:41
 comments: true
-categories: 
+categories: Business
 ---
 
 **People desire more choices, yet are unable to choose when the selection is greater, that is the paradox of choice.**

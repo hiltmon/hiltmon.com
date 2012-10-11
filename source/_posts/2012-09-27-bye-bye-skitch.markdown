@@ -3,7 +3,7 @@ layout: post
 title: "Bye bye Skitch, Hello LittleSnapper"
 date: 2012-09-27 15:29
 comments: true
-categories: 
+categories: [Productivity, Reviews]
 ---
 
 ## Bye bye Skitch

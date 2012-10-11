@@ -3,7 +3,7 @@ layout: post
 title: "Don't Panic - Flashback Trojan"
 date: 2012-04-12 10:05
 comments: true
-categories: 
+categories: [News]
 ---
 
 Please read the following list in its entirety before acting:

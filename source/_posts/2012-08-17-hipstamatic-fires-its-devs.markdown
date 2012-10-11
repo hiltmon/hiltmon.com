@@ -3,7 +3,7 @@ layout: post
 title: "Hipstamatic fires its devs"
 date: 2012-08-17 14:08
 comments: true
-categories: 
+categories: News
 ---
 
 Of all the stupid things to do, Hipstamatic fired its 3 devs, 1 designer and writer yesterday. Here’s how it played out on Twitter.

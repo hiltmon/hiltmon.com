@@ -3,7 +3,7 @@ layout: post
 title: "How many 99c apps it takes to afford that guy"
 date: 2012-07-23 10:04
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Drew Crawford, jumping in on the Sparrow story in [Let’s talk about Sparrow](http://sealedabstract.com/rants/lets-talk-about-sparrow/), actually covers another area I have been trying to find the words for, why good, experienced software developers, like myself, cost real money:

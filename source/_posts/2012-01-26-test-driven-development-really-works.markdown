@@ -3,7 +3,7 @@ layout: post
 title: "Test Driven Development Really Works"
 date: 2012-01-26 11:09
 comments: true
-categories: 
+categories: Business
 ---
 
 In 2008, Nachiappan Nagappan, E. Michael Maximilien, Thirumalesh Bhat, and Laurie Williams wrote a paper called [“Realizing quality improvement through test driven development: results and experiences of four industrial teams“](http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf) (PDF link). The abstract:

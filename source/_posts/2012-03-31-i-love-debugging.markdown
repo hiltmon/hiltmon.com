@@ -3,7 +3,7 @@ layout: post
 title: "I love debugging"
 date: 2012-03-31 12:17
 comments: true
-categories: 
+categories: [Software]
 ---
 
 Rob Galankis tongue-in-cheek writing in [Why I hate Test Driven Development](http://altdevblogaday.com/2012/03/30/why-i-hate-tdd/):

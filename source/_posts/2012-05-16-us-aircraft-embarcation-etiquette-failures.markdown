@@ -3,7 +3,7 @@ layout: post
 title: "US Aircraft Embarkation Etiquette Failures"
 date: 2012-05-16 14:08
 comments: true
-categories: 
+categories: [Etiquette]
 ---
 
 I just returned from a European vacation which involved flying in several aircraft from a wide variety of airports. Over the past few years, I have flown throughout the USA on local carriers and there are many things about the local embarcation experience that leaves a lot to be desired. Here are some of my annoyances, with proposed solutions as usual.

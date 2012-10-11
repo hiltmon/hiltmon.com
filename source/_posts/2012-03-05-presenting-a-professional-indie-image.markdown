@@ -3,7 +3,7 @@ layout: post
 title: "Presenting a Professional Indie Image"
 date: 2012-03-05 12:48
 comments: true
-categories: 
+categories: [Business]
 ---
 
 In [Presenting a Professional Indie Image](http://www.noverse.com/blog/2012/03/presenting-a-professional-indie-image/) on the [Noverse Blog](http://www.noverse.com), I present a checklist of all the things you need as an indie to present yourself to strangers via email with some credibility:

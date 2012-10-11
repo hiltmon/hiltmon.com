@@ -3,7 +3,7 @@ layout: post
 title: "Augmented Paper"
 date: 2012-04-16 14:00
 comments: true
-categories: 
+categories: [Design]
 ---
 
 Matt Gemmell wrote yet another brilliant post on what makes a great application interface (with examples) in [Augmented Paper](http://mattgemmell.com/2012/04/13/augmented-paper/):

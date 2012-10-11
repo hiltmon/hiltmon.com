@@ -3,7 +3,7 @@ layout: post
 title: "Childlike Wonder"
 date: 2012-02-01 10:31
 comments: true
-categories: 
+categories: [Business, Design]
 ---
 
 Ever watch a child with an iPad? They seem to get it immediately, they prod and tap and swipe and rotate and in no time at all seem comfortable with it.

@@ -3,7 +3,7 @@ layout: post
 title: "Care"
 date: 2012-08-22 08:58
 comments: true
-categories: 
+categories: [Good Reads]
 ---
 
 {% blockquote Patrick Rhone, http://patrickrhone.com/2012/08/21/how-to-cure-cancer/ %}

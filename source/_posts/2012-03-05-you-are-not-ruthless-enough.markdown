@@ -3,7 +3,7 @@ layout: post
 title: "You Are Not Ruthless Enough"
 date: 2012-03-05 20:57
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Chris Parker writing in [You Are Not Ruthless Enough](http://playswithfire.com/blog/2012/02/19/you-are-not-ruthless-enough/) on being ruthless instead of lax when crafting software:

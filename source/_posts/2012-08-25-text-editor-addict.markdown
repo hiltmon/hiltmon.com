@@ -3,7 +3,7 @@ layout: post
 title: "Text Editor Addict"
 date: 2012-08-25 13:10
 comments: true
-categories: 
+categories: [Text Editors, Productivity]
 ---
 
 Hi, my name is Hilton and maybe, just maybe, I am a text editor addict.

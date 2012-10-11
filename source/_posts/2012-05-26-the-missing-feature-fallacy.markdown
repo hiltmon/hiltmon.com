@@ -3,7 +3,7 @@ layout: post
 title: "The Missing Feature Fallacy"
 date: 2012-05-26 14:56
 comments: true
-categories: 
+categories: [Business]
 ---
 
 If I had a dollar for every time a potential customer told me that they would buy my product if it just had this one missing feature, I'd have enough to pay rent, in a penthouse, in New York, with a view, for a year.

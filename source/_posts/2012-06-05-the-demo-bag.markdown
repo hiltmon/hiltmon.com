@@ -3,7 +3,7 @@ layout: post
 title: "The Demo Bag"
 date: 2012-06-05 12:31
 comments: true
-categories: 
+categories: [Productivity, Reviews]
 ---
 
 I'm demonstrating software this afternoon, so out comes the demo bag. It's a [Cocoon 15" GRID-IT&trade; Case](http://www.cocooninnovations.com/product_info.php?cat_id=50&product_id=225) (not an affiliate link) that I picked up at the local Apple store.

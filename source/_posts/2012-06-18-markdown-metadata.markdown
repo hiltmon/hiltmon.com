@@ -3,7 +3,7 @@ layout: post
 title: "Markdown Metadata"
 date: 2012-06-18 13:31
 comments: true
-categories: 
+categories: [Productivity, Markdown]
 ---
 
 As you all know, I write everything in [Markdown](http://daringfireball.net/projects/markdown/), see my [The Markdown Mindset](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/). It would be nice, though, to also save metadata - information *about* the document - in the document, to make it searchable, but not to have it appear in the final output.

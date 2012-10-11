@@ -3,7 +3,7 @@ layout: post
 title: "Software is Eating the World"
 date: 2012-01-18 09:33
 comments: true
-categories: 
+categories: Software
 ---
 
 Marc Andreessen, writing in the WSJ [Why Software Is Eating The World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html), writes:

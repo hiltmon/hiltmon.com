@@ -3,7 +3,7 @@ layout: post
 title: "US Dining Etiquette Failures"
 date: 2012-04-21 18:13
 comments: true
-categories: 
+categories: [Etiquette]
 ---
 
 I've been living in New York for almost nine years, and I love to go out and eat at all the myriad of restaurants that pepper this town. The variety, quality and prices of food is amazing. But there are still things about the dining experience here that drive me insane. Here are some of my annoyances, with proposed solutions to each of them.

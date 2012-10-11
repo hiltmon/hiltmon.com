@@ -3,7 +3,7 @@ layout: post
 title: "The Candle Problem"
 date: 2012-04-09 11:53
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Graham Morehead, writing in nature.com in [CEOs and the Candle Problem](http://blogs.nature.com/a_mad_hemorrhage/2012/04/02/ceos-and-the-candle-problem) starts:

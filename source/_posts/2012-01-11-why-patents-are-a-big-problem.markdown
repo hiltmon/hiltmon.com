@@ -3,7 +3,7 @@ layout: post
 title: "Why patents are a big problem"
 date: 2012-01-11 09:39
 comments: true
-categories: 
+categories: Patents
 ---
 
 Brad Lindenberg nails it in [Why patents are a big f******* problem](http://www.lindventures.com/blog/2012/01/11/why-patents-are-a-big-fucking-problem/)

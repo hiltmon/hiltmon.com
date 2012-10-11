@@ -3,7 +3,7 @@ layout: post
 title: "2012 iPad Essentials"
 date: 2012-03-17 13:30
 comments: true
-categories: 
+categories: [iPad]
 ---
 
 The new iPad arrived yesterday. Instead of restoring from a backup, I decided to build it clean and install only essential apps.  Here are the ones (*excluding games*) that made it in the first 24 hours, pretty much in order of addition:

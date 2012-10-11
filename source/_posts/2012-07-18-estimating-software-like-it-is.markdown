@@ -3,7 +3,7 @@ layout: post
 title: "Estimating Software like it is"
 date: 2012-07-18 13:45
 comments: true
-categories: 
+categories: [Business]
 ---
 
 Software estimates are hard. Clients expect things to take little time (see [It Should Only Take You a Few Hours...](http://hiltmon.com/blog/2012/01/11/it-should-only-take-you-a-few-hours-dot-dot-dot/)) and cost little money. But the reality is that software is hard, there is lots to do, lots of work over and above just programming and it takes a lot more time and money to make good product. Most people underestimate the work to be done, or *try to make the estimates look good*, so most projects run over time and over budget because of this.

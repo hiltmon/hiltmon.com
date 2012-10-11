@@ -3,7 +3,7 @@ layout: post
 title: "Where is the International News"
 date: 2012-08-20 10:29
 comments: true
-categories: 
+categories: News
 ---
 
 Claire Belinski explains in the badly titled [How to Read Today's Unbelievably Bad News :: Gatestone Institute](http://www.gatestoneinstitute.org/3294/how-to-read-today-unbelievably-bad-news) where good international news coverage has gone.

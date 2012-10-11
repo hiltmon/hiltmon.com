@@ -3,7 +3,7 @@ layout: post
 title: "Annual Apple WWDC Disappointment"
 date: 2012-06-05 08:30
 comments: true
-categories: 
+categories: [Apple]
 ---
 
 It's the annual "week before WWDC" and the rumor mill is going wild. Newspapers and blogs publish wild rumors, people read them as real insider knowledge predictions, and this sets high expectations. Then WWDC happens, Apple releases some amazing products, and these same people are disappointed because the releases don't match their wild expectations. Apple shares fall. Lamentations are written.

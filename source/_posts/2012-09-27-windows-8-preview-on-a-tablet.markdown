@@ -3,7 +3,7 @@ layout: post
 title: "Windows 8 Preview on a Tablet"
 date: 2012-09-27 17:33
 comments: true
-categories: 
+categories: [Microsoft, Windows, Tablet, Reviews]
 ---
 
 While on holiday, I got to play with the Windows 8 Preview on a Samsung tablet. It made some notes of the experience, then decided to wait until I returned home to see what I remembered about the experience.

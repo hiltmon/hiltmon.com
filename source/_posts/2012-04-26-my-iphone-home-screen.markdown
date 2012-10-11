@@ -3,7 +3,7 @@ layout: post
 title: "My iPhone Home Screen"
 date: 2012-04-26 09:22
 comments: true
-categories: 
+categories: [iPhone]
 ---
 
 I have noticed of late a trend in people or sites showing off their iPhone home screens, the first page on your iPhone with the dock, and explaining why they rearranged the applications and icons. Some have even moved the Phone.app off their home screens.

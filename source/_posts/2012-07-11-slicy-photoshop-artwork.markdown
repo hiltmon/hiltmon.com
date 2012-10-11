@@ -3,7 +3,7 @@ layout: post
 title: "Slicy Photoshop Artwork"
 date: 2012-07-11 21:50
 comments: true
-categories: 
+categories: [Reviews]
 alias: /blog/2012/07/11/layer-cake-photoshop-artwork/index.html
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "The Last of the Workstations"
 date: 2012-06-03 13:22
 comments: true
-categories: 
+categories: [Computers]
 ---
 
 {% blockquote %}

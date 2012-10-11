@@ -3,7 +3,7 @@ layout: post
 title: "Products define you"
 date: 2012-01-16 13:03
 comments: true
-categories: 
+categories: Apple
 ---
 
 Dustin Curtis makes an excellent point in his article skewering Visio entitled [The soul of a “consumer electronics entertainment connected scenario”](http://dcurt.is/2012/01/09/consumer-electronics-entertainment-connected-scenarios/):

@@ -3,7 +3,7 @@ layout: post
 title: "Compete to maintain, Disrupt to succeed"
 date: 2012-06-22 12:13
 comments: true
-categories: 
+categories: [Business]
 ---
 
 There is a huge difference between *competing* in a market and *disrupting* a market. When *competing*, a company tries to make a similar product in a given market segment, then competes against incumbent products on price or features to gain share and hopefully profits. When *disrupting*, a company produces a whole new product (or a viable derivative) that creates or changes a market, then dominates share and profits in that segment.

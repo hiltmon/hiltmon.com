@@ -3,7 +3,7 @@ layout: post
 title: "Spike Solutions"
 date: 2012-04-06 10:12
 comments: true
-categories: 
+categories: [Business]
 ---
 
 I am a huge fan of throwing together a few *spike solutions* at the start of a project. I get the biggest technical problems solved early, I gain understanding of any pitfalls I may encounter and I can estimate the time and work better. I highly recommend the practice. A few days spent spiking solutions saves weeks and months later.

@@ -3,7 +3,7 @@ layout: post
 title: "Kinds of Files in a Project Folder"
 date: 2012-07-16 12:47
 comments: true
-categories: 
+categories: [Productivity]
 ---
 
 In preparation for a client call, I wrote a quick and dirty script to count the kinds of files in a project folder to show them what's involved. I wanted a nice presentation, and the files grouped into categories. I also added parameters to *exclude* certain folder patterns from the counter.
