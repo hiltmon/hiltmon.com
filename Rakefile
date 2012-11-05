@@ -9,6 +9,7 @@ ssh_port       = "22"
 document_root  = "~/hiltmon.com/"
 rsync_delete   = true
 deploy_default = "rsync"
+edit_default   = "iA Writer" #"Byword"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
@@ -109,9 +110,9 @@ task :new_post, :title do |t, args|
     post.puts "categories: "
     post.puts "---"
   end
-  # Log to Day One and open it for editing in Byword
-  %x{~/scripts/LogtoDayOne.rb "@hiltmon.com Post: #{title}"}
-  %x{open "#{filename}" -a Byword}
+  # Log to Day One and open it for editing in Edit Default
+  # %x{~/scripts/LogtoDayOne.rb "@hiltmon.com Post: #{title}"}
+  # %x{open "#{filename}" -a "#{edit_default}"}
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
@@ -148,9 +149,9 @@ task :new_page, :filename do |t, args|
       page.puts "footer: true"
       page.puts "---"
     end
-    # Log to Day One and open it for editing in Byword
+    # Log to Day One and open it for editing in Edit Default
     %x{~/scripts/LogtoDayOne.rb "@hiltmon.com Page: #{title}"}
-    %x{open "#{file}" -a Byword}
+    %x{open "#{filename}" -a "#{edit_default}"}
   else
     puts "Syntax error: #{args.filename} contains unsupported characters"
   end
