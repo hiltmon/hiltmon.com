@@ -92,3 +92,4 @@ But there are subtleties that are still driving me nuts:
 
 I’m going to stick with Sublime Text 2 for now, but am keeping an eye out for something better.
 
+See also [Multiple Themes in Sublime Text 2](http://www.hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.
