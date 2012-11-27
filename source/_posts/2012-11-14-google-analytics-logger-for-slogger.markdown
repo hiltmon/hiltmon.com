@@ -21,6 +21,24 @@ Note also that this plugin is only two days old as this gets posted, whereas the
 
 ## Installing the Plugin
 
+Follow these to install and configure the plugin. If any steps are unclear, check out the detailed instructions below.
+
+### Quick Install Instructions
+
+* Install the `google-api-client` gem
+* Save [Gist 4072068](https://gist.github.com/4072068) as `plugins/googleanalyticsclient.rb`
+* Patch `slogger` using [Gist 4072079](https://gist.github.com/4072079)
+* Run `/slogger -o Google` to create the `slogger_config` entry
+* Add your web properties UA codes *and* paste in the client_id and secret
+```
+  client_id: "237632137636.apps.googleusercontent.com"
+  client_secret: "xUgp_NqKHnyJ_b8cwZbR1tnX"
+```
+* Run `/slogger -o Google` again to launch a browser, authenticate and provide an `auth_code`. Paste that into `slogger_config` under `auth_code`.
+* Run `/slogger -o Google` a third time to get an `access_token` and create the first entries
+
+### Detailed Installation Instructions
+
 If you are here, I assume you already have Slogger installed and running. As of writing this, I am on version 2.14.2. 
 
 Open a terminal and `cd` to your slogger folder (in my case that's in `~/Scripts/Slogger`. Run all commands from there.
