@@ -3,7 +3,7 @@ layout: post
 title: "Email Etiquette"
 date: 2012-10-24 15:38
 comments: true
-categories: Etiquette
+categories: [Email, Etiquette]
 ---
 
 I don’t know about you, but I get a lot of emails across a lot of accounts and the time and effort to process my inbox is growing exponentially. I just wish that senders and responders on email would follow some basic etiquette rules that will make our use of email both more pleasant and more productive.

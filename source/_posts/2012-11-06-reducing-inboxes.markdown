@@ -3,7 +3,7 @@ layout: post
 title: "Reducing Inboxes"
 date: 2012-11-06 11:54
 comments: true
-categories: Productivity
+categories: [Email, Productivity]
 ---
 
 We've all heard about [Inbox Zero](http://inboxzero.com), where you try to reclaim your email, your attention and your life by clearing out your email inbox. I needed to reduce the *number* of inboxes first.
