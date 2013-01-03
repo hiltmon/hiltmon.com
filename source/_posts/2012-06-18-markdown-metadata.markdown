@@ -12,7 +12,7 @@ Turns out, [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) (and other
 
 Simply add the metadata to the top of a markdown file as follows:
 
-{% codeblock My Document Metadata lang:text %}
+```
 Title:       |  
 Subtitle:    |  
 Project:     |  
@@ -22,7 +22,7 @@ Web:         http://www.noverse.com
 Date:        June 18, 2012  
 
 Your first paragraph starts here
-{% endcodeblock %}
+```
 
 The metadata is just a set of key-value pairs, where the key is before the `:` and the value after. The keys can be anything you want them to be, although Fletcher Penney, creator of MultiMarkdown, has recommended some standard ones [here](https://github.com/fletcher/MultiMarkdown/wiki/MultiMarkdown-Syntax-Guide). From what I can tell, adding your own makes no difference. So I do.
 
@@ -32,7 +32,7 @@ Also:
 * The metadata block ends with the first blank line.
 * You can have more than one value for a key on a new line, e.g. in my Call Note metadata header:
 
-{% codeblock My Call Metadata lang:text %}
+```
 Called:         Donald  
 In Conference:  Huey
                 Duey
@@ -44,7 +44,7 @@ Web:            http://www.noverse.com
 Date:           June 11, 2012 16:48
 
 Call notes start here
-{% endcodeblock %}
+```
 
 A search for `called donald huey` will find this document easily, even if Huey was quiet for the whole call and does not appear in the notes. Yet if I format this document for HTML or PDF using [Marked](http://markedapp.com), the metadata disappears. Just the way I want it.
 

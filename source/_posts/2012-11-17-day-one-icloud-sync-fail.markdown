@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+> This post seems to have become popular. To clarify, the problem is with iCloud, Day One is just plain brilliant and you should all be using it.
+
 I use the [Day One](http://dayoneapp.com) journalling program a lot, especially to log commits and all social activity using [Slogger](http://ttscoff.github.com/Slogger/). But today I noticed that the Journals on all my devices were out of sync, and new entries created were not passed on to other devices. Somehow, sync was jammed up.
 
 I have Day One on
@@ -17,7 +19,7 @@ I have Day One on
 
 And they are all kept in sync via iCloud. Until 2 days ago. Then  it stopped.
 
-On investigation, it seems there were 29 files inside the iCloud  folder for Day One that were grayed out and displaying the OS X progress bar next to them. From what I could tell, these files were supposed to be downloading from iCloud but did not come in.  For 2 days they dod not download. A check on my iOS devices and the same thing was happening, 29 files were in downloading status and never came down.
+On investigation, it seems there were 29 files inside the iCloud  folder for Day One that were grayed out and displaying the OS X progress bar next to them. From what I could tell, these files were supposed to be downloading from iCloud but did not come in.  For 2 days they did not download. A check on my iOS devices and the same thing was happening, 29 files were in downloading status and never came down.
 
 I tried:
 
@@ -35,3 +37,6 @@ On iOS though, things get hairier. These pending updates prevented Day One from 
 The restores are in progress, and there are the odd Day One crashes as it restores, but the missing entries have already synced.
 
 In short, the black-box nature of iCloud sucks when trying to troubleshoot or fix sync errors. The developer of Day One does not pick sides between iCloud and Dropbox sync. I for one, do recommend you sync your Day One data using Dropbox.
+
+*Follow the author as [@hiltmon](http : //twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+
