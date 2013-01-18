@@ -5,6 +5,7 @@ date: 2012-02-27 22:46
 comments: true
 categories: 
 - Ruby On Rails
+- TextMate
 ---
 
 When I find some Ruby on Rails or Rake tasks running slowly, I throw a quick and dirty profiler around the suspect code to find the bottlenecks with ease.  Here's how I do it, maybe this approach can help you too.

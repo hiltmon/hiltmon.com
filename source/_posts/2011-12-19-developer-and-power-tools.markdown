@@ -11,7 +11,7 @@ Justin Williams has a pretty good list of tools he uses both for daily use and f
 I have quite a few of the same, but several key differences:
 
 * *Acorn* I have, but use Photoshop, Illustrator and [Pixelmator](http://www.pixelmator.com/) a lot more
-* [BBedit](http://www.barebones.com/products/bbedit/) is open all the time, but I use [TextMate](http://macromates.com/) for programming (already switched to Textmate 2 Alpha)
+* [BBedit](http://www.barebones.com/products/bbedit/) is open all the time, but I use [TextMate](http://macromates.com/) for programming (already switched to TextMate 2 Alpha)
 * [Appviz](http://www.ideaswarm.com/AppViz2.html) instead of *Appfigures*
 * The great [Kaleidoscope](http://www.kaleidoscopeapp.com/) for file compares instead of *Changes*
 * Tossing up between [Coda](http://panic.com/coda/) (my old favorite) and [Espresso 2](http://macrabbit.com/espresso/) (because I think the old *CSSEdit* was the best)

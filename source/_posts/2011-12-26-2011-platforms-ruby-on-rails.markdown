@@ -3,7 +3,7 @@ layout: post
 title: "2011 Platforms - Ruby on Rails"
 date: 2011-12-26 11:55
 comments: true
-categories: 
+categories: [ Ruby, Ruby on Rails, TextMate ]
 ---
 
 *Part 2 of the platforms I used in 2011 to make products. See [Part 1 - Objective-C and iOS](http://hiltmon.com/blog/2011/12/26/2011-platforms-objective-c-and-ios/).*

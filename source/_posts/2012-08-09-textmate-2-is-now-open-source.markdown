@@ -3,7 +3,7 @@ layout: post
 title: "Textmate 2 is now Open Source"
 date: 2012-08-09 11:07
 comments: true
-categories: [Text Editors]
+categories: [Text Editors, TextMate]
 ---
 
 My favorite programmers editor of all time, TextMate, recently updated to TextMate 2 Alpha. I’ve been using the alpha for a while, still love it, but it's an alpha release and therefore buggy and slow. So I’ve been trying out Sublime Text 2 as a replacement. So far, I switch between TextMate 2 Alpha and Sublime Text 2 daily, only because closing the last tab in TextMate 2 closes the darn project editor and that annoys me.

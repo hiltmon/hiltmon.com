@@ -3,7 +3,7 @@ layout: post
 title: "Back to TextMate 2"
 date: 2013-01-14 22:01
 comments: true
-categories: [ Text Editors ]
+categories: [ Text Editors, TextMate ]
 ---
 
 I spent the latter half of 2012 trying out new *programmer’s editors*, getting them set up the way I like and getting productive in them. This was no fly-by-night few-hour test, it was full-monty Rails development work for months. Lots of shell scripts, file manipulations, formats, different programming languages, different platforms, all my programming activities.
