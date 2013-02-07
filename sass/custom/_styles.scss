@@ -27,3 +27,20 @@
   letter-spacing: 1px;
   text-decoration: none;
 }
+
+.dark-product {
+  background-color: #333333;
+  color: #FFF;
+  
+  a {
+    color: #7ca9d1;
+  }
+  
+  h1 {
+    color: lighten($header-bg, 75);
+  }
+  
+  img {
+    border: 0;
+  }
+}

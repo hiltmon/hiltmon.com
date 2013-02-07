@@ -6,11 +6,11 @@ comments: true
 categories: [ TimeToCall ]
 ---
 
-*[TimeToCall](http://www.hiltmon.com/timetocall/) is a simple, universal iOS application I developed to help people choose the best time to call when calling internationally. This is is [part 2 is a series of posts](http://www.hiltmon.com/blog/categories/timetocall/) about the thinking and work done. My goal is to share just how much effort it really does take to craft an iOS app and ship it. I hope this series helps you to understand why it costs so much and takes so long to create beautiful software.*
+*[TimeToCall]({{ root_url }}/timetocall/) is a simple, universal iOS application I developed to help people choose the best time to call when calling internationally. This is [**part 2** in a series of posts]({{ root_url }}/blog/categories/timetocall/) about the thinking and work done. My goal is to share just how much effort it really does take to craft an iPhone app and ship it. I hope this series helps you to understand why it costs so much and takes so long to create beautiful software. [Read part 1 first]({{ root_url }}/blog/2013/01/29/timetocall-the-effort-and-the-return/).*
 
 ## The Core Was Easy
 
-Building the core code for [TimeToCall](http://www.hiltmon.com/timetocall/) was most certainly the easiest part of the whole process. The iOS libraries are spectacularly easy to work with and the architecture of the application is very simple.
+Building the core code for [TimeToCall]({{ root_url }}/timetocall/) was most certainly the easiest part of the whole process. The iOS libraries are spectacularly easy to work with and the architecture of the application is very simple.
 
 In this post, I'll give an overview of the default app that Xcode provides and the areas customized. Although this part of the series *may* be the most technical, I hope show that there is a lot of work that needs to be done to change the default app into something beautiful.
 
@@ -18,7 +18,7 @@ If I had to pull out a lesson from this, I would say that I spent too much time 
 
 ## The Core Program
 
-[TimeToCall](http://www.hiltmon.com/timetocall/) started life as a standard iOS “Master-Detail Application”, universal (so iPad and iPhone), ARC enabled, with StoryBoards and Core Data off. I turned Core Data off because the data model is too simple, and I turned StoryBoards off because I used them in the last project and was planning on writing this one without `Xib` files (think of these as visual GUI files, but they are a whole bunch more).
+[TimeToCall]({{ root_url }}/timetocall/) started life as a standard iOS “Master-Detail Application”, universal (so iPad and iPhone), ARC enabled, with StoryBoards and Core Data off. I turned Core Data off because the data model is too simple, and I turned StoryBoards off because I used them in the last project and was planning on writing this one without `Xib` files (think of these as visual GUI files, but they are a whole bunch more).
 
 Without writing a single line of code, this standard iOS app gives you a Master and Detail view controller, rotation, popovers, iPhone and iPad Xibs and a simple array of objects as the data model. That's brilliant.
 
@@ -78,7 +78,7 @@ I needed a database of places that we humans think of with a mapping to timezone
 
 ### Standardizing the Data Model
 
-[TimeToCall's](http://www.hiltmon.com/timetocall/) computation is quite simple, it takes a time in a given timezone and displays the same time in other timezones and calculates earlier or later for optimization. To make it even easier, the iOS libraries have `NSCalendar`, `NSDateFormatter`, `NSTimeZone`, `NSDateComponents` and `NSDate` classes that can be combined to do this conversion and presentation.
+[TimeToCall's]({{ root_url }}/timetocall/) computation is quite simple, it takes a time in a given timezone and displays the same time in other timezones and calculates earlier or later for optimization. To make it even easier, the iOS libraries have `NSCalendar`, `NSDateFormatter`, `NSTimeZone`, `NSDateComponents` and `NSDate` classes that can be combined to do this conversion and presentation.
 
 Or not.
 
@@ -104,10 +104,16 @@ I prefer the right approach, to separate the model from the controllers and to u
 
 If you look at the app, you'll see that both the Master and Detail views present data for a `CallZone`. They both display the clock, they both display the adjusted times, and they both display the images for the day period (morning, night). I had not created custom views for each because the layout of each was different. But I did have the same code in both of these views to determine *what* to display. Which meant, as I was iterating, that I would always have to change code in two places.
 
-For a simple app like [TimeToCall](http://www.hiltmon.com/timetocall/), that's not really a problem. For a more complex app, duplicated code becomes a maintenance and iterative nightmare and actually *increases* to time to develop it. You have to *remember* to make the same change all over the place.
+For a simple app like [TimeToCall]({{ root_url }}/timetocall/), that's not really a problem. For a more complex app, duplicated code becomes a maintenance and iterative nightmare and actually *increases* to time to develop it. You have to *remember* to make the same change all over the place.
 
 So I created another class to help with the presentation of a `CallZone`, with tools for displaying the time, managing the clock face, and displaying the image and time of day for each destination. This *helper* class is used by all tableview cells. With this modularized code, I can use the same class to help display the `CallZone` consistently without having to duplicate code in views. It also meant I could iterate on the customization a lot faster and get the product completed a lot quicker too.
 
-[TimeToCall](http://www.hiltmon.com/timetocall/) will be on the App Store soon for 99c. In the mean time, feel free to follow this [series of posts](http://www.hiltmon.com/blog/categories/timetocall/) about making and polishing this app.
+**Next:** [Part 3: The Biggest Design Decision]({{ root_url }}/blog/2013/01/31/timetocall-the-biggest-design-decision/).
+
+---
+&nbsp;  
+*[TimeToCall]({{ root_url }}/timetocall/) can be downloaded from the [App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8) for 99c.*
+
+*I hope you enjoy [this series of articles]({{ root_url }}/blog/categories/timetocall/) on what goes in to the design and development of an iPhone or iPad application, and have a better feel for why these things take so much time and cost so much. If you like them, buy [TimeToCall]({{ root_url }}/timetocall/) from the [App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8), it helps me continue to write, and please tell your friends about these articles and this product.*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

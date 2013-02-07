@@ -6,11 +6,11 @@ comments: true
 categories: [ TimeToCall ]
 ---
 
-*[TimeToCall](http://www.hiltmon.com/timetocall/) is a simple, universal iOS application I developed to help people choose the best time to call when calling internationally. This is is [part 1 is a series of posts](http://www.hiltmon.com/blog/categories/timetocall/) about the thinking and work done. My goal is to share just how much effort it really does take to craft an iOS app and ship it. I hope this series helps you to understand why it costs so much and takes so long to create beautiful software.*
+*[TimeToCall]({{ root_url }}/timetocall/) is a simple, universal iOS application I developed to help people choose the best time to call when calling internationally. This is [**part 1** in a series of posts]({{ root_url }}/blog/categories/timetocall/) about the thinking and work done. My goal is to share just how much effort it really does take to craft an iPhone app and ship it. I hope this series helps you to understand why it costs so much and takes so long to create beautiful software.*
 
 ## The Application Scope
 
-[TimeToCall](http://www.hiltmon.com/timetocall/) is a very simple universal application that contains only four views. Users can create named *Times to Call* to figure out when it is best to call a set of foreign locations. For more about what the application does, see the [TimeToCall](http://www.hiltmon.com/timetocall/) product page.
+[TimeToCall]({{ root_url }}/timetocall/) is a very simple universal application that contains only four views. Users can create named *Times to Call* to figure out when it is best to call a set of foreign locations. For more about what the application does, see the [TimeToCall]({{ root_url }}/timetocall/) product page.
 
 In order to achieve this limited scope, I constructed four views:
 
@@ -58,7 +58,7 @@ If I sell 30,000 copies, I earn $21,000, or a $6,000 profit. Sounds good. Or 40,
 
 **But what is the *probability* of actually getting these sales numbers?** Well, if you Google around, you’ll find an *old* study that shows more than half of the *paid* apps on the App Store sell less than 10,000 copies (after they took out outliers). You’ll also find lots of articles on the few outliers who did sell millions and how they are taking a growing lion’s share of revenue out of the App store. And then there are lots of articles containing total download figures that include the millions of free app downloads, so it sorta kinda seems all apps do well.
 
-Within all that noise is this truth. **The *majority* of *paid* apps on the App Store don’t even get close to 5,000 units sold, never-mind the old study’s 10,000 figure**.  Which means the probability of [TimeToCall](http://www.hiltmon.com/timetocall/) achieving *less than one third* of the sales needed to break even is above 60%. Economically, it’s almost guaranteed to be a disaster, a loss making exercise.
+Within all that noise is this truth. **The *majority* of *paid* apps on the App Store don’t even get close to 5,000 units sold, never-mind the old study’s 10,000 figure**.  Which means the probability of [TimeToCall]({{ root_url }}/timetocall/) achieving *less than one third* of the sales needed to break even is above 60%. Economically, it’s almost guaranteed to be a disaster, a loss making exercise.
 
 ## My Expectations
 
@@ -81,6 +81,12 @@ I wanted to do this for several reasons:
 * I needed an app on the App store for portfolio purposes. I had pulled my old apps over a year ago as they did not reflect my current skill-set. And they were not really selling anyway. But clients do ask if there is an app they can download to get a feel for what I can produce.
 * I wanted a real-world but fenced application development process to write about. I feel that there really does need to be a documented real-world example that helps potential clients to understand all that goes in to an app and why it costs what it does and takes as long as it does.
 
-[TimeToCall](http://www.hiltmon.com/timetocall/) will be on the App Store soon for 99c. In the mean time, feel free to follow this [series of posts](http://www.hiltmon.com/blog/categories/timetocall/) about making and polishing this app.
+**Next:** [Part 2: Building the Core]({{ root_url }}/blog/2013/01/30/timetocall-building-the-core/).
+
+---
+&nbsp;  
+*[TimeToCall]({{ root_url }}/timetocall/) can be downloaded from the [App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8) for 99c.*
+
+*I hope you enjoy [this series of articles]({{ root_url }}/blog/categories/timetocall/) on what goes in to the design and development of an iPhone or iPad application, and have a better feel for why these things take so much time and cost so much. If you like them, buy [TimeToCall]({{ root_url }}/timetocall/) from the [App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8), it helps me continue to write, and please tell your friends about these articles and this product.*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
