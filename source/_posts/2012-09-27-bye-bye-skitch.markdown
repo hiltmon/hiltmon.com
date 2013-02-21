@@ -6,6 +6,8 @@ comments: true
 categories: [Productivity, Reviews]
 ---
 
+*Editor's Note: Written six months ago, I've since moved on to using [Glui - a better Skitch](http://www.hiltmon.com/blog/2013/02/20/glui-a-better-skitch/) to replace Skitch.*
+
 ## Bye bye Skitch
 
 I’ve been using [Skitch](https://skitch.com) to grab screenshots since the first beta was announced way back in June, 2007. I paid for Skitch Plus in February 2011 because I loved the product, and the work by [Plasq](http://plasq.com), so much. Then [Evernote](http://evernote.com) purchased Skitch and I hoped that they would not mess it up.
