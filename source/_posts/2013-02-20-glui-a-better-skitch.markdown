@@ -22,7 +22,7 @@ I just wanted an app that just does the following like the original [Skitch](htt
 
 In comparison, I’ve tried, and still use:
 
-* [LittleSnapper](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Flittlesnapper%252Fid403489261%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30), but it is better as a image archive and search tool. And it takes two steps to drag an image out for use in the blog.
+* [LittleSnapper](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Flittlesnapper%252Fid403489261%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30), but it is better as an image archive and search tool. And it takes two steps to drag an image out for use in the blog.
 * [Napkin](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fnapkin-concise-image-annotation%252Fid581789185%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30), which creates amazing callouts and I use that for heavy duty annotations. But it hangs around wanting to save its document.
 * [Clarify](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fclarify%252Fid455888980%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30), but that is better for multi-image, document preparation. Way too heavy duty.
 
