@@ -78,3 +78,7 @@ table th[align="right"], table td[align="right"] {
 table th[align="center"], table td[align="center"] {
   text-align:center;
 }
+
+span.light {
+  color: lighten($header-bg, 33);
+}

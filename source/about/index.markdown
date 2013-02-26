@@ -7,11 +7,11 @@ sharing: true
 footer: true
 ---
 
+{% img left /images/the_hiltmon_2012.jpg 200 200 %}
+
 My name is **Hilton Lipschitz**, but everybody calls me **hiltmon**.  I am the designer, consultant,  programmer, and owner of [Noverse LLC](http://www.noverse.com), an independent iOS (iPad, iPhone and iPod Touch), Macintosh (OS X) and Web (Ruby on Rails) product development company, based in New York, USA.
 
-{% img /images/the_hiltmon_2012.jpg 400 400 %}
-
-My background is varied, born in South Africa, bred in Australia, lived in Japan and now in New York.  I have been a programmer for over 22 years, a project manager on some large and complex projects in the 1990's and more recently, a CTO at two hedge funds.  Having been there and done that, I decided over 2 years ago to go indie, to consult, to make my own products and to help others make amazing brilliant software products.
+My background is varied: born in South Africa, bred in Australia, lived in Japan and now in New York.  I have been a programmer for over 22 years, a project manager on some large and complex projects in the 1990's and more recently, a CTO at two hedge funds.  Having been there and done that, I decided over 2 years ago to go indie, to consult, to make my own products and to help others make amazing brilliant software products.
 
 I have released one awesome web product so far:
 
@@ -21,11 +21,15 @@ I have released one awesome web product so far:
 
 On the iOS side:
 
+{% img left /images/timetocall-44.png 44 44 %}
+
+[TimeToCall]({{ root_url }}/timetocall/) is an iPhone and iPad app to show you the best time to call overseas. Play with time to find the right time across a wide variety of places.
+
 {% img left /images/oo-44.png 44 44 %}
 
 If you live in Australia or New Zealand, grab the [oo.com.au](http://itunes.apple.com/au/app/oo-com-au/id422693241) iPhone app, allowing you to browse and purchase the great products offered by [oo.com.au](http://www.oo.com.au).
 
-I had a few old iOS applications on the App Store, *but took them down as they no longer showcase my talents*.
+I have also released a whole bunch of free code, bundles and themes for developers to share, see my [code]({{ root_url }}/code/) page.
 
 You can get in touch with me using any of the methods below. **Note**: If you’re interested in contacting me for business reasons (such as enquiring about my [development services](http://www.noverse.com/services/), please instead use the contact information on my business site, [Noverse.com](http://www.noverse.com)).
 

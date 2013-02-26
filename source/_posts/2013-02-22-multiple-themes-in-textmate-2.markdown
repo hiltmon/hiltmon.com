@@ -16,7 +16,7 @@ Turns out, not so easy *yet*. But I have it working now:
 
 Since TextMate 2 does not *yet* support multiple themes by file type, you can still create a single theme that has multiple presentations using TextMate 2's brilliant scope selectors. In my case, I use a variant of Ryan Bates' lovely [RailsCasts](http://railscasts.com/about) theme for coding and a modified light theme for Markdown and text files.
 
-You can download my [CombinedCasts.tmTheme here](https://gist.github.com/hiltmon/5017393). Just save the text to a file as `CombinedCasts.tmTheme` and double-click to install.
+You can download my [CombinedCasts.tmTheme]({{ root_url }}/files/CombinedCasts.tmTheme) here. Double-click to install.
 
 But creating a theme for TextMate 2 (or Sublime Text 2) is hard. You see, the theme file is actually a `.plist` file which is a large and complex XML file. I don't know about you, but I find them hard to navigate and edit.
 
