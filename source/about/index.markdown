@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-{% img left /images/the_hiltmon_2012.jpg 200 200 %}
+{% img left /images/the_hiltmon_2013.jpg 200 270 %}
 
 My name is **Hilton Lipschitz**, but everybody calls me **hiltmon**.  I am the designer, consultant,  programmer, and owner of [Noverse LLC](http://www.noverse.com), an independent iOS (iPad, iPhone and iPod Touch), Macintosh (OS X) and Web (Ruby on Rails) product development company, based in New York, USA.
 
@@ -46,6 +46,6 @@ You can get in touch with me using any of the methods below. **Note**: If you’
 
 ## About this blog
 
-This blog is built and published with the wonderful [Octopress](http://octopress.org), using [Disqus](http://www.disqus.com) for comments. Every article (and indeed almost everything I write) is crafted in [Markdown](http://daringfireball.net/projects/markdown/). My host is [Dreamhost](http://dreamhost.com/).  Huge thanks to [Matt Legend Gemmell](http://mattgemmell.com) for pointing out this technology (and inadvertently providing the framework for this about page).
+This blog is built and published with the wonderful [Octopress](http://octopress.org), using [Disqus](http://www.disqus.com) for comments. Every article (and indeed almost everything I write) is crafted in [Markdown](http://daringfireball.net/projects/markdown/). My host is [Dreamhost](http://dreamhost.com/).  <a href="https://secure.buyreply.net/Order/MicroCart/hiltmon?DONATE=1" target="_blank">Donation links</a> are provided by [BuyReply](http://www.buyreply.com) with payments processed by [Stripe](http://www.stripe.com).  Huge thanks to [Matt Legend Gemmell](http://mattgemmell.com) for pointing out this technology (and inadvertently providing the framework for this about page).
 
 All of the content on this site is made available at no charge, for the benefit of the community. Please don’t reproduce the entire content (or very substantial portions) of any article without asking first.
