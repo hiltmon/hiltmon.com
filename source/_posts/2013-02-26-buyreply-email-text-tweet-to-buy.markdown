@@ -18,7 +18,7 @@ Here's how it works. A vendor *pops* an easy-to-remember email address, SMS numb
 
 <a href="https://secure.buyreply.net/Order/MicroCart/hiltmon?DONATE=1" target="_blank"><img class="left" src="/images/buyreply-arrow.png" width="33" height="33" style="border:0;margin-right:6px;"></a> *Try it: **text*** `DONATE` *to* `+1 (917) 512-5277`
 
-The next time you use email, text or tweet to buy, [BuyReply's](http://www.buyreply.com/) online [wallet](http://www.buyreply.com/wallet) remembers your details and all you need to do it tap the confirmation link they send you and enter your password to buy the next product. *No more checkout, no more nags or up-sells, no more re-enter your details, no more decline to join the mailing lists, no more next, next, next; **just tap, password and it's bought**.* You can visit your [wallet](http://www.buyreply.com/wallet) on the web to see your purchase history in one place.
+The next time you use email, text or tweet to buy, [BuyReply's](http://www.buyreply.com/) online [wallet](http://www.buyreply.com/wallet) remembers your details and all you need to do it tap the confirmation link they send you to buy the next product. *No more checkout, no more nags or up-sells, no more re-enter your details, no more decline to join the mailing lists, no more next, next, next; **just tap and it's bought**.* You can visit your [wallet](http://www.buyreply.com/wallet) on the web to see your purchase history in one place.
 
 <a href="https://secure.buyreply.net/Order/MicroCart/hiltmon?DONATE=1" target="_blank"><img class="left" src="/images/buyreply-arrow.png" width="33" height="33" style="border:0;margin-right:6px;"></a> *Try it: **tweet*** `DONATE` *to* `@ShopHiltmon`
 
