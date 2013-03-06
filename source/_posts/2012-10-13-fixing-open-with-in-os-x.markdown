@@ -3,7 +3,7 @@ layout: post
 title: "Fixing Open With in OS X"
 date: 2012-10-13 12:11
 comments: true
-categories: 
+categories: [ OS X ]
 ---
 
 If you use the **Open With...** contextual menu on OS X (right-click on a file in Finder), you may find a lot of applications get duplicated or are just plain wrong. This is how you reset this menu.
