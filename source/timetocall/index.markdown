@@ -8,6 +8,7 @@ footer: false
 sidebar: false
 no_header: true
 ---
+
 [{% img left /images/timetocall-57.png 57 57 %}](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8)
 {% img right /images/timetocall-iphone-detail.jpg 300 634 %}
 [{% img right /images/Available_on_the_App_Store_Badge_US-UK_135x40.svg 203 60 %}](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8)
@@ -35,3 +36,8 @@ no_header: true
 A [Noverse](http://www.noverse.com) production.
 
 Email [Noverse Support](mailto:support@noverse.com) for help with **TimeToCall** or [Hire Me](http://www.noverse.com/hire-us/) to craft your own quality Macintosh, iPhone, iPad or Web Application.
+
+## Press
+
+* The initial [press release](http://www.noverse.com/blog/2013/02/timetocall-released-to-the-app-store/) is on the Noverse site.
+* Artwork and Images available in the [Press Kit](./press-kit.html)
