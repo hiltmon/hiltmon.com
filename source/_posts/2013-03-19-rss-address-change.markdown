@@ -15,7 +15,7 @@ It looks like Google is about to kill off [Feedburner](http://feedburner.google.
 
 New subscribers will get the new link when you subscribe from my toolbar or your browser bar.
 
-The feed at Feedburner will continue to work until the Google actually kills it (it picks up the data directly from my feed anyway). And you can always get notified of new posts by following me at [Twitter]((http://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon) or [Facebook](https://www.facebook.com/hiltmoncom).
+The feed at Feedburner will continue to work for a while, then redirect you to the old one (it picks up the data directly from my feed anyway). And you can always get notified of new posts by following me at [Twitter]((http://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon) or [Facebook](https://www.facebook.com/hiltmoncom).
 
 I know it's a pain to make this change, but re-subscribing means I have one less terminally ill Google service for us to rely on and you have one less channel where Google tracks you.
 
