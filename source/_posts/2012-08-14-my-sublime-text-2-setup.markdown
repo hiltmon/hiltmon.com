@@ -6,7 +6,7 @@ comments: true
 categories: [Text Editors, Productivity]
 ---
 
-I have been using Sublime Text 2 for a month or so now, and I still do *not* love it. Here’s hoping TextMate 2 gets it’s game on. But at least I have it working closer to the way I want it to work and look now. Here are the minor changes I have made to make it work for me and how it compares to TextMate 2.
+I have been using Sublime Text 2 for a month or so now, and I still do *not* love it. Here’s hoping TextMate 2 gets it’s game on. But at least I have it working closer to the way I want it to work and look now. Here are the minor changes I have made to make it work for me and how it compares to TextMate 2  <span class="light">(Updated: See [My TextMate 2 Setup - The Hiltmon](http://www.hiltmon.com/blog/2013/04/15/my-textmate-2-setup/)).</span>
 
 ## Packages
 

@@ -3,12 +3,12 @@ layout: post
 title: "Google Analytics for Status Board"
 date: 2013-04-10 12:15
 comments: true
-categories: 
+categories: [ Status Board ]
 ---
 
 I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's new [Status Board app](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). Here is how I got it to work.
 
- <span class="light">Update: Also added a script for [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/).</span>
+<span class="light">Update: Also added a script for [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) and for [Hourly Stats](http://www.hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/).</span>
 
 **Warning: Very geeky. Use at your own peril. Only tested in my environment.**
 
@@ -42,7 +42,9 @@ Edit the script to change:
 * The **email** and **password** you use to access Google Analytics.
 * The **title**, **file_name** and **dropbox_path** to save the data on your computer and dropbox.
 
-Run the script to see if both the CSV and JSON get created in the required dropbox folder.
+***Note:** This script uses the **first** account. If you want to use a different account, comment out line 43 and uncomment line 44, replacing the `1` with the index of the account you want to use. Download, modify and run the script from [https://gist.github.com/hiltmon/5373934](https://gist.github.com/hiltmon/5373934) to see what indexes are available.*
+
+Run the modified script to see if both the CSV and JSON get created in the required dropbox folder.
 
 ### Step 3: Schedule it to Run
 
