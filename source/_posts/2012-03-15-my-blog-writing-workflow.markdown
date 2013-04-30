@@ -3,7 +3,7 @@ layout: post
 title: "My Blog Writing Workflow"
 date: 2012-03-15 14:52
 comments: true
-categories: [Markdown, Productivity]
+categories: [Markdown, Productivity, Octopress]
 ---
 
 With the release of [Byword for iOS](http://itunes.apple.com/us/app/byword/id482063361?mt=8) (iTunes app store link), my blog writing workflow has come full circle.

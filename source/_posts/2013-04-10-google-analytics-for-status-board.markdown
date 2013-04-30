@@ -8,7 +8,7 @@ categories: [ Status Board ]
 
 I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's new [Status Board app](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). Here is how I got it to work.
 
-<span class="light">Update: Also added a script for [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) and for [Hourly Stats](http://www.hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/).</span>
+<span class="light">Update: Also added a script for [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), for [Hourly Stats](http://www.hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/) and for [OS and Browser Stats](http://www.hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
 
 **Warning: Very geeky. Use at your own peril. Only tested in my environment.**
 
@@ -26,10 +26,11 @@ However the `gattica` gem requires a build because the posted one is too old:
 
 	$ git clone git://github.com/chrisle/gattica.git
 	$ cd gattica/
+	$ bundle install
 	$ gem build gattica.gemspec
 	$ sudo gem install gattica-0.6.2.gem
 	
-*Note: You may need to install the default `gattica` gem and then do the build (happened on my test machine) in order to get dependencies.*
+*Update: Added the `bundle install` step to install dependencies. No need to install the old gem first as per old instructions and comments below. You may need to `sudo bundle install` on a production box.*
 
 ### Step 2: Configure the Script
 
@@ -72,6 +73,8 @@ Follow the instructions in [Graph Tutorial (PDF)](http://www.panic.com/statusboa
 Enjoy.
 
 Thanks to [Panic](http://www.panic.com) for creating such a lovely tool.
+
+*Update: All the scripts can be downloaded from Github at [https://github.com/hiltmon/status-board-ga](https://github.com/hiltmon/status-board-ga).*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

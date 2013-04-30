@@ -3,7 +3,7 @@ layout: post
 title: "Google Analytics Logger for Slogger"
 date: 2012-11-14 09:14
 comments: true
-categories: 
+categories: Slogger
 ---
 
 This article explains how to set up Brett Terpstra's [Slogger](http://ttscoff.github.com/Slogger/) with a new plugin to journal your daily Google Analytics site stats. This plugin supports:

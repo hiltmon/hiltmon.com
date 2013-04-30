@@ -3,7 +3,7 @@ layout: post
 title: "Too Many Menu Bar Apps?"
 date: 2012-10-16 17:27
 comments: true
-categories: Productivity
+categories: [ Productivity, Slogger ]
 ---
 
 These days, in order to maximize my productivity, I seem to be running a lot of menu bar apps on my Macintosh OS X system. So many that I had to buy a menu bar manager, [Bartender](http://www.macbartender.com)! *Add what you use in the comments.*

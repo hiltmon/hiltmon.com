@@ -3,7 +3,7 @@ layout: post
 title: "All to Octopress"
 date: 2012-02-16 19:51
 comments: true
-categories: 
+categories: [ Octopress ]
 ---
 
 I have moved all of my sites over to [Octopress](http://octopress.org/) by [Brandin Mathis](http://brandonmathis.com/). This means [hiltmon.com](http://www.hiltmon.com), [noverse.com](http://www.noverse.com) and [shukaico.com](http://www.shukaico.com) are all on the same platform.

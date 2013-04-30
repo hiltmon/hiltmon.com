@@ -3,7 +3,7 @@ layout: post
 title: "Migrating to Octopress"
 date: 2011-11-22 20:10
 comments: true
-categories: 
+categories: [ Octopress ]
 ---
 
 Over the years I have created a series of blogs, but never found my voice.  It's time to do it better.  So here it is, my voice, my errors, my opinions, my mistakes, my soapbox, and maybe, just maybe, someday I'll write something interesting, *in my voice*.

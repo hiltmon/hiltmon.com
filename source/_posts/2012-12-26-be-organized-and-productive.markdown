@@ -3,7 +3,7 @@ layout: post
 title: "Be Organized and Productive"
 date: 2012-12-26 16:59
 comments: true
-categories: [ Productivity ]
+categories: [ Productivity, Slogger ]
 ---
 
 The theme of 2012 was all about getting organized and productive using software. I may have spent 2012 developing [Kifu](http://www.kifuapp.com) and some internal applications for clients, but I spent a lot of time this year getting better organized and more productive on my Mac. *It’s ridiculous how much this has paid off.*

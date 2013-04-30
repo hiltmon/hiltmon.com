@@ -3,7 +3,7 @@ layout: post
 title: "Yahoo Finance Logger for Slogger"
 date: 2012-12-01 16:24
 comments: true
-categories: 
+categories: [ Slogger ]
 ---
 
 One thing I find myself doing every once in a while is trying to find out the [$AAPL](http://www.google.com/finance?q=NASDAQ:AAPL) share price for a given date. This usually requires a trip to Google Finance or Yahoo Finance and a need to download a data table to find what I need.

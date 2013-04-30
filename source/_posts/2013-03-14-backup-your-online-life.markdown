@@ -3,7 +3,7 @@ layout: post
 title: "Backup Your Online Life"
 date: 2013-03-14 14:15
 comments: true
-categories: 
+categories: [ Slogger ]
 ---
 
 The big tech news today is that Google is shutting down its Reader RSS Sync service, and my Twitter and App.Net feeds are full of people upset about it. 

@@ -8,7 +8,7 @@ categories: [ Status Board ]
 
 Following up last week's [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph and [Top Pages](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) table on [Status Board](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30), a reader asked for **hourly stats** instead of daily, so I created it (see the bottom-right graph).
 
-<span class="light">See also [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) and [Daily Stats](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/).</span>
+<span class="light">See also [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), [Daily Stats](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) and [OS and Browser Stats](http://www.hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
 
 {% img /images/status-board-hourly.jpg 640 480 %}
 
@@ -46,5 +46,7 @@ Follow the instructions in [Graph Tutorial (PDF)](http://www.panic.com/statusboa
 * Add a new **graph** to your Status Board and paste in the link (it offers to do this by default).
 
 Enjoy.
+
+*Update: All the scripts can be downloaded from Github at [https://github.com/hiltmon/status-board-ga](https://github.com/hiltmon/status-board-ga).*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

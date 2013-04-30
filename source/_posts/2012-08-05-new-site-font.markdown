@@ -3,7 +3,7 @@ layout: post
 title: "New Site Font"
 date: 2012-08-05 15:33
 comments: true
-categories: [Design]
+categories: [Design, Octopress]
 ---
 
 I love [Octopress](http://octopress.org), but I have never been happy with the default fonts. The default [PT Sans](http://www.google.com/webfonts/specimen/PT+Sans) and [PT Serif](http://www.google.com/webfonts/specimen/PT+Serif) fonts are very, very nice, but not awesome. I did like the X and Y height, the clarity, the ease of reading, but the letterspacing on the serif font was too tight and it started to look jaggy.

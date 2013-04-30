@@ -3,7 +3,7 @@ layout: post
 title: "Octopress Post and Publish"
 date: 2012-07-18 18:01
 comments: true
-categories: [Productivity]
+categories: [Productivity, Octopress]
 ---
 
 Since this site is getting larger and it's running on [Octopress](http://octopress.org), the `rake generate` and `rake preview` processes are getting slower. Enter `rake isolate["x"]` to isolate the site down to the selected post. But isolating requires me to note the file name down, there is too much to remember and type and I am lazy.
