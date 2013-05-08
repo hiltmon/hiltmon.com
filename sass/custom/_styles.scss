@@ -118,8 +118,11 @@ span.light {
 }
 
 .footnotes {
-  padding-top: 12px;
   font-size: 13px;
   line-height: 16px;
   color: #666;
+  
+  p {
+	  margin-bottom: 6px;
+  }
 }
