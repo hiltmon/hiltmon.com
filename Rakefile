@@ -10,7 +10,7 @@ document_root  = "~/hiltmon.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
-edit_default   = "iA Writer" #"Byword"
+edit_default   = "Byword"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"

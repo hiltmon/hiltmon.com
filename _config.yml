@@ -76,8 +76,6 @@ github_skip_forks: true
 # Twitter
 twitter_user: hiltmon
 twitter_tweet_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
