@@ -3,7 +3,7 @@ layout: post
 title: "Add Web Clip Icons to Octopress"
 date: 2013-02-10 13:57
 comments: true
-categories: [ web ]
+categories: [ web, Octopress ]
 ---
 
 The default [Octopress](http://octopress.org) setup includes a `favicon.png` which enables you to place your own tiny icon to the left of the URL in most browsers. You should see a small blue cog there now.

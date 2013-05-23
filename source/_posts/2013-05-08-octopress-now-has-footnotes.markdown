@@ -3,7 +3,7 @@ layout: post
 title: "Octopress now has Footnotes"
 date: 2013-05-08 17:30
 comments: true
-categories: 
+categories: [ Octopress ]
 ---
 
 If you update to the latest Octopress and you still use the `rdiscount` markdown processor, you now get footnotes like this [^1].  <span class="light">I was previously using a CSS workaround because I prefer the speed of `rdiscount` for my growing site[^2] and still wanted footnotes.</span>
