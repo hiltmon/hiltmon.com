@@ -3,7 +3,7 @@ layout: post
 title: "Avoiding the Blogger Trap"
 date: 2013-05-08 10:43
 comments: true
-categories: 
+categories: [ Writing, News ]
 ---
 
 I totally agree with [Marco](http://twitter.com/marcoarment) in [Avoiding the blogger trap](http://www.marco.org/2009/04/05/avoiding-the-blogger-trap):

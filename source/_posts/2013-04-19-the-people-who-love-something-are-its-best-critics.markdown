@@ -3,7 +3,7 @@ layout: post
 title: "The people who love something are its best critics"
 date: 2013-04-19 13:39
 comments: true
-categories: [ Apple ]
+categories: [ Apple, Writing ]
 ---
 
 I have been accused of being an Apple fan-*something* as if this was a bad thing, a blinkered delusional existence, a sign of mental degradation. I could come back that it is a [Stockholm Syndrome](http://en.wikipedia.org/wiki/Stockholm_syndrome) like relationship that binds Windows users to Excel, PowerPoint and Outlook. Or declare that Linux-on-the-desktop users are hallucinating when they claim productivity and usability in a sea of incomprehensibly complex, buggy and mediocre open source software.

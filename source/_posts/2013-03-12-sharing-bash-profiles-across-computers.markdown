@@ -3,7 +3,7 @@ layout: post
 title: "Sharing Bash Profiles across Computers"
 date: 2013-03-12 13:48
 comments: true
-categories: 
+categories: [ Tips and Tricks ]
 ---
 
 If you use more than one computer, keeping your *dotfiles* in sync is difficult. You either need to run a sync program like [ChronoSync](http://www.econtechnologies.com/pages/cs/chrono_overview.html) or set up your own `rsync` scripts. **And then remember to run them.**

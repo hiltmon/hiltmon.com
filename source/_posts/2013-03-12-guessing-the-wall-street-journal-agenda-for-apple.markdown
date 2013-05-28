@@ -3,7 +3,7 @@ layout: post
 title: "Guessing the Wall Street Journal Agenda for Apple"
 date: 2013-03-12 15:52
 comments: true
-categories: [ Apple ]
+categories: [ Apple, News ]
 ---
 
 I'm not a subscriber to the Wall Street Journal, but I have noted the past few months that the WSJ seems to issue regular negative *news*, no, *opinions*, no, *rumors*, no, *rubbish* on Apple. 

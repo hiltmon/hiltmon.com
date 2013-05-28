@@ -3,7 +3,7 @@ layout: post
 title: "Instantly grab a high-res icon for any Mac app"
 date: 2013-05-01 11:28
 comments: true
-categories: 
+categories: [ Tips and Tricks ]
 ---
 
 In [Instantly grab a high-res icon for any iOS app](http://brettterpstra.com/2013/04/28/instantly-grab-a-high-res-icon-for-any-ios-app/), the awesome Brett Terpstra ([@ttscoff](http://twitter.com/ttscoff)) offered a script and an app to get the icon from iTunes for any **iOS** app.

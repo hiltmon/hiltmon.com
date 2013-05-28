@@ -3,7 +3,7 @@ layout: post
 title: "Modular Mac Pros, the new Burroughs B20?"
 date: 2013-03-09 15:06
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 I've been watching a conversation on APP.NET speculating about the next Mac Pro form factor, triggered by Dan Frakes's article [The time is (finally) right for a Mac minitower](http://www.macworld.com/article/2029740/the-time-is-finally-right-for-a-mac-minitower.html) in MacWorld. *All we know about it is that Tim Cook said they were coming*.

@@ -10,7 +10,7 @@ So I get this request yesterday to send a document on [letterhead][letterhead]. 
 
 {% img /images/letterhead.jpg 500 153 %}
 
-I thought that letterheads went the way of the dodo about the same time [fax machines][fax] and [US Mail][usps] both died out. *I was wrong*. It turns out, sometimes to make something "official" <span class="light">(whatever the heck that means)</span> you need it on letterhead. And since its 2013, a PDF version is acceptable.
+I thought that letterheads went the way of the dodo about the same time [fax machines][fax] and [US Mail][usps] both died out. *I was wrong*. It turns out, sometimes to make something "official" <span class="light">(whatever the heck that means)</span> you need it on letterhead. And since it's 2013, a PDF version is acceptable.
 
 Now I could have just dragged a logo into a [Pages][pages] document, added the letterhead text, written the document, manually formatted it, PDF'd it and emailed it. But since I am probably going to do more of these, I decided to integrate letterheads into my regular [Markdown][markdown] process.
 

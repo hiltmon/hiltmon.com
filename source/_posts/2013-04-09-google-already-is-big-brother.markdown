@@ -3,7 +3,7 @@ layout: post
 title: "Google Already Is Big Brother"
 date: 2013-04-09 17:14
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 You can, and probably already do, most of these *without* paying any money <span class="light">(in no particular order)</span>:

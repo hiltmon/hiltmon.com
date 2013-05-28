@@ -3,7 +3,7 @@ layout: post
 title: "Long on Apple"
 date: 2013-03-19 11:29
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 Chris Umiastowski in [Apple investors: How to stay sane by staying long](http://www.imore.com/apple-investors-how-stay-sane-staying-long) via iMore:

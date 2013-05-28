@@ -3,7 +3,7 @@ layout: post
 title: "Bjango's Photoshop Actions"
 date: 2013-03-25 16:59
 comments: true
-categories: 
+categories: [ Tips and Tricks ]
 ---
 
 {% img right /images/bjango-actions.png 190 956 %}

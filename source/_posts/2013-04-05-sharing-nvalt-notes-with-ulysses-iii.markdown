@@ -3,7 +3,7 @@ layout: post
 title: "Sharing nvAlt Notes with Ulysses III"
 date: 2013-04-05 10:49
 comments: true
-categories: 
+categories: [ Tips and Tricks, Text Editors ]
 ---
 
 I'm testing out [Ulysses III][linksynergy] for writing and so far I am finding it postively interesting *for a 1.0 rewrite*. One thing I wanted to try was to use it for notes alongside [nvAlt][brettterpstra].

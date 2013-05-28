@@ -3,7 +3,7 @@ layout: post
 title: "Go Home"
 date: 2013-04-04 11:30
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 I was talking with a friend the other night about their number one concern with their new job, in that they expect to have to work until 11PM every night and would therefore give up yoga, movies and dating. I almost dropped my drink  <span class="light">(which is a horrifying thought for an Aussie)</span>.

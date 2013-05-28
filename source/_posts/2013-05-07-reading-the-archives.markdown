@@ -3,7 +3,7 @@ layout: post
 title: "Reading the Archives"
 date: 2013-05-07 09:20
 comments: true
-categories: 
+categories: [ Web, Writing ]
 ---
 
 Most people when they click on a link to a new blog, read the linked article and move on elsewhere. Google Analytics records this as a *bounce* - a visitor comes in, reads a single page and leaves.

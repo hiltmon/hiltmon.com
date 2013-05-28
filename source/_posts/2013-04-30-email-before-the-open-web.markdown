@@ -3,7 +3,7 @@ layout: post
 title: "Email before the Open Web"
 date: 2013-04-30 09:09
 comments: true
-categories: 
+categories: [ Writing, Email ]
 ---
 
 *Today, April 30, 2013 is the 20th anniversary of CERN making the WWW free, see [Twenty Years of a free, open web][1]. I thought I'd share a story about how it was like before then.*

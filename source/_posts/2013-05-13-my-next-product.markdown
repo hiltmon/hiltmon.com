@@ -3,7 +3,7 @@ layout: post
 title: "My Next Product"
 date: 2013-05-13 10:56
 comments: true
-categories: 
+categories: [ Programming, Product ]
 ---
 
 My *next* product is going to be the best product I ever made. Of this I am certain.

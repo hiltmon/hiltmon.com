@@ -3,7 +3,7 @@ layout: post
 title: "Premature BlackBerry Sales Analysis by Forbes"
 date: 2013-03-15 09:46
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 *I'm writing this for a friend who tweeted this article to me. Feel free to listen in. Mate, this in an intervention, don't believe what you read in Forbes. Please.*

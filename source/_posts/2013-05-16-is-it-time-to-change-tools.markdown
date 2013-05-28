@@ -3,7 +3,7 @@ layout: post
 title: "Is it time to change tools?"
 date: 2013-05-16 18:15
 comments: true
-categories: 
+categories: [ Tools ]
 ---
 
 {% blockquote Winston Churchill %}

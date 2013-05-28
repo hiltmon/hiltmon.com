@@ -3,7 +3,7 @@ layout: post
 title: "I'm doing it wrong: Dropbox buys Mailbox"
 date: 2013-03-19 10:17
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 On my tweet stream today:

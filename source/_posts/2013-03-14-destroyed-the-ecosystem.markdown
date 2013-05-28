@@ -3,7 +3,7 @@ layout: post
 title: "Also Destroyed the Ecosystem"
 date: 2013-03-14 17:56
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 Aldo Cortesi in [Google, destroyer of ecosystems](http://corte.si/posts/socialmedia/rip-google-reader.html) writes:

@@ -3,7 +3,7 @@ layout: post
 title: "My Workspace"
 date: 2013-04-28 11:25
 comments: true
-categories: 
+categories: [ Computers ]
 ---
 
 I have no idea why I am sharing this, but this is my current workspace:

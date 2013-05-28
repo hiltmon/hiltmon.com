@@ -3,7 +3,7 @@ layout: post
 title: "Every 'The Best Programmers Editor' Review"
 date: 2013-05-14 17:58
 comments: true
-categories: [ Text Editors ]
+categories: [ Text Editors, Tools ]
 ---
 
 <script>

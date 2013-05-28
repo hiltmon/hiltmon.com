@@ -3,7 +3,7 @@ layout: post
 title: "Windows Phone 8 support will expire before your phone contract does"
 date: 2013-03-18 12:10
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 In a seriously bone-headed move, Microsoft has quietly announced that their mobile Operating Systems will only be supported and updated for 18 months:

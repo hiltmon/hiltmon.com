@@ -3,7 +3,7 @@ layout: post
 title: "A Coda 2 Use Case"
 date: 2013-05-12 11:20
 comments: true
-categories: 
+categories: [ Tools, Web, Design ]
 ---
 
 {% img right /images/coda2.png 128 128 %}

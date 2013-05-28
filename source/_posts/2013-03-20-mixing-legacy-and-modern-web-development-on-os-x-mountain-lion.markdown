@@ -3,7 +3,7 @@ layout: post
 title: "Mixing Legacy and Modern Web Development on OS X Mountain Lion"
 date: 2013-03-20 16:42
 comments: true
-categories: [ Development, Productivity ]
+categories: [ Development, Productivity, Tips and Tricks ]
 ---
 
 Over the past few years I have been developing *modern* web applications like [Kifu][kifuapp] on my laptop using [Ruby on Rails][rubyonrails], [Sinatra][sinatrarb], [Octopress][octopress], and [Node.js][nodejs] powered by [Pow][pow]. But over the next few weeks I'll be helping a friend upgrade a bunch of older legacy static (plain HTML), [PHP][php] and [Wordpress][wordpress] sites.

@@ -3,7 +3,7 @@ layout: post
 title: "Oldest Trace of You on the Internet"
 date: 2013-03-26 10:20
 comments: true
-categories: 
+categories: [ Web, Writing ]
 ---
 
 For a lark, and in response to this tweet:

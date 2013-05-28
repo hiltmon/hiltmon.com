@@ -3,7 +3,7 @@ layout: post
 title: "Slogger after 6 Months"
 date: 2013-04-23 10:43
 comments: true
-categories: [ Slogger ]
+categories: [ Slogger, Tips and Tricks ]
 ---
 
 I have been using [Brett Terpstra's][brettterpstra] ([@ttscoff][twitter]) [Slogger][brettterpstra 2] for the last six months, and I think it's time to review it. Slogger is a script and a set of plugins that log your online activity each day into [Day One][linksynergy], the best journaling application for OS X, or in Markdown files if you prefer. It's a core part of my [Backing up your Online Life]({{ root_url}}/blog/2013/03/14/backup-your-online-life/) process.

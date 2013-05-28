@@ -3,7 +3,7 @@ layout: post
 title: "The One-Person Product"
 date: 2013-05-20 18:45
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 Marco Arment, writing about David Karp, founder of Tumblr, in [The One-Person Product](http://www.marco.org/2013/05/20/one-person-product). Not only is this piece well written, it is an amazing perspective of Tumblr from the inside. But, for me, the salient point and the highest praise in the piece goes to David Karp, the founder and visionary:

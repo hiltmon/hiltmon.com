@@ -3,7 +3,7 @@ layout: post
 title: "Cutting down on Web Tracking"
 date: 2013-03-18 10:46
 comments: true
-categories: 
+categories: [ Tips and Tricks, Web ]
 ---
 
 You may not know it, but lots of web sites use a variety of tricks to track you across the Internet, not just on the site you are currently browsing. These all depend on your browser talking to the tracker's server without your knowledge or consent. These trackers use huge numbers of servers with different names and IP addresses to make it more difficult to stop them.

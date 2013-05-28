@@ -3,7 +3,7 @@ layout: post
 title: "$60 million to aquihire me"
 date: 2013-03-28 11:55
 comments: true
-categories: 
+categories: [ News ]
 ---
 
 So this week, Yahoo paid $30 million to acquire Summly and it's 17 year old founder Nick D'Aloisio (just Google it).

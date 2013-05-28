@@ -3,7 +3,7 @@ layout: post
 title: "Make Perfectly Good Mistakes"
 date: 2013-04-25 15:31
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 We're not perfect, yet:

@@ -3,7 +3,7 @@ layout: post
 title: "Is this the end?"
 date: 2013-04-08 12:32
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 The indie business is cyclical, a sin wave of quiet and busy times. The peaks are high and the troughs are low.

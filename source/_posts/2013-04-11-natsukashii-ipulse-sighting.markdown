@@ -3,7 +3,7 @@ layout: post
 title: "Natsukashii - iPulse Sighting"
 date: 2013-04-11 13:37
 comments: true
-categories: 
+categories: [ Software ]
 ---
 
  <span class="light">Natsukashii (懐かしい) is a Japanese word for "feeling nostalgic" or "with fond memories".</span>

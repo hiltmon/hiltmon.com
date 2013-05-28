@@ -3,7 +3,7 @@ layout: post
 title: "RSS Address Change"
 date: 2013-03-19 19:23
 comments: true
-categories: 
+categories: [ Web ]
 ---
 
  <span class="light">Update: This post has been updated with a new feed URL that will become the standard in future releases of Octopress. If you re-subscribed, I'd ask if you could please do it one more time. Thanks.</span>

@@ -3,7 +3,7 @@ layout: post
 title: "Have to Have It Just to Have It"
 date: 2013-04-22 19:43
 comments: true
-categories: 
+categories: [ Writing ]
 ---
 
 I often come across users who tell me they just *have to have* something in the software I am designing for them: some data or a report or an export. When I ask them *how* they use this requested item, or *why* they need it, they usually answer that they just *have to have* it. Sometimes, they even try to justify the request using the excuse that they have always had it, so they should continue to have it.

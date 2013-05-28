@@ -3,7 +3,7 @@ layout: post
 title: "Punctual"
 date: 2013-04-25 12:27
 comments: true
-categories: 
+categories: [ Writing, Etiquette ]
 ---
 
 <span class="light">**punc·tu·al /ˈpəNGkCHo͞oəl/**</span>

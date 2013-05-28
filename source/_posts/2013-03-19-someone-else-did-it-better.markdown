@@ -3,7 +3,7 @@ layout: post
 title: "Someone Else Did It Better"
 date: 2013-03-19 11:48
 comments: true
-categories: 
+categories: [ Product ]
 ---
 
 Over the past year I have been working on a stealth iPad app to scratch an itch of mine. Today, following a tweeted link, I found the product I was working on, **just done better by someone else**.

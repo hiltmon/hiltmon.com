@@ -3,7 +3,7 @@ layout: post
 title: "Better Bash Shell Expansion"
 date: 2013-03-12 12:33
 comments: true
-categories: 
+categories: [ Tips and Tricks ]
 ---
 
 I've been doing a lot of work on TextMate 2 plugins recently and the way shell expansion works in the terminal has been annoying me. Here are some tips to 

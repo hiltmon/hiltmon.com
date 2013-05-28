@@ -3,7 +3,7 @@ layout: post
 title: "Hedge Fund Systems"
 date: 2013-05-06 12:45
 comments: true
-categories: [ Business ]
+categories: [ Business, Finance ]
 ---
 
 I have started a new series of articles on [Hedge Fund Systems](http://www.noverse.com/blog/categories/hedge-fund-systems/) on my company, [Noverse LLC](http://www.noverse.com/) blog.  <span class="light">I did not post them here (yet) because I am not sure my readers will be interested – and I am using them to promote my skills and services. Let me know in comments you think I should post them here too.</span>
