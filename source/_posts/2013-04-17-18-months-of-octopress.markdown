@@ -23,7 +23,7 @@ I wanted a blogging platform to produce:
 - A site without any dependencies on third party services like databases and execution environments. A web server should be all that is needed so I could run it anywhere.
 - A site that was blazingly fast to render for the user and could be cached on the server to enable even faster web access.
 - A site that used the latest HTML5 and CSS3 standards.
-- A site that did *not* require me to edit more than one file when making changes -- a site where the navigation, sidebar, headers and footers would all magically update as needed.
+- A site that did *not* require me to edit more than one file when making changes -- a site where the navigation, sidebar, headers and footers would all magically updated as needed.
 - A site that looked great and focussed on readability.
 - A site that I could write using [Markdown][5].
 
@@ -37,7 +37,7 @@ Later on, I changed the `asides` list to add my information block and to display
 
 ### Customizing It
 
-Given that [Octopress][1] is a wrapper around the lovely [Jekyll][9], you need command line fu to operate it. But the commands are simple and well documented.
+Given that [Octopress][1] is a wrapper around the lovely [Jekyll][9], you need command line fu to operate it. The commands are simple and well documented, start with `rake -T`.
 
 Since I am lazy, I scripted up the set of commands to create new posts and publish the site and wrote about it in [Octopress Post and Publish][10]. After 18 months, using these macros are habitual.
 
@@ -55,7 +55,7 @@ Since I switched to [Octopress][1] 18 months ago, I have published 385 posts con
 
 Brandon Mathis ([@imathis][15]), the developer behind [Octopress][1], has really done a top-notch job with this platform. You can see the care and hours he spent in making the platform work well and look amazing. Most [Octopress][1] installs don't even change the default theme because it's just awesome. And some top bloggers like [Matt Gemmell][16] use it. Brandon also happens to be a seriously nice guy and is very responsive on Twitter.
 
-In short, switching to [Octopress][1] 18 months ago was a brilliant decision for me and I still love the platform, the look and and writing workflow. If you are looking to replace your outdated, heavy blog with something technical and beautiful, I cannot recommend [Octopress][1] more.
+In short, switching to [Octopress][1] 18 months ago was a brilliant decision for me and I still love the platform, the look and writing workflow. If you are looking to replace your outdated, heavy blog with something technical and beautiful, I cannot recommend [Octopress][1] more.
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

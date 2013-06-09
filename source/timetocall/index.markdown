@@ -18,7 +18,7 @@ no_header: true
 
 **TimeToCall** is a universal iPhone and iPad application to help you choose the *best* time to call people in other countries based on timezones.
 
-<p class="black-frame"><iframe width="640" height="360" src="http://www.youtube.com/embed/84EvUGKoTyQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p class="black-frame"><iframe width="640" height="360" style="min-width:640px;" src="http://www.youtube.com/embed/84EvUGKoTyQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 * Over 4000 locations to choose from
 * Multiple *Times to Call* to lots of places

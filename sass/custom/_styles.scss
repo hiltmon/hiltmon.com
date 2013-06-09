@@ -54,6 +54,7 @@ body > header {
 .dark-product {
   background-color: #333333;
   color: #FFF;
+  min-width: 1096px; // shame.css HACK for keeping the video where it is
   
   a {
     color: #7ca9d1;
@@ -115,6 +116,11 @@ table th[align="center"], table td[align="center"] {
 
 span.light {
   color: lighten($header-bg, 33);
+}
+
+// Fix for gists!
+.line-data {
+	font-size: 13px;
 }
 
 .footnotes {
