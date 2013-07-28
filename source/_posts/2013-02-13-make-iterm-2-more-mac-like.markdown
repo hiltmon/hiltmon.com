@@ -90,4 +90,6 @@ The second step resizes the window so that it is 100 x 42 lines, my personally p
 
 So far, I am really enjoying the small touches that make [iTerm 2](http://www.iterm2.com/#/section/home) that much better than Terminal.app.
 
+Related Reading: [Fast SSH Windows With iTerm 2](http://www.hiltmon.com/blog/2013/07/18/fast-ssh-windows-with-iterm-2/)
+
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
