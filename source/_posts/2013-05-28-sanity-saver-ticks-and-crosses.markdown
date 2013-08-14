@@ -16,6 +16,8 @@ So I made them hot keys using [Keyboard Maestro](http://www.keyboardmaestro.com/
 
 {% img /images/ticks-and-crosses.jpg 549 162 %}
 
+<span class="light">**Update:** As per the comment from Jimmy Hartingdon below, change the macro to 'Insert Text by Typing' if you want the clipboard to remain unchanged.</span>
+
 ✗ Cool  
 ✓ Nerdy  
 ✗ Fashionable  
