@@ -12,7 +12,7 @@ I have no idea why I am sharing this, but this is my current workspace:
 
 On and around it you will find (left-to-right-ish):
 
-* My original iPad 1 running Panic's [Status Board](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) on a [Twelve South Compass Stand](http://www.amazon.com/gp/product/B0053XG1AC/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0053XG1AC&linkCode=as2&tag=hiltmon-20) for iPad.
+* My original iPad 1 running Panic's [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894) on a [Twelve South Compass Stand](http://www.amazon.com/gp/product/B0053XG1AC/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0053XG1AC&linkCode=as2&tag=hiltmon-20) for iPad.
 * A [Koncept Equo Gen 3](http://www.amazon.com/gp/product/B005WXPEV0/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005WXPEV0&linkCode=as2&tag=hiltmon-20) desk lamp, stylish and bright.
 * An AT&T MicroCell so I can get Mobile Phone service at home in Manhattan!
 * My iPad 3 WiFi 64GB, gray Apple smart cover.

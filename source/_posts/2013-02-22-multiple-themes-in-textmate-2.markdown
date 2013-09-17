@@ -6,7 +6,7 @@ comments: true
 categories: [ Productivity, Text Editors, TextMate ]
 ---
 
-One thing I like to do is to have different themes for different file types in my text editor. That way, at a glance, I can guess what kind of file a text-filled window contains, especially when zoomed out using Mission Control. I’ve been using Custom Language Preferences in [BBEdit](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbbedit%252Fid404009241%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) preferences to set up the color scheme for each file type there, and I have set up [Multiple Themes in Sublime Text 2](http://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) previously.
+One thing I like to do is to have different themes for different file types in my text editor. That way, at a glance, I can guess what kind of file a text-filled window contains, especially when zoomed out using Mission Control. I’ve been using Custom Language Preferences in [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) preferences to set up the color scheme for each file type there, and I have set up [Multiple Themes in Sublime Text 2](http://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) previously.
 
 But how to do this in [TextMate 2](https://github.com/textmate/textmate)?
 

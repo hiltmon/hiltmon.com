@@ -34,5 +34,5 @@ More on [Ulysses III][linksynergy] will follow as I continue to test out the pro
 [brettterpstra]: http://brettterpstra.com/projects/nvalt/
 [dropbox]: https://www.dropbox.com
 [hiltmon]: http://hiltmon.com/blog/2012/04/15/text-notes-going-electronic/
-[linksynergy]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fulysses-iii%252Fid623795237%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[linksynergy]: https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=10l894
 [twitter]: http://twitter.com/hiltmon

@@ -28,28 +28,28 @@ I posted my [2012 iPad Essentials](http://www.hiltmon.com/blog/2012/03/17/2012-i
 
 ## Old Favorites
 
-* [OmniFocus](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fomnifocus-for-ipad%252Fid383804552%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - for all my to-do and project needs. One of my top-5 must have tools.
-* [Reeder](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Freeder-for-ipad%252Fid375661689%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - For RSS.
-* [Instapaper](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Finstapaper%252Fid288545208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - for offline reading of saved articles.
-* [Soulver](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fsoulver-for-ipad%252Fid371982536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - A better calculation tool, using it more and more for project estimation.
-* [Elements](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Felements-for-dropbox-markdown%252Fid382752422%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - (back to it) to view and create notes, and write, replacing [Byword](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbyword%252Fid482063361%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30).
-* [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander%252Fid326180690%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - I just wish more apps used its expansions.
-* [iBooks](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fibooks%252Fid364709193%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - I still read almost everything in the iPad.
+* [OmniFocus](https://itunes.apple.com/us/app/omnifocus-for-ipad/id383804552?mt=8&uo=4&at=10l894) - for all my to-do and project needs. One of my top-5 must have tools.
+* [Reeder](https://itunes.apple.com/us/app/reeder-2/id697846300?mt=8&uo=4&at=10l894) - For RSS.
+* [Instapaper](https://itunes.apple.com/us/app/instapaper/id288545208?mt=8&uo=4&at=10l894) - for offline reading of saved articles.
+* [Soulver](https://itunes.apple.com/us/app/soulver-for-ipad/id371982536?mt=8&uo=4&at=10l894) - A better calculation tool, using it more and more for project estimation.
+* [Elements](https://itunes.apple.com/us/app/elements-for-dropbox-markdown/id382752422?mt=8&uo=4&at=10l894) - (back to it) to view and create notes, and write, replacing [Byword](https://itunes.apple.com/us/app/byword/id482063361?mt=8&uo=4&at=10l894).
+* [TextExpander](https://itunes.apple.com/us/app/textexpander/id326180690?mt=8&uo=4&at=10l894) - I just wish more apps used its expansions.
+* [iBooks](https://itunes.apple.com/us/app/ibooks/id364709193?mt=8&uo=4&at=10l894) - I still read almost everything in the iPad.
 
 ## Still There
 
-* [FlipBoard](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fflipboard-your-social-news%252Fid358801284%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - for more news.
-* [Zite](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fzite-personalized-magazine%252Fid419752338%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - for even more news.
-* [Facebook](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ffacebook%252Fid284882215%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)
-* [Keynote](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fkeynote%252Fid361285480%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30), [Numbers](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fnumbers%252Fid361304891%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) and [Pages](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fpages%252Fid361309726%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - Just in case.
-* [xScope Mirror](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fxscope-mirror%252Fid488819289%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)
-* [Prompt](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fprompt%252Fid421507115%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - for SSH access to servers in emergencies.
-* [Yojimbo](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fyojimbo-for-ipad%252Fid396307682%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)
+* [FlipBoard](https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284?mt=8&uo=4&at=10l894) - for more news.
+* [Zite](https://itunes.apple.com/us/app/zite/id419752338?mt=8&uo=4&at=10l894) - for even more news.
+* [Facebook](https://itunes.apple.com/us/app/facebook/id284882215?mt=8&uo=4&at=10l894)
+* [Keynote](https://itunes.apple.com/us/app/keynote/id361285480?mt=8&uo=4&at=10l894), [Numbers](https://itunes.apple.com/us/app/numbers/id361304891?mt=8&uo=4&at=10l894) and [Pages](https://itunes.apple.com/us/app/pages/id361309726?mt=8&uo=4&at=10l894) - Just in case.
+* [xScope Mirror](https://itunes.apple.com/us/app/xscope-mirror/id488819289?mt=8&uo=4&at=10l894)
+* [Prompt](https://itunes.apple.com/us/app/prompt/id421507115?mt=8&uo=4&at=10l894) - for SSH access to servers in emergencies.
+* [Yojimbo](https://itunes.apple.com/us/app/yojimbo-for-ipad/id396307682?mt=8&uo=4&at=10l894)
 
 ## Removals
 
-* [Penultimate](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fpenultimate%252Fid354098826%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - replaced by [Paper by Fifty Three](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fpaper-by-fiftythree%252Fid506003812%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30).
-* [Skype](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fskype-for-ipad%252Fid442012681%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) - I use it on the Mac only these days.
+* [Penultimate](https://itunes.apple.com/us/app/penultimate/id354098826?mt=8&uo=4&at=10l894) - replaced by [Paper by Fifty Three](https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8&uo=4&at=10l894).
+* [Skype](https://itunes.apple.com/us/app/skype-for-ipad/id442012681?mt=8&uo=4&at=10l894) - I use it on the Mac only these days.
 
 *Note: The links above to the App Store are affiliate links, so if you purchase any of these products, I get a few pennies.*
 

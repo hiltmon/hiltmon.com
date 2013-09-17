@@ -6,7 +6,7 @@ comments: true
 categories: [ Status Board ]
 ---
 
-I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's new [Status Board app](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). Here is how I got it to work.
+I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's new [Status Board app](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894). Here is how I got it to work.
 
 **Update: For a far simpler install that runs on your web server using PHP, see [Google Analytics for Status Board Server Edition]({{ root_url}}/blog/2013/05/30/google-analytics-for-status-board-server-edition/).**
 

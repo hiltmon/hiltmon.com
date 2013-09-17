@@ -157,8 +157,8 @@ Now to see if I remember any PHP!
 [github 4]: https://github.com/37signals/pow/wiki/Running-Pow-with-Apache
 [iterm2]: http://www.iterm2.com/#/section/home
 [kifuapp]: http://www.kifuapp.com
-[linksynergy]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fkeyboard-maestro%252Fid406298247%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[linksynergy 2]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fmoom%252Fid419330170%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[linksynergy]: http://www.keyboardmaestro.com/main/
+[linksynergy 2]: http://manytricks.com/moom/
 [mamp]: http://www.mamp.info/en/index.html
 [mysql]: http://www.mysql.com
 [mysql 2]: http://dev.mysql.com/downloads/mysql/

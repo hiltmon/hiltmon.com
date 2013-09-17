@@ -101,7 +101,7 @@ If you operate across many social network services in your daily Internet wander
 [instagram]: http://instagram.com/hiltmon
 [instapaper]: http://www.instapaper.com
 [last]: http://www.last.fm
-[linksynergy]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fday-one%252Fid422304217%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[linksynergy]: https://itunes.apple.com/us/app/day-one/id422304217?mt=12&uo=4&at=10l894
 [omnigroup]: http://www.omnigroup.com/products/omnifocus/
 [pinboard]: https://pinboard.in
 [twitter]: http://twitter.com/ttscoff

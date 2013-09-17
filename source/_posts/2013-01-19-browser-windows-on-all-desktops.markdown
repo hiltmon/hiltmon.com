@@ -19,11 +19,11 @@ What I *used to do* is I use the **New Window** menu item off the Safari dock ic
 
 OS X (or maybe Safari) is smart enough that if there is an open Safari window on the current desktop, then it opens all clicked links in that window as new tabs. It does not jump desktops. Note that I have “Open paths in tabs instead of windows:” set to **Automatically** in Safari **Preferences** / **Tabs**.
 
-What I use now is a [Keyboard Maestro](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fkeyboard-maestro%252Fid406298247%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) macro triggered by `⌃⌥⌘B` that creates a new Safari window on the current desktop.  I habitually hit `⌃⌥⌘B` when I move to a desktop that I wish to browse on. The macro looks like this:
+What I use now is a [Keyboard Maestro](http://www.keyboardmaestro.com/main/) macro triggered by `⌃⌥⌘B` that creates a new Safari window on the current desktop.  I habitually hit `⌃⌥⌘B` when I move to a desktop that I wish to browse on. The macro looks like this:
 
 {% img /images/new-safari-window.jpg 487 396 %}
 
-You can setup the same script in [Alfred](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Falfred%252Fid405843582%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) or other launcher, the code is simply:
+You can setup the same script in [Alfred](https://itunes.apple.com/us/app/alfred/id405843582?mt=12&uo=4&at=10l894) or other launcher, the code is simply:
 
 ```
 tell application "Safari"

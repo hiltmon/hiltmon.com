@@ -93,11 +93,11 @@ IN VIEWS:
 About these notes:
 
 * They are written as [Markdown](http://daringfireball.net/projects/markdown/) files (using [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) extensions).
-* I have [BBEdit](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbbedit%252Fid404009241%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) running all the time with the current project and week’s Assembly Notes file open.
+* I have [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) running all the time with the current project and week’s Assembly Notes file open.
 * I use [Markdown Metadata](http://hiltmon.com/blog/2012/06/18/markdown-metadata/) headers to record the project, week and date of the notes (always a Friday).
 * I often copy and paste command lines in to record what was used. And sometimes the data and output too.
 * I usually log the branch name in case I need to go back.
-* I use [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) shortcuts to create the unchecked ☐ and checked ✓ marks against to-do notes. I often create a plan, note it, then check each item off as I go. *These are tactical plans, what I want to achieve in the next few hours.*
+* I use [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) shortcuts to create the unchecked ☐ and checked ✓ marks against to-do notes. I often create a plan, note it, then check each item off as I go. *These are tactical plans, what I want to achieve in the next few hours.*
 * I write release notes in here too, then copy and paste them out into the application and release emails.
 
 ## Server Build Notes
@@ -208,7 +208,7 @@ One gets a lot of benefit from these including:
 
 ## Tips and Tricks
 
-I use a lot of snippets to make these. The Assembly Note header is a [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) snippet `;mma` that uses fill-ins and a form as follows:
+I use a lot of snippets to make these. The Assembly Note header is a [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) snippet `;mma` that uses fill-ins and a form as follows:
 
 ```
 Title:          %filltext:name=Project:default=Kifu% Assembly Notes  
@@ -225,7 +225,7 @@ Which gives:
 
 {% img /images/mmas.jpg 604 221 %}
 
-I also use a [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) snippet to break it up into days `;mmd`:
+I also use a [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) snippet to break it up into days `;mmd`:
 
 ```
 ---
@@ -243,7 +243,7 @@ Which gives me:
 
 ```
 
-Finally, I track who reported what using a set of key marks (also [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) snippets), and use them in release notes:
+Finally, I track who reported what using a set of key marks (also [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) snippets), and use them in release notes:
 
 * β/HL - `;bm` : Bug Mark (Bug reported by HL)
 * ⨍/HL - `;fm` : Feature Mark
@@ -252,7 +252,7 @@ Finally, I track who reported what using a set of key marks (also [TextExpander]
 
 ## It Just Takes Discipline
 
-Creating Assembly Notes and keeping them up to date requires discipline and habit. I *habitually* open [BBEdit](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbbedit%252Fid404009241%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) and the current project’s Assembly Notes file when I start on a task, just as I habitually kick off the [Billings](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbillings%252Fid402368702%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) timer. And I am *disciplined* enough to use the open notes file to record what I want to get done, paste any notes and thoughts and check them off as I work. It did take a while to get used to working this way, but the benefits of having these process scripts lying around are just too great.
+Creating Assembly Notes and keeping them up to date requires discipline and habit. I *habitually* open [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) and the current project’s Assembly Notes file when I start on a task, just as I habitually kick off the [Billings Pro](https://itunes.apple.com/us/app/billings-pro/id434514810?mt=12&uo=4&at=10l894) timer. And I am *disciplined* enough to use the open notes file to record what I want to get done, paste any notes and thoughts and check them off as I work. It did take a while to get used to working this way, but the benefits of having these process scripts lying around are just too great.
 
 Try creating Assembly Notes from now on, one file a week, and ensure you ALT-TAB to this file when you are between tasks, or thinking or planning or running commands and write what you do. Before you know it, it will become habit and you will have an excellent log to work with.
 

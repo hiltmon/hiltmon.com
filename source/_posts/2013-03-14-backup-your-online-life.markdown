@@ -51,6 +51,6 @@ Links and resources to get your data out of some popular services <span class="l
 	* My App.Net posts and replies.
 	* Foursquare Checkins to file.
 	* Facebook Status to File.
-* Use [Slogger](http://ttscoff.github.com/Slogger/) to dump data daily onto [DayOne](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fday-one%252Fid422304217%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30). I just love that a journalling solution also acts as the perfect online-life backup solution.
+* Use [Slogger](http://ttscoff.github.com/Slogger/) to dump data daily onto [DayOne](https://itunes.apple.com/us/app/day-one/id422304217?mt=12&uo=4&at=10l894). I just love that a journalling solution also acts as the perfect online-life backup solution.
 
 I am sure you all have more links for services that I have missed, please add and share them in the comments.

@@ -67,9 +67,9 @@ And the result, an "official" looking document while remaining in the [Markdown 
 [letterhead]: http://en.wikipedia.org/wiki/Letterhead
 [fax]: http://en.wikipedia.org/wiki/Fax
 [usps]: http://en.wikipedia.org/wiki/United_States_Postal_Service
-[pages]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fpages%252Fid409201541%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[pages]: https://itunes.apple.com/us/app/pages/id409201541?mt=12&uo=4&at=10l894
 [markdown]: http://daringfireball.net/projects/markdown/
-[marked]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fmarked%252Fid448925439%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[textexpander]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[marked]: https://itunes.apple.com/us/app/marked/id448925439?mt=12&uo=4&at=10l894
+[textexpander]: https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894
 [metadata]: http://hiltmon.com/blog/2012/06/18/markdown-metadata/
 [mindset]: http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/

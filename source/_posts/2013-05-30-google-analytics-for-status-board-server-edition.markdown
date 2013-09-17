@@ -6,7 +6,7 @@ comments: true
 categories: [ Status Board ]
 ---
 
-Dropbox went down today, and I found out when my [Status Board](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fstatus-board%252Fid449955536%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) stopped updating. This spurred me on to migrate my [Google Analytics for Status Board]({{ root_url }}/blog/2013/04/10/google-analytics-for-status-board/) scripts from Ruby and Dropbox over to server based PHP. <span class="light">Huge thanks to [Carl Franzon](http://www.carlfranzon.com/2013/04/google-analytics-panel-for-status-board/) for the starter code.</span>
+Dropbox went down today, and I found out when my [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894) stopped updating. This spurred me on to migrate my [Google Analytics for Status Board]({{ root_url }}/blog/2013/04/10/google-analytics-for-status-board/) scripts from Ruby and Dropbox over to server based PHP. <span class="light">Huge thanks to [Carl Franzon](http://www.carlfranzon.com/2013/04/google-analytics-panel-for-status-board/) for the starter code.</span>
 
 **Warning: This version of the scripts requires PHP v5.3. It also uses a hacked version of the Google GAPI library that runs against the Google v2.4 API. The current Google API is v3, but that requires complex OAuth2 access, which is a pain in the *gazoot* to implement. <span class="light">Expect Google to deprecate the old API, probably tomorrow and without notice.</span>**
 

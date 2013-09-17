@@ -16,9 +16,9 @@ I had already solved the OAuth 2 issue in [Spike Solutions](http://hiltmon.com/b
 
 {% img right /images/analytics-tiles.jpg 384 281 %}
 
-But today I learned about [Analytics Tiles](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fanalytics-tiles-app%252Fid527147208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). It's brilliant, just the product I was developing, but with a cleaner design, more tiles than I had thought of and a better interaction model. All in all, a better product than I was making.
+But today I learned about [Analytics Tiles](https://itunes.apple.com/us/app/analytics-tiles-app/id527147208?mt=8&uo=4&at=10l894). It's brilliant, just the product I was developing, but with a cleaner design, more tiles than I had thought of and a better interaction model. All in all, a better product than I was making.
 
-As a result, I purchased [Analytics Tiles](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fanalytics-tiles-app%252Fid527147208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) and have stopped working on mine. 
+As a result, I purchased [Analytics Tiles](https://itunes.apple.com/us/app/analytics-tiles-app/id527147208?mt=8&uo=4&at=10l894) and have stopped working on mine. 
 
 ## Thoughts and Feelings
 
@@ -46,8 +46,8 @@ There is always a bigger fish.
 
 ## The Community
 
-*One thing about being a developer is that even though we compete for jobs, clients and revenue, this community also supports and encourages and genuinely wants everyone to succeed. We follow each-other, use each other's products and ideas, and even congratulate our competition if we think their version has a better feature.* I suspect we do this because we know just how much time and effort goes in to making great products. So I really hope that [InteractiveMonday](http://www.analyticstilesapp.com) has huge success with [Analytics Tiles](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fanalytics-tiles-app%252Fid527147208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30).
+*One thing about being a developer is that even though we compete for jobs, clients and revenue, this community also supports and encourages and genuinely wants everyone to succeed. We follow each-other, use each other's products and ideas, and even congratulate our competition if we think their version has a better feature.* I suspect we do this because we know just how much time and effort goes in to making great products. So I really hope that [InteractiveMonday](http://www.analyticstilesapp.com) has huge success with [Analytics Tiles](https://itunes.apple.com/us/app/analytics-tiles-app/id527147208?mt=8&uo=4&at=10l894).
 
-Go out and buy [Analytics Tiles](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fanalytics-tiles-app%252Fid527147208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) if it scratches your itch too. <span class="light">(Affiliate link so I may get a few pennies if you do).</span> And I'll go off and work other ideas (or yours if you [hire me](http://www.noverse.com/hire-us/)).
+Go out and buy [Analytics Tiles](https://itunes.apple.com/us/app/analytics-tiles-app/id527147208?mt=8&uo=4&at=10l894) if it scratches your itch too. <span class="light">(Affiliate link so I may get a few pennies if you do).</span> And I'll go off and work other ideas (or yours if you [hire me](http://www.noverse.com/hire-us/)).
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

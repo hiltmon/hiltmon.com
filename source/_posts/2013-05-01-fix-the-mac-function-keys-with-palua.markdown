@@ -32,7 +32,7 @@ Available on the [App Store][linksynergy] for 99c (US) as of writing.
 
 [app]: http://alpha.app.net/hiltmon
 [indev]: http://www.indev.ca/MailActOn.html
-[linksynergy]: http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fpalua%252Fid431494195%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[linksynergy]: https://itunes.apple.com/us/app/palua/id431494195?mt=12&uo=4&at=10l894
 [macbartender]: http://www.macbartender.com
 [twitter]: http://twitter.com/hiltmon
 [vmware]: http://www.vmware.com/products/fusion/overview.html

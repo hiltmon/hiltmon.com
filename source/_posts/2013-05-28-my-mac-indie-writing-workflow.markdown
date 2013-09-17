@@ -86,13 +86,13 @@ Now I just have to figure out which tools I like on the iPad for writing, I have
 *Follow the author as [@hiltmon][57] on Twitter or [@hiltmon][58] on App.Net.*
 
 [nvalt]:	http://brettterpstra.com/projects/nvalt/
-[mindnode]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fmindnode-pro%252Fid402398561%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[ulysses]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fulysses-iii%252Fid623795237%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[byword]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbyword%252Fid420212497%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[scrivener]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fscrivener%252Fid418889511%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[marked]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fmarked%252Fid448925439%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[acorn]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Facorn-4-image-editor-for-humans%252Fid634108295%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
-[napkin]:	http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fnapkin-concise-image-annotation%252Fid581789185%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30
+[mindnode]:	https://itunes.apple.com/us/app/mindnode-pro/id402398561?mt=12&uo=4&at=10l894
+[ulysses]:	https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=10l894
+[byword]:	https://itunes.apple.com/us/app/byword/id420212497?mt=12&uo=4&at=10l894
+[scrivener]:	https://itunes.apple.com/us/app/scrivener/id418889511?mt=12&uo=4&at=10l894
+[marked]:	https://itunes.apple.com/us/app/marked/id448925439?mt=12&uo=4&at=10l894
+[acorn]:	https://itunes.apple.com/us/app/acorn-4-image-editor-for-humans/id634108295?mt=12&uo=4&at=10l894
+[napkin]:	https://itunes.apple.com/us/app/napkin-concise-image-annotation/id581789185?mt=12&uo=4&at=10l894
 [9]:	http://elasticthreads.tumblr.com
 [10]:	http://brettterpstra.com
 [12]:	http://notational.net

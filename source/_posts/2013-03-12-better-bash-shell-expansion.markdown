@@ -83,7 +83,7 @@ from anywhere to get to the same place.
 
 Also, in OS X, tab completion does not work with `CDPATH`, you need to type in the full folder name, with the correct case. Or you could install `bash-completion` using HomeBrew or MacPorts, something I choose not to do ([Instructions here](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)).
 
-*Aside: For more frequently accessed folders, I use [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) snippets to reduce typing; in this case, the expansion of `;cdki` takes me to the same place. I just don't create expansions for all projects. Yes, I know, I could just as easily use shell `alias` to do the same.*
+*Aside: For more frequently accessed folders, I use [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) snippets to reduce typing; in this case, the expansion of `;cdki` takes me to the same place. I just don't create expansions for all projects. Yes, I know, I could just as easily use shell `alias` to do the same.*
 
 ### TAB for more completions
 

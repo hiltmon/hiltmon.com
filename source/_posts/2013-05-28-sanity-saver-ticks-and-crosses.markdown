@@ -10,7 +10,7 @@ categories: [ Sanity Saver ]
 
 I often create point form lists of things, whether planning a post or a coding sprint or a client activity. And to keep track of which points in the list are done and which will not be done, or what is right and what is wrong, I like to use `✓` and `✗` symbols.
 
-I use them so frequently and am so lazy that even typing `,,tick` and `,,cross` [TextExpander](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Ftextexpander-for-mac%252Fid405274824%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) expansions are too much effort.
+I use them so frequently and am so lazy that even typing `,,tick` and `,,cross` [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) expansions are too much effort.
 
 So I made them hot keys using [Keyboard Maestro](http://www.keyboardmaestro.com/main/). `⌃⌘=` gives me a `✓` and `⌃⌘-` gives a `✗`. Anywhere. Anytime.
 

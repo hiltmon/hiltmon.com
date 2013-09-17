@@ -39,7 +39,7 @@ I installed it on my old iPhone 4 just to get a feel for it. And when I showed i
 Considering that they had only 7 months to come up with this *Developer Preview* look, I think we can all look forward to some amazingly rapid changes before the final release and years of Apple's legendary iteration on this look and experience. I think iOS just seems to *work* better with the new look.
 
 **Other likes**: The radio service, the new photos interface, AirDrop, lost iPhone features.  
-**Meh**: iCloud keychain ([1Password](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252F1password-password-manager%252Fid568903335%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) for ever!), apps near me.
+**Meh**: iCloud keychain ([1Password](https://itunes.apple.com/us/app/1password-password-manager/id568903335?mt=8&uo=4&at=10l894) for ever!), apps near me.
 
 ## OS X Mavericks
 
