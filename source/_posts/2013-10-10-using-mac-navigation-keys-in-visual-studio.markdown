@@ -25,6 +25,8 @@ The solution I found is to install [AutoHotKey](http://www.autohotkey.com) on th
 	#Down::^End
 	!Right::^Right
 	!Left::^Left
+    #b::^B
+    #K::^M
 	#/::!/
 
 	#IfWinActive
@@ -42,6 +44,8 @@ My mapping changes are as follows:
 * ⌘/: **Edit.CommentSelection** (Visual Studio `CTRL+K,CTRL+C`) mapped to `ALT+/` and remapped in Visual Studio.
 * ⌥→: **Edit.WordNext** (Default windows key `CTRL+RIGHT`) but somehow this combination does not work on my system natively or adjusted.
 * ⌥←: **Edit.WordPrevious** (Default Windows key `CTRL+LEFT`) also not working.
+* ⌘b: **Build.BuildSolution** (Visual Studio `CTRL-SHIFT-B`) to match Xcode.
+* ⌘K: **Build.CleanSolution** (No key) Manually mapped to `CTRL-SHIFT-M`.
 
 Some of these mappings require you to change the Visual Studio keys. To do so, go to **Tools / Options / Environment / Keyboard**.
 
