@@ -83,7 +83,50 @@ $ publish
 
 I created the following ruby script to handle the post function. If you want the "Open in Byword" function, uncomment Line 29: `open "#{path}" -a Byword` (Untested)
 
-{% gist 3139294 post.rb %}
+``` ruby
+#! /usr/bin/ruby
+
+# post.rb
+# Hilton Lipschitz (http://www.hiltmon.com) @hiltmon
+# Use and modify freely, attribution appreciated
+#
+# Create a new Octopress post, isolate it, generate the
+# site and leave me with a preview thread running.
+#
+# MUST BE RUN in the Octopress root folder
+#
+# Usage
+# $ new This is a post
+#
+# NOTE: Do not wrap the parameters in quotes
+
+# Make the title
+post_title = ARGV.join(' ')
+
+# Create the post
+puts ":: rake new_post[\"#{post_title}\"]"
+process = `rake new_post["#{post_title}"]`
+
+# Parse out the generated filename
+file_key = nil
+process.split('\r').each do |line|
+  next unless line =~ /Creating new post:/
+  path = line.split(': ')[1]
+  # `open "#{path}" -a Byword`
+  file_basename = path.sub('source/_posts/', '').sub('.markdown', '')
+  file_key = file_basename[11..(file_basename.length)].chomp
+end
+
+# Isolate, generate and preview
+unless file_key.nil?
+  puts ":: rake isolate[\"#{file_key}\"]"
+  `rake isolate["#{file_key}"]`
+  puts ":: rake generate"
+  `rake generate`
+  puts ":: rake preview"
+  `rake preview`
+end
+```
 
 I then added the following two macros to my `.bash_profile` (OS X users only). Note that I keep all my custom scripts in `~/Scripts/`:
 

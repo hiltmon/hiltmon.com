@@ -20,9 +20,35 @@ gem 'ruby-prof'
 
 And don't forget to run `bundle`.
 
-Add the following file into your `lib` folder
+Add the following file ((Gist 1929287](https://gist.github.com/hiltmon/1929287)) into your `lib` folder
 
-{% gist 1929287 %}
+``` ruby
+class DevelopmentProfiler
+  
+  def self.prof(file_name)
+    
+    RubyProf.start
+    yield
+    results = RubyProf.stop
+    
+    # Print a flat profile to text
+    File.open "#{Rails.root}/tmp/performance/#{file_name}-graph.html", 'w' do |file|
+      RubyProf::GraphHtmlPrinter.new(results).print(file)
+    end
+ 
+    File.open "#{Rails.root}/tmp/performance/#{file_name}-flat.txt", 'w' do |file|
+      # RubyProf::FlatPrinter.new(results).print(file)
+      RubyProf::FlatPrinterWithLineNumbers.new(results).print(file)
+    end
+ 
+    File.open "#{Rails.root}/tmp/performance/#{file_name}-stack.html", 'w' do |file|
+      RubyProf::CallStackPrinter.new(results).print(file)
+    end
+ 
+  end
+  
+end
+```
 
 To use it, just wrap the slow code as follows. Note that the name `import` is the prefix I want to use on the output files:
 
