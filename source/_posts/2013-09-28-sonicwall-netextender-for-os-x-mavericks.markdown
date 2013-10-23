@@ -6,7 +6,9 @@ comments: true
 categories: 
 ---
 
-*TL;DR: Login and download from [https://sslvpn.demo.sonicwall.com/cgi-bin/welcome](https://sslvpn.demo.sonicwall.com/cgi-bin/welcome)*
+*TL;DR: Download from [https://sslvpn.demo.sonicwall.com/cgi-bin/welcome](https://sslvpn.demo.sonicwall.com/cgi-bin/welcome). Follow the admin login instructions, then look for NetExtender / Client Downloads.*
+
+**UPDATE:** Saved a copy of the DMG at <a href="http://www.hiltmon.com/files/NetExtender-7.5.757.dmg">http://www.hiltmon.com/files/NetExtender-7.5.757.dmg</a> as the normal login seems to be disabled. (WARNING: Link will eventually get stale).
 
 Many of us corporate drones need SonicWall's NetExtender for remote access to our company networks. And the way we get it is to go to the company IP address IT gives us and download it. <span class="light">And then install the Java plugin. And then install the java runtime.</span>
 
