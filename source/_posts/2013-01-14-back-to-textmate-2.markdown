@@ -26,6 +26,6 @@ I do miss the multiple themes and multiple panes from Sublime Text 2 (coming in 
 
 And to confirm it to myself, today I reset all my code file associations back to “Open With TextMate...”.
 
-See also [My TextMate 2 Setup]({{ root_url }}/blog/2013/04/15/my-textmate-2-setup/).
+See also [My TextMate 2 Setup]({{ root_url }}/blog/2013/04/15/my-textmate-2-setup/) and [TextMate 2 Basics]({{ root_url }}/blog/2013/11/09/textmate-2-basics/).
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

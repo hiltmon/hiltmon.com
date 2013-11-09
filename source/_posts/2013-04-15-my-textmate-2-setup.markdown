@@ -133,6 +133,8 @@ I also run the file browser to the right, have Software Update set for `Nightly 
 
 With these minor changes, I feel I have the best programmer's editor environment in TextMate 2 *for my own needs* and use it every single day.
 
+See also: [TextMate 2 Basics]({{ root_url }}/blog/2013/11/09/textmate-2-basics/)
+
 *Follow the author as [@hiltmon][twitter] on Twitter and [@hiltmon][app] on App.Net. Mute `#xpost` on one.*
 
 [1]:	http://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/
