@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-{% img left /images/the_hiltmon_2013.jpg 200 270 %}
+{% img left /images/the_hiltmon_2013_end.jpg 200 270 %}
 
 My name is **Hilton Lipschitz**, but everybody calls me **hiltmon**.  I am the designer, consultant,  programmer, and owner of [Noverse LLC](http://www.noverse.com), an independent iOS (iPad, iPhone and iPod Touch), Macintosh (OS X) and Web (Ruby on Rails) product development company, based in New York, USA.
 
