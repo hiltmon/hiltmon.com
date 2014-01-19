@@ -10,6 +10,8 @@ categories:
 
 **UPDATE:** Saved a copy of the DMG at <a href="http://www.hiltmon.com/files/NetExtender-7.5.757.dmg">http://www.hiltmon.com/files/NetExtender-7.5.757.dmg</a> as the normal login seems to be disabled. (WARNING: Link will eventually get stale).
 
+**UPDATE 2:** Your company can also register and get the latest versions from [MySonicwall.com](https://www.mysonicwall.com).
+
 Many of us corporate drones need SonicWall's NetExtender for remote access to our company networks. And the way we get it is to go to the company IP address IT gives us and download it. <span class="light">And then install the Java plugin. And then install the java runtime.</span>
 
 Unfortunately, the version provided by most of these sites is out-of-date as most SonicWall VPN devices never get updated.
