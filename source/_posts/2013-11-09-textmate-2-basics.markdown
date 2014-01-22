@@ -3,7 +3,7 @@ layout: post
 title: "TextMate 2 Basics"
 date: 2013-11-09 15:00
 comments: true
-categories: TextMate
+categories: [Text Editors, TextMate]
 ---
 
 {% img right /images/textmate.png 128 128 %}
@@ -172,6 +172,8 @@ For ERB tags, use `⌃⇧.` (`⌃>`) to create a new `<%= | %>` tag with the cur
 So those the basic TextMate 2 features that I use *all the time*, its only just over 20 keystrokes to get used to using. 
 
 I am quite certain that you can do all of the above in your programmer's editor of choice just as efficiently. But for me, it's the Mac basics and TextMate features and keystroke muscle memory that makes me so productive in TextMate 2.
+
+**Update**: I have written a follow-up post with even [More TextMate 2 Basics](http://hiltmon.com/blog/2014/01/20/more-textmate-2-basics/). Check it out.
 
 *If you have any awesome TextMate 2 features or keys you cannot live without, please share them in the comments.*
 
