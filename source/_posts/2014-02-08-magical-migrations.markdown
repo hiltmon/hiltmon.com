@@ -6,13 +6,13 @@ comments: true
 categories: 
 ---
 
-<span class="light">As I am writing this, I am using magical migrations to perform a full data transplant across three servers, each with 100+GB of data, with a single command. Yep, I'm chilling and writing a blog post while replacing the entire data scaffolding of my firm as it it were just another cold Saturday. Magical indeed.</span>
+<span class="light">As I am writing this, I am using magical migrations to perform a full data transplant across three servers, each with 100+GB of data, with a single command. Yep, I'm chilling and writing a blog post while replacing the entire data scaffolding of my firm as if it were just another cold Saturday. Magical indeed.</span>
 
 *TL;DR: [Rails migrations][RM] and [Capistrano][CAP] deploys create a stable, reliable, testable, reversible and no-fault way to manage and execute production database changes, no matter the platform size or complexity.*
 
 When I started at the current firm, I knew I would be designing and developing a wholly new, proprietary platform. At the time, all I knew was that it would be big and complex and that I did not yet have a handle on what it would be.
 
-But I did know these be true (for that matter not-knowing that you do *not* know something is knowledge in itself):
+But I did know these to be true (for that matter not-knowing that you do *not* know something is knowledge in itself):
 
 * I did not know the complete requirements at the start, and most likely would not know the complete requirements in the middle.
 * I would not get the database design and architecture right the first time, and probably not the second time either.
@@ -199,7 +199,7 @@ I get a lot of benefits from using [Rails migrations][RM] and [Capistrano][CAP] 
 * If anything goes wrong, it can be undone and rolled back as if nothing has happened.
 * I just know that each database has the latest and correct schema for all my systems and can access them with confidence.
 
-So here we are, I'm running one of these right now that is significantly changing the core architecture of by firm's platform and instead of manually doing the work, or staring helpless at the process, or even having to worry if it fails, I'm writing this post.
+So here we are, I'm running one of these right now that is significantly changing the core architecture of my firm's platform and instead of manually doing the work, or staring helpless at the process, or even having to worry if it fails, I'm writing this post.
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
