@@ -11,7 +11,7 @@ This page contains a list of the *free* products, plugins, themes or source code
 
 Go ahead and download, contribute to and use them. **Please do me the courtesy  of letting me know if you do**. The source code assumes you are a developer and know how to use it, so I cannot provide support.
 
-If you like my code, plugins or themes, you can support me or this site with a Donation.<br/><a href="https://secure.buyreply.net/Order/MicroCart/hiltmon?DONATE=1" target="_blank"><img class="left" src="/images/buyreply-arrow.png" width="22" height="22" style="border:0;margin-right:6px;">Support with a Donation</a>. Good karma, better looks and awesomer tools  will result.
+If you like my code, plugins or themes, you can <a href="https://secure.buyreply.net/Order/MicroCart/hiltmon?DONATE=1" target="_blank">support me or this site with a Donation</a>. Good karma, better looks and awesomer tools  will result.
 
 If you want to hire me for your own development projects, Hedge Fund, web, Macintosh or iOS, check out my business, [Noverse LLC](http://www.noverse.com).
 
