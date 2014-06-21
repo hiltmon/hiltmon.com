@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Octopress to Jekyll 2.0"
 date: 2014-06-21 16:28:04 -0400
 comments: true
-categories: 
+categories: octopress
 ---
 
 So this happened today:
@@ -21,8 +21,9 @@ Then, to ensure all gems were up to date, I ran
 
 	bundle update
 
-Finally, I got ready
+Finally, I got ready - update source, clean caches and generate the blog. Note that I chose not to update the style as I like my SASS changes.
 
+	rake update_source
 	rake clean
 	rake generate
 	
@@ -43,11 +44,9 @@ Configuration file: /Users/Hiltmon/Projects/Spikes/HiltmonDotCom/_config.yml
 
 **The post had the closing tag, but the excerpt did not.**
 
-To correct this problem, I added the following line in my `_config.yml` to disable excerpts:
+To correct this problem, I added the following line in my `_config.yml` to excerpt manually or the whole post:
 
-	excerpt_separator: "" # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
-	
-*Huge thanks to Schabse Laks at http://slaks.net for figuring this out.*
+	excerpt_separator: "<!--more-->"
 
 The site now generates just fine.
 
