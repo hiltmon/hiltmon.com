@@ -26,7 +26,7 @@ But I think the biggest gain I get from spending time *on the floor* is the rela
 
 As a designer and developer, I am at my peak when I understand the problem domain, and am pretty useless when not. You can learn only so much from meetings and emails, but without knowing what questions to ask, you will always miss out on the "unknown unknowns", the things you do not know that you do not know. *On the floor* you will see things and hear things that you had no idea were happening, can meet the folks doing those things and discuss and understand them. That increases domain knowledge, and that makes you a better designer and developer.
 
-So, one a month at least, spend some time *on the floor*. Feel the pulse, get involved in the conversations, look out for new behaviors, activities and issues and talk about them, observe and identify the flows and habits, and build a better relationship with your users.
+So, once a month at least, spend some time *on the floor*. Feel the pulse, get involved in the conversations, look out for new behaviors, activities and issues and talk about them, observe and identify the flows and habits, and build a better relationship with your users.
 
 Soon, you will no longer be that mysterious IT person, you'll be part of the team. Their part is to do what they do, your part is to make great systems for them. Together, every one wins.
 

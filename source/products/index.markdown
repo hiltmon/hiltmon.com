@@ -11,14 +11,6 @@ Here are *some* of the products that I have developed, for clients or for sale, 
 
 If you want to hire me for your own development projects, Hedge Fund, web, Macintosh or iOS, check out my business, [Noverse LLC](http://www.noverse.com).
 
-## Kifu
-
-{% img right /images/kifu-twitter-logo-128.jpg 128 128 %}
-
-A comprehensive web application to enable *non-profits* to manage their database of constituents, events and campaigns, and finances. Kifu was designed to be flexible yet very easy to use and easy to learn. 
-
-For more, go to [KifuApp.com](http://www.kifuapp.com) or follow [@KifuApp](http://twitter.com/kifuapp) on Twitter.
-
 
 ## TimeToCall
 
@@ -41,6 +33,12 @@ As Noverse, developed the core server, pipeline and platform for [Quandl](http:/
 An iPhone app to browse and purchase from [oo.com.au](http://oo.com.au) Australia’s largest online department store.
 
 **Note:** This product is only available [on the Australian and New Zealand app store](http://itunes.apple.com/au/app/oo-com-au/id422693241?mt=8&ls=1).
+
+## Kifu
+
+{% img right /images/kifu-twitter-logo-128.jpg 128 128 %}
+
+A comprehensive web application to enable *non-profits* to manage their database of constituents, events and campaigns, and finances. Kifu was designed to be flexible yet very easy to use and easy to learn. Sadly, Kifu was shut down in July 2014.
 
 ---
 
