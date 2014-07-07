@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+**UPDATE:** 10.9 or above users, use the [Sonicwall Mobile Connect](https://itunes.apple.com/us/app/sonicwall-mobile-connect/id822514576?mt=12&uo=4&at=10l894) app on the Mac App Store (or learn more at [Sonicwall Mobile Connect for OS X Mavericks](http://www.hiltmon.com/blog/2014/07/07/sonicwall-mobile-connect-for-os-x-mavericks/)).
+
 *TL;DR: Download from [https://sslvpn.demo.sonicwall.com/cgi-bin/welcome](https://sslvpn.demo.sonicwall.com/cgi-bin/welcome). Follow the admin login instructions, then look for NetExtender / Client Downloads.*
 
 **UPDATE:** Saved a copy of the DMG at <a href="http://www.hiltmon.com/files/NetExtender-7.5.757.dmg">http://www.hiltmon.com/files/NetExtender-7.5.757.dmg</a> as the normal login seems to be disabled. (WARNING: Link will eventually get stale).
