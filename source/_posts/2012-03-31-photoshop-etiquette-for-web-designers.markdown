@@ -6,7 +6,7 @@ comments: true
 categories: [Etiquette]
 ---
 
-There is a brilliant list of things web designers *should* be doing when desiging web apps in PhotoShop at [the photoshop etiquette manifesto for web designers](http://photoshopetiquette.com/). Do these and we developers will have a much easier time implementing your designs.
+There is a brilliant list of things web designers *should* be doing when designing web apps in PhotoShop at [the photoshop etiquette manifesto for web designers](http://photoshopetiquette.com/). Do these and we developers will have a much easier time implementing your designs.
 
 Applies to iOS app designers, Mac App designers, in fact any app designers too.
 
