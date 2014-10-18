@@ -18,7 +18,7 @@ If you want to hire me for your own development projects, Hedge Fund, web, Macin
 
 An iPhone and iPad app to show you the best time to call overseas. Play with time to find the right time to call across a wide variety of places. Or read all about how it was developed in my [huge 10+ part series of articles]({{ root_url }}/blog/categories/timetocall/).
 
-For more, see the [TimeToCall]({{ root_url }}/timetocall/) page.
+<!-- For more, see the [TimeToCall]({{ root_url }}/timetocall/) page. -->
 
 ## Quandl
 
