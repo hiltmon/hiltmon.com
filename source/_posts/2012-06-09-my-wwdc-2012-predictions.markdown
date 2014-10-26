@@ -6,7 +6,7 @@ comments: true
 categories: [Apple]
 ---
 
-After writing [Annual Apple WWDC Disappointment](http://www.hiltmon.com/blog/2012/06/05/annual-apple-wwdc-disappointment/), several people have asked me what I do expect at the WWDC 2012 keynote, ignoring the rumors. So here it is, my WWDC 2012 keynote predictions, what I think in my opinion, without rumor or factual basis, will be covered at the WWDC 2012 keynote on Monday:
+After writing [Annual Apple WWDC Disappointment](http://hiltmon.com/blog/2012/06/05/annual-apple-wwdc-disappointment/), several people have asked me what I do expect at the WWDC 2012 keynote, ignoring the rumors. So here it is, my WWDC 2012 keynote predictions, what I think in my opinion, without rumor or factual basis, will be covered at the WWDC 2012 keynote on Monday:
 
 * **Sales**: Apple has had its best year ever, and Tim Cook will enjoy sharing the numbers. And he should!
 * **OS X 10.8 Mountain Lion**: We'll get a clearer release date and a top 10 new feature demo. At least 8 will be features we already know, and one will be a lot more on the Messages app. Maybe a new developer beta, but it's not ready yet.
@@ -14,7 +14,7 @@ After writing [Annual Apple WWDC Disappointment](http://www.hiltmon.com/blog/201
 * **iCloud**: It was announced last year, it will get more features this year. Now that MobileMe is gone, I expect iCloud to take on some of its features, such as photo galleries and maybe personal web hosting. But more, I expect that iCloud synching will just work better.
 * **Apple TV**: Nothing new here, it was updated recently.
 * **Apple applications**: I expect new versions of the iLife and iWork suites. Neither has been updated in ages (iWork was in January '09), and all would work better with iCloud (Their iOS versions already do). I do not expect any of the Pro applications to be updated, they'll save that for another event.
-* **Hardware updates**: I expect Mac Pro updates as we developers love our Mac Pro's (see my [The Last of the Workstations](http://www.hiltmon.com/blog/2012/06/03/the-last-of-the-workstations/)). And probably a 15" MacBook Pro update. But no laptop retina displays (or it's going to cost me!).
+* **Hardware updates**: I expect Mac Pro updates as we developers love our Mac Pro's (see my [The Last of the Workstations](http://hiltmon.com/blog/2012/06/03/the-last-of-the-workstations/)). And probably a 15" MacBook Pro update. But no laptop retina displays (or it's going to cost me!).
 * **Steve Jobs**: It's been 9 months, and I think Apple will spend a small amount of WWDC keynote time just remembering him. And this will be the last time they bring Steve Jobs up in public.
 * **No "one more thing"**: That's it, no new product lines, no TV, just good old operating system and developer updates.
 

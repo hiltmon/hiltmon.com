@@ -14,4 +14,4 @@ The fragility of free is a catchy term that describes what happens when the free
 
 I also like to, and do prefer to, pay for things.
 
-See also: [Developers, a Love Story](http://www.hiltmon.com/blog/2012/01/23/developers-a-love-story/)
+See also: [Developers, a Love Story](http://hiltmon.com/blog/2012/01/23/developers-a-love-story/)

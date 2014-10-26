@@ -10,7 +10,7 @@ In the [comments](http://hiltmon.com/blog/2013/04/15/my-textmate-2-setup/#commen
 
 It was easy because Sublime Text uses TextMate's `.tmLanguage` file format for syntax highlighting. I just created a new bundle using the Bundle Editor, created a new Syntax file and pasted in Eric Percifield's ([@medalink7](https://twitter.com/medalink7)) code. Then tested it with the example in his repo.
 
-You can download the bundle here: [Laravel Blade.tmbundle](http://www.hiltmon.com/files/Laravel-Blade.tmbundle.zip).
+You can download the bundle here: [Laravel Blade.tmbundle](http://hiltmon.com/files/Laravel-Blade.tmbundle.zip).
 
 **To Install:** Unzip the file and double-click the `Laravel Blade.tmBundle` icon to have TextMate install it for you. Alternatively, drag and drop the `Laravel Blade.tmBundle` to `~/Library/Application Support/Avian/Bundles/` folder.
 

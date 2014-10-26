@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-While I was working on my [Adverse Apple Articles](http://www.hiltmon.com/blog/2012/11/08/adverse-apple-articles/) post this morning, Marco Arment was writing this: [Linking to bullshit](http://www.marco.org/2012/11/07/linking-to-bullshit):
+While I was working on my [Adverse Apple Articles](http://hiltmon.com/blog/2012/11/08/adverse-apple-articles/) post this morning, Marco Arment was writing this: [Linking to bullshit](http://www.marco.org/2012/11/07/linking-to-bullshit):
 
 {% blockquote %}
 If you truly dislike bullshit writing and don’t want to support it, hit the publishers where it hurts: don’t read it, and don’t link to it.

@@ -33,6 +33,6 @@ I was sitting down to design an iOS widget to display an analogue clock face for
 
 **I wrote this to remind myself not to prematurely flexify classes.** [YAGNI](http://c2.com/cgi/wiki?YouArentGonnaNeedIt) FTW!
 
-*Follow up: [How to Flexify a Class](http://www.hiltmon.com/blog/2012/12/19/how-to-flexify-a-class/) tells you what to do when the day comes that you do need to add features or flexibility to a class.*
+*Follow up: [How to Flexify a Class](http://hiltmon.com/blog/2012/12/19/how-to-flexify-a-class/) tells you what to do when the day comes that you do need to add features or flexibility to a class.*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

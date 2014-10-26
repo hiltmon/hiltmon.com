@@ -16,7 +16,7 @@ One of the things I am religious about in a client engagement is documenting wha
 
 This process is great as I can always tell what I did, why I did it and how I did it. I also record all the key information I needed or used, IP addresses, logins, passwords, etc. That way, whenever I need it again, I can search these logs to find this project specific data.
 
-Notes, meeting notes, agendas, document drafts, etc are all recorded and managed in [nvAlt](http://brettterpstra.com/project/nvalt/) using my file naming convention of file type, client, subject and date (See [Distributed Note Taking](http://www.hiltmon.com/blog/2012/05/22/distributed-note-taking/)). I regularly archive these to keep nvAlt clean, but again, the data is findable.
+Notes, meeting notes, agendas, document drafts, etc are all recorded and managed in [nvAlt](http://brettterpstra.com/project/nvalt/) using my file naming convention of file type, client, subject and date (See [Distributed Note Taking](http://hiltmon.com/blog/2012/05/22/distributed-note-taking/)). I regularly archive these to keep nvAlt clean, but again, the data is findable.
 
 Any contacts or people I deal with, I add to my address book. Once every few weeks, I clean my inbox and drag all project specific emails into a project folder. These too are searchable.
 

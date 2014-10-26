@@ -6,7 +6,7 @@ comments: true
 categories: [Productivity, Reviews]
 ---
 
-*Editor's Note: Written six months ago, I've since moved on to using [Glui - a better Skitch](http://www.hiltmon.com/blog/2013/02/20/glui-a-better-skitch/) to replace Skitch.*
+*Editor's Note: Written six months ago, I've since moved on to using [Glui - a better Skitch](http://hiltmon.com/blog/2013/02/20/glui-a-better-skitch/) to replace Skitch.*
 
 ## Bye bye Skitch
 

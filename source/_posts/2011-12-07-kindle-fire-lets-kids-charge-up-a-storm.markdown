@@ -12,7 +12,7 @@ Reuters, today, in [Amazon's Kindle Fire lets kids charge up a storm](http://sg.
 ...it comes with your Amazon account information preloaded, along with "1-Click" ordering. That means anyone who is holding that device can place an order, whether it's their account or not.
 {% endblockquote %}
 
-My question is whether this behavior is by design or by accident. In [Almost No-one Changes Their Settings](http://www.hiltmon.com/blog/2011/11/27/almost-no-one-changes-their-settings/) I referred an example from Microsoft where the settings were the result of what the developer left them as, not what was best for the user.
+My question is whether this behavior is by design or by accident. In [Almost No-one Changes Their Settings](http://hiltmon.com/blog/2011/11/27/almost-no-one-changes-their-settings/) I referred an example from Microsoft where the settings were the result of what the developer left them as, not what was best for the user.
 
 In this case, it sure is in the interest of Amazon to leave this on. Frictionless purchasing is what makes them money. Lots of money. And the Fire is merely another sales channel for them, not a reader, video watcher or game player like other tablets.
 

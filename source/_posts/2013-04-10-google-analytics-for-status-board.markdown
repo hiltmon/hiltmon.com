@@ -10,7 +10,7 @@ I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's
 
 **Update: For a far simpler install that runs on your web server using PHP, see [Google Analytics for Status Board Server Edition]({{ root_url}}/blog/2013/05/30/google-analytics-for-status-board-server-edition/).**
 
-<span class="light">Update: Also added a script for [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), for [Hourly Stats](http://www.hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/) and for [OS and Browser Stats](http://www.hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
+<span class="light">Update: Also added a script for [Top Pages in Status Board](http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), for [Hourly Stats](http://hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/) and for [OS and Browser Stats](http://hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
 
 **Warning: Very geeky. Use at your own peril. Only tested in my environment.**
 
@@ -44,14 +44,14 @@ Download the script from [this gist](https://gist.github.com/hiltmon/5356145) or
 # status_board_ga.rb
 # Hilton Lipschitz 
 # Twitter/ADN: @hiltmon 
-# Web: http://www.hiltmon.com
+# Web: http://hiltmon.com
 # Use and modify freely, attribution appreciated
 #
 # Script to generate @panic status board files for Google Analytics web stats.
 #
 # Run this regularly to update status board
 #
-# For how to set up, see http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/
+# For how to set up, see http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/
 
 # Include the gems needed
 require 'rubygems'

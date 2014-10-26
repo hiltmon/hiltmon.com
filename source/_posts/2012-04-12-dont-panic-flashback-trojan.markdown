@@ -45,4 +45,4 @@ Protecting yourself against virus attacks on a Mac is quite simple. This is what
 
 That's it. Oh and don't panic.
 
-I agree with most security experts, you don't need AV on your Mac unless you like the slowdowns and associated AV crapware. AV finds what may already exist, but will *not* prevent the next infection.  I've already covered this before in [Is Antivirus Software a Waste of Money?](http://www.hiltmon.com/blog/2012/03/05/is-antivirus-software-a-waste-of-money/). It bared repeating.
+I agree with most security experts, you don't need AV on your Mac unless you like the slowdowns and associated AV crapware. AV finds what may already exist, but will *not* prevent the next infection.  I've already covered this before in [Is Antivirus Software a Waste of Money?](http://hiltmon.com/blog/2012/03/05/is-antivirus-software-a-waste-of-money/). It bared repeating.

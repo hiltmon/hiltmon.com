@@ -6,9 +6,9 @@ comments: true
 categories: [ programming, development ]
 ---
 
-In yesterday's post [A Simple C++ Project Structure](http://www.hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/), I mentioned the `spike` folder. In today's post, I'll write more about how I use it.
+In yesterday's post [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/), I mentioned the `spike` folder. In today's post, I'll write more about how I use it.
 
-By the way, I have previously written about [spike solutions](http://www.hiltmon.com/blog/2012/04/06/spike-solutions/), wherein I create solutions for the bigger technical problems at the start of a project to be sure they are achievable. *This is different.*
+By the way, I have previously written about [spike solutions](http://hiltmon.com/blog/2012/04/06/spike-solutions/), wherein I create solutions for the bigger technical problems at the start of a project to be sure they are achievable. *This is different.*
 
 In this case, being back in C++ and rusty as an old door hinge, I also needed to create and test out snippets of code I *could* be using without having to `make` and run the entire product. So I create spike `.cpp` files in the `spike` folder to try things out.
 

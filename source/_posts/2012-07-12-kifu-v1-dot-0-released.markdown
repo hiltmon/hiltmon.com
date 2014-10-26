@@ -16,4 +16,4 @@ Over the next few weeks, we'll be bringing the remainder of our beta customers o
 
 If you have any questions, please do not hesitate to email us at [contact@kifuapp.com](mailto:contact@kifuapp.com) or [contact@shukaico.com](mailto:contact@shukaico.com).
 
-*Noverse LLC is a New York independent software designer and developer, established in 2010 by [Hilton Lipschitz](http://www.hiltmon.com) ([@hiltmon](http://twitter.com/hiltmon)) to craft brilliant web, iOS and Macintosh software. If you are looking for someone to craft a product as great as [Kifu](http://www.kifuapp.com), feel free to contact me at [contact@noverse.com](mailto:contact@noverse.com).*
+*Noverse LLC is a New York independent software designer and developer, established in 2010 by [Hilton Lipschitz](http://hiltmon.com) ([@hiltmon](http://twitter.com/hiltmon)) to craft brilliant web, iOS and Macintosh software. If you are looking for someone to craft a product as great as [Kifu](http://www.kifuapp.com), feel free to contact me at [contact@noverse.com](mailto:contact@noverse.com).*

@@ -16,7 +16,7 @@ But somehow the haters have come out in droves, even though Andy himself tried t
 This isn't the story about how Apple has lost its way and no longer innovates. It hasn't and it still does. This is merely the story of one dude who got a new phone. Nonetheless, my tale presents a picture of the strengths of modern Android.
 {% endblockquote %}
 
-Andy has made a choice that he thinks Android is [better](http://www.hiltmon.com/blog/2013/03/02/better/) for him and is explaining why. As I wrote in my [better](http://www.hiltmon.com/blog/2013/03/02/better/) article, "anytime someone tells you something is better, all they are doing is expressing their personal utility function on something they care about and are prepared to spend real money on". And this is what he is doing. He is not, under any circumstances, stating that his preference is good for anyone else, or promoting some bullshit "Open is better, Apple sucks" memes.
+Andy has made a choice that he thinks Android is [better](http://hiltmon.com/blog/2013/03/02/better/) for him and is explaining why. As I wrote in my [better](http://hiltmon.com/blog/2013/03/02/better/) article, "anytime someone tells you something is better, all they are doing is expressing their personal utility function on something they care about and are prepared to spend real money on". And this is what he is doing. He is not, under any circumstances, stating that his preference is good for anyone else, or promoting some bullshit "Open is better, Apple sucks" memes.
 
 John Gruber ([@gruber](https://twitter.com/gruber)), of [Daring Fireball](http://daringfireball.net), tweeted it best:
 
@@ -24,6 +24,6 @@ John Gruber ([@gruber](https://twitter.com/gruber)), of [Daring Fireball](http:/
 @gedeon @dmoren Put another way, my stance is not “iPhone good, Android bad”, but rather “Truth and insight good, bullshit bad.”
 {% endblockquote %}
 
-I'm with John on this. I may not be an Android fan, but Andy's article is insightful and *his* truth. Android works [better](http://www.hiltmon.com/blog/2013/03/02/better/) for him, iPhone works [better](http://www.hiltmon.com/blog/2013/03/02/better/) for me, and we both can and do respect that.
+I'm with John on this. I may not be an Android fan, but Andy's article is insightful and *his* truth. Android works [better](http://hiltmon.com/blog/2013/03/02/better/) for him, iPhone works [better](http://hiltmon.com/blog/2013/03/02/better/) for me, and we both can and do respect that.
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

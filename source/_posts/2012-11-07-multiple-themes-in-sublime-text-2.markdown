@@ -6,7 +6,7 @@ comments: true
 categories: [Productivity, Text Editors]
 ---
 
-One thing I like to do is to have *different* themes for different file types in my text editor. That way, at a glance, I can guess what kind of file a text-filled window contains, especially when zoomed out using Mission Control. I've been using *Custom Language Preferences* in [BBEdit](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbbedit%252Fid404009241%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) preferences to set up the color scheme for each file type there. *[TextMate 2](https://github.com/textmate/textmate) users, check out [Multiple Themes in TextMate 2](http://www.hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/).*
+One thing I like to do is to have *different* themes for different file types in my text editor. That way, at a glance, I can guess what kind of file a text-filled window contains, especially when zoomed out using Mission Control. I've been using *Custom Language Preferences* in [BBEdit](http://click.linksynergy.com/fs-bin/stat?id=V41G*FiMqjc&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Fbbedit%252Fid404009241%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30) preferences to set up the color scheme for each file type there. *[TextMate 2](https://github.com/textmate/textmate) users, check out [Multiple Themes in TextMate 2](http://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/).*
 
 
 But how to do this in [Sublime Text 2](http://www.sublimetext.com)?
@@ -48,4 +48,4 @@ You may need to restart Sublime Text 2 after this.
 
 Next time you open a file where you have set type-specific user settings, the theme specified will be used. Nice!
 
-See also [My Sublime Text 2 Setup](http://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multi-Platform Editing Is Sublime](http://www.hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.
+See also [My Sublime Text 2 Setup](http://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multi-Platform Editing Is Sublime](http://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.

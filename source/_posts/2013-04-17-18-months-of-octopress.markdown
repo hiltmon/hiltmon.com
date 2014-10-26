@@ -60,7 +60,7 @@ In short, switching to [Octopress][1] 18 months ago was a brilliant decision for
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	http://octopress.org
-[2]:	http://www.hiltmon.com
+[2]:	http://hiltmon.com
 [3]:	http://wordpress.org
 [4]:	https://itunes.apple.com/us/app/rapidweaver/id402477569?mt=12&uo=4&at=10l894
 [5]:	http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/

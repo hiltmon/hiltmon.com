@@ -10,8 +10,8 @@ categories: [ Web ]
 
 It looks like Google is about to kill off [Feedburner](http://feedburner.google.com), so its best if we get started on the transition. Going forward, I'll be using [Octopress'](http://octopress.org) built-in RSS feed. Please re-subscribe to **The Hiltmon RSS Feed** at:
 
-<!-- [http://www.hiltmon.com/atom.xml](http://www.hiltmon.com/atom.xml) -->
-[http://www.hiltmon.com/feed/](http://www.hiltmon.com/feed/)
+<!-- [http://hiltmon.com/atom.xml](http://hiltmon.com/atom.xml) -->
+[http://hiltmon.com/feed/](http://hiltmon.com/feed/)
 
 New subscribers will get the new link when you subscribe from my toolbar or your browser bar.
 

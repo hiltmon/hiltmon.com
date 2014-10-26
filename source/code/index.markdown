@@ -31,7 +31,7 @@ Download: [CombinedCasts.tmTheme]({{ root_url }}/files/CombinedCasts.tmTheme).
 
 ## TextMate Theme CSV
 
-I created a TextMate 2 bundle to enable me to easily generate `tmTheme` files to have [Multiple Themes in TextMate 2](http://www.hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/). Read the post or the included README file to see how to easily create a new TextMate (or Sublime Text) theme file using simple CSV-like syntax.
+I created a TextMate 2 bundle to enable me to easily generate `tmTheme` files to have [Multiple Themes in TextMate 2](http://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/). Read the post or the included README file to see how to easily create a new TextMate (or Sublime Text) theme file using simple CSV-like syntax.
 
 Repo: [https://github.com/hiltmon/textmate-theme-csv](https://github.com/hiltmon/textmate-theme-csv).
 

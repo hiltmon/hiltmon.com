@@ -6,7 +6,7 @@ comments: true
 categories: [ development, programming ]
 ---
 
-In a previous post, I talked about a [A Simple C++ Project Structure](http://www.hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) that I am using to create a bunch of high-speed daemons for work.
+In a previous post, I talked about a [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) that I am using to create a bunch of high-speed daemons for work.
 
 It's been fun using TextMate 2 and a Terminal to `make` and run the project, but now that I am getting to the meat of the coding, I'd prefer to use an IDE to help me navigate and debug the code.
 

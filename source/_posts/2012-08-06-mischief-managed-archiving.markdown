@@ -26,7 +26,7 @@ The main benefit of this is that it reduces OmniFocus sync time as all the old c
 
 ## Move old Mails
 
-Clean up your inbox so all the email for the project is safely in its client folder, see my [Mischief Managed: Clean Inbox](http://www.hiltmon.com/blog/2012/08/06/mischief-managed-clean-inbox/) post.
+Clean up your inbox so all the email for the project is safely in its client folder, see my [Mischief Managed: Clean Inbox](http://hiltmon.com/blog/2012/08/06/mischief-managed-clean-inbox/) post.
 
 ## (OLD) Clean Up Documents
 

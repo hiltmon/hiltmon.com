@@ -6,7 +6,7 @@ comments: true
 categories: [ programming ]
 ---
 
-In [Xcode and the Simple C++ Project Structure](http://www.hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/), I showed how to set up Xcode as your IDE for the [Simple C++ Project Structure](http://www.hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).
+In [Xcode and the Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/), I showed how to set up Xcode as your IDE for the [Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).
 
 But one thing does not work, Code Sense. Xcode does not provide code completion or jump to definition for these projects.
 

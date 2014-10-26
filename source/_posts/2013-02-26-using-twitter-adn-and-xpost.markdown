@@ -20,6 +20,6 @@ Either way, I plan to remain me, polite, courteous, curious, stubborn, socially 
 
 Oh, and if you follow me on [@NoverseLLC](http://twitter.com/noversellc) (my company Twitter account), switch to [@hiltmon](http://alpha.app.net/hiltmon). I rarely post on it any more and am considering replacing the company web with a static site and merging the blogs (which means you may see a few more business-like posts here).
 
-So announcing the biggest change in [hiltmon.com](http://www.hiltmon.com) since, well, the last blog post. The new follow message at the bottom <span class="light">(Delta: `s/or/and/i` + "Mute `#xpost` on one.")</span>:
+So announcing the biggest change in [hiltmon.com](http://hiltmon.com) since, well, the last blog post. The new follow message at the bottom <span class="light">(Delta: `s/or/and/i` + "Mute `#xpost` on one.")</span>:
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

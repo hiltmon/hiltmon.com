@@ -31,7 +31,7 @@ no_header: true
 
 [Download it **now** from the App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8) on your iPhone or iPad.
 
-[Read all about how the app was created in a series of articles](http://www.hiltmon.com/blog/categories/timetocall/) on the thinking, effort and decisions that went into the making this iOS app.
+[Read all about how the app was created in a series of articles](http://hiltmon.com/blog/categories/timetocall/) on the thinking, effort and decisions that went into the making this iOS app.
 
 A [Noverse](http://www.noverse.com) production.
 

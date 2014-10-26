@@ -87,7 +87,7 @@ I created the following ruby script to handle the post function. If you want the
 #! /usr/bin/ruby
 
 # post.rb
-# Hilton Lipschitz (http://www.hiltmon.com) @hiltmon
+# Hilton Lipschitz (http://hiltmon.com) @hiltmon
 # Use and modify freely, attribution appreciated
 #
 # Create a new Octopress post, isolate it, generate the

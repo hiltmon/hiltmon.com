@@ -34,6 +34,6 @@ This command downloads all my logs into the correct place in my [standard projec
 
 Lovely!
 
-*Geek Aside: I rarely use this, I get all my stats from Google Analytics, but do occasionally check the `errors.log` file which is how I found that I was missing the [web clip icons](http://www.hiltmon.com/blog/2013/02/10/add-web-clip-icons-to-octopress/).*
+*Geek Aside: I rarely use this, I get all my stats from Google Analytics, but do occasionally check the `errors.log` file which is how I found that I was missing the [web clip icons](http://hiltmon.com/blog/2013/02/10/add-web-clip-icons-to-octopress/).*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

@@ -6,7 +6,7 @@ comments: true
 categories: [Software]
 ---
 
-Following on to last week's [Spike Solutions](http://www.hiltmon.com/blog/2012/04/06/spike-solutions/) piece, I did some work on the second spike, to see if I could use CoreGraphics to render some of the UI components I want for the new product. Wow, worked out great, one less known unknown to deal with. Turns out, CoreGraphics does a lot of what you can do in PhotoShop, just in real time and on the GPU.
+Following on to last week's [Spike Solutions](http://hiltmon.com/blog/2012/04/06/spike-solutions/) piece, I did some work on the second spike, to see if I could use CoreGraphics to render some of the UI components I want for the new product. Wow, worked out great, one less known unknown to deal with. Turns out, CoreGraphics does a lot of what you can do in PhotoShop, just in real time and on the GPU.
 
 The following snaps were generated on the fly, quickly, using code, no image or artwork required, and the values change and update dynamically. The best part, I can skin them later once I pick the theme and design for the product (or just use these as is).
 

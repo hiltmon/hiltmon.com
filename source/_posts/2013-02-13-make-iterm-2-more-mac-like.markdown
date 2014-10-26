@@ -8,7 +8,7 @@ categories: [ Macintosh ]
 
 I just switched from using Apple’s built-in Terminal.app to the free [iTerm 2](http://www.iterm2.com/#/section/home) on a recommendation from [Brett Terpstra](http://brettterpstra.com). I’m already loving the hot-key profiles to launch uniquely colored remote sessions, the split panes, and the brilliant hotkey window (useful to run a single command and get rid of it).
 
-But there are a few things that needed some work. Some of the usual Mac editing keys did not work, I got rid of a few annoyances and added a few lovely preferences, and I needed the ability to create a new terminal window on the *current* space as part of my [being productive with virtual desktops](http://hiltmon.com/blog/2013/01/17/being-productive-with-virtual-desktops/) flow (Just like [Browser Windows on All Desktops](http://www.hiltmon.com/blog/2013/01/19/browser-windows-on-all-desktops/)).
+But there are a few things that needed some work. Some of the usual Mac editing keys did not work, I got rid of a few annoyances and added a few lovely preferences, and I needed the ability to create a new terminal window on the *current* space as part of my [being productive with virtual desktops](http://hiltmon.com/blog/2013/01/17/being-productive-with-virtual-desktops/) flow (Just like [Browser Windows on All Desktops](http://hiltmon.com/blog/2013/01/19/browser-windows-on-all-desktops/)).
 
 ### Mac-like keys
 
@@ -90,6 +90,6 @@ The second step resizes the window so that it is 100 x 42 lines, my personally p
 
 So far, I am really enjoying the small touches that make [iTerm 2](http://www.iterm2.com/#/section/home) that much better than Terminal.app.
 
-Related Reading: [Fast SSH Windows With iTerm 2](http://www.hiltmon.com/blog/2013/07/18/fast-ssh-windows-with-iterm-2/)
+Related Reading: [Fast SSH Windows With iTerm 2](http://hiltmon.com/blog/2013/07/18/fast-ssh-windows-with-iterm-2/)
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

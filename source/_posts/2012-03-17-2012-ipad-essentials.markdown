@@ -6,7 +6,7 @@ comments: true
 categories: [iPad]
 ---
 
-*Editor’s Note: This was written way back in March 2012 with the launch of the iPad 3. For updates see [2012 Year End iPad Essentials](http://www.hiltmon.com/blog/2012/12/26/2012-year-end-ipad-essentials/).*
+*Editor’s Note: This was written way back in March 2012 with the launch of the iPad 3. For updates see [2012 Year End iPad Essentials](http://hiltmon.com/blog/2012/12/26/2012-year-end-ipad-essentials/).*
 
 The new iPad arrived yesterday. Instead of restoring from a backup, I decided to build it clean and install only essential apps.  Here are the ones (*excluding games*) that made it in the first 24 hours, pretty much in order of addition:
 

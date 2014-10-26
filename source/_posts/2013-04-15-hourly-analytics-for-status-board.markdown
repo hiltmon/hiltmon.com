@@ -6,15 +6,15 @@ comments: true
 categories: [ Status Board ]
 ---
 
-Following up last week's [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph and [Top Pages](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) table on [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894), a reader asked for **hourly stats** instead of daily, so I created it (see the bottom-right graph).
+Following up last week's [Google Analytics for Status Board](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph and [Top Pages](http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) table on [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894), a reader asked for **hourly stats** instead of daily, so I created it (see the bottom-right graph).
 
-<span class="light">See also [Top Pages in Status Board](http://www.hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), [Daily Stats](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) and [OS and Browser Stats](http://www.hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
+<span class="light">See also [Top Pages in Status Board](http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), [Daily Stats](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) and [OS and Browser Stats](http://hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
 
 {% img /images/status-board-hourly.jpg 640 480 %}
 
 The script creates a 24-hour rotating window of stats using your local time-zone for reference. *Note that I have only tested this in US EST, but it should work elsewhere.*
 
-The steps are all the same as [Google Analytics for Status Board](http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/), so follow along, only replace that script and the launcher files with these.
+The steps are all the same as [Google Analytics for Status Board](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/), so follow along, only replace that script and the launcher files with these.
 
 * Install the `json` and `gattica` gems
 * Configure the script with your own parameters (and optionally change the Google Analytics account using the script at [https://gist.github.com/hiltmon/5373934](https://gist.github.com/hiltmon/5373934)  to get the index and uncomment line 45 to set it).
@@ -28,7 +28,7 @@ The script code is in `status_board_hourly.rb`:
 # status_board_hourly.rb
 # Hilton Lipschitz 
 # Twitter/ADN: @hiltmon 
-# Web: http://www.hiltmon.com
+# Web: http://hiltmon.com
 # Use and modify freely, attribution appreciated
 #
 # Script to generate @panic status board files for Google Analytics web stats. This one generates a 
@@ -36,7 +36,7 @@ The script code is in `status_board_hourly.rb`:
 #
 # Run this regularly to update status board
 #
-# For how to set up, see http://www.hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/
+# For how to set up, see http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/
 
 # Include the gems needed
 require 'rubygems'

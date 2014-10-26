@@ -6,7 +6,7 @@ comments: true
 categories: Apple
 ---
 
-As part of my research into [AAPL vs AMZN Performance Madness](http://www.hiltmon.com/blog/2012/11/05/aapl-vs-amzn-performance-madness/), I noticed a lot of negative press on AAPL's share price. So I decided to wait until after the election, then sample the press again to see whether it was a blip or a trend.
+As part of my research into [AAPL vs AMZN Performance Madness](http://hiltmon.com/blog/2012/11/05/aapl-vs-amzn-performance-madness/), I noticed a lot of negative press on AAPL's share price. So I decided to wait until after the election, then sample the press again to see whether it was a blip or a trend.
 
 In short, the evidence points to a concerted effort to create a negative impression of Apple and push the stock price down. Lets take a look, shall we.
 

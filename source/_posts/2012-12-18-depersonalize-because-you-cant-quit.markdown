@@ -6,7 +6,7 @@ comments: true
 categories: Social
 ---
 
-My Twitter stream today is full of people quitting Instagram because of the new Terms of Service, see [You’re the Advertisement](http://www.hiltmon.com/blog/2012/12/17/youre-the-advertisement/). Six months ago, it was Twitter, and six months before that it was Facebook. Quitting over privacy.
+My Twitter stream today is full of people quitting Instagram because of the new Terms of Service, see [You’re the Advertisement](http://hiltmon.com/blog/2012/12/17/youre-the-advertisement/). Six months ago, it was Twitter, and six months before that it was Facebook. Quitting over privacy.
 
 Except they didn’t quit. They are all *still* on Twitter and Facebook and will remain on Instagram, because we, their friends are still there and the service remains awesomely useful.
 
