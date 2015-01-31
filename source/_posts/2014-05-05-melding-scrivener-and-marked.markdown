@@ -149,6 +149,8 @@ This allows you to preview the Scrivener document in Marked as it would appear w
 
 You can also set your preferred stylesheet in the **Style** tab to save time when previewing the document.
 
+**Update:** This post was written for Marked 1, it still works with Marked 2. But if you have the App Store version, you will need to give Marked permission to access your hard drive to retrieve images. Go to **Preferences** / **Advanced** and click on **Update Permissions** to enable. <span class="light">(Thanks to reader George Entenman (@zabouti) for the tip.)</span>
+
 **Any settings for the final exported Markdown document?**
 
 I like to have the document name and page numbers at the bottom of the page when I print. In **Printing**, I set the Bottom-Left to `%title` and the Bottom-Right to `Page %page of %total` and changed the font to match the style. I also check the **Border / Below Header**  and **Border / Above Footer** as I prefer a line there. Click **Save & Apply** to save your changes.

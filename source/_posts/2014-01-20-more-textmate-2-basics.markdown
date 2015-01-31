@@ -73,7 +73,7 @@ If you mouse instead (like I do), {" single-click the file icon to open it in th
 
 The tabs at the top are also smart in TextMate 2. If you have the file browser open and request a file that is in the same tree as the currently open folder, it opens in a new tab. If not, it opens in a new window. TextMate therefore tabs or windows depending on the context of the file, automatically determining project membership. This even works when you use `mate <filename>` from the command-line.
 
-We all open a lot of tabs as we work, especially in Rails development. And it's a pain to close each tab individually. If you `⌘-click` on a tab close button, all other *saved* tabs will close.
+We all open a lot of tabs as we work, especially in Rails development. And it's a pain to close each tab individually. If you `⌥-click` on a tab close button, all other *saved* tabs will close.
 
 You can also drag a tab out of the tab bar (or double-click on it) to move it to a new window. If you want it back, use the **Window / Merge All Windows** menu. Currently this merges all windows into one, here's hoping they use the smart logic for creating tabs and windows to find a way to merge to project-based windows someday.
 
