@@ -8,23 +8,25 @@ categories:
 
 {% img right /images/asana_to_omnifocus.png 363 130 %}
 
+**Note: Updated the script, see [Merge Asana Projects Into OmniFocus Updated](http://hiltmon.com/blog/2015/03/01/merge-asana-projects-into-omnifocus-updated/).**
+
 I use [OmniFocus](https://itunes.apple.com/us/app/omnifocus/id402835630?mt=12&uo=4&at=10l894) to manage my personal tasks and activities, but my company uses [Asana](https://asana.com/) to manage Project tasks and activities amongst the team. I am so used to using OmniFocus that I often forget to check or update Asana, and thus miss tasks assigned to me or progress by the team.
 
 Wouldn't it be nice if the projects and tasks in Asana also appeared in OmniFocus? And were updated when they changed in Asana?
 
 So I wrote a script to import Asana Projects and Tasks, and then to update them as they change in Asana.
 
-**Download**: [Gist 9786291](https://gist.github.com/hiltmon/9786291) <span class="light">Read below on how to set it up and run it. Warning: Alpha!</span>
+**Download**: [<del>Gist 9786291</del>Gist "merge_asana_into_omnifocus.rb"](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca) <span class="light">Read below on how to set it up and run it. Warning: Alpha!</span>
 
-What the [script](https://gist.github.com/hiltmon/9786291) does is: 
+What the [script](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca) does is: 
 
 1. Scans Asana for all projects and creates an OmniFocus project in the folder **Asana**. It also ignores archived projects in Asana as you do not need to see those.
 2. Scans each project for tasks and creates an OmniFocus task for it. It also captures the notes and due date for the task. If the task is subsequently completed in Asana, it will complete the task in OmniFocus. If the task does not exist in OmniFocus and is already completed, it will not create it.
 3. If you are *not* the assignee (the person the task is associated with), it creates a context under **People** for the assignee (so you can see who the task is for - and leaves the context blank for yourself). This is necessary as the Asana API returns all tasks for a project no matter the assignee.
 4. If there are sub-tasks to the task, the script will create those as well (with notes, due dates, completion status and context). You can turn this off in the script if you do not use sub-tasks to speed up merges.
-5. You can run the [script](https://gist.github.com/hiltmon/9786291) again and again. If a project or task exists, it will be updated *and overwritten* with the changes in Asana.
+5. You can run the [script](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca) again and again. If a project or task exists, it will be updated *and overwritten* with the changes in Asana.
 
-The [script](https://gist.github.com/hiltmon/9786291) **does not**:
+The [script](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca) **does not**:
 
 1. *The script does not* sync data back to Asana. This is a one way *merge-in*. I have no way to track Asana id's and keep things in sync. **You still have to maintain and complete tasks in Asana**
 2. The script screws up if the task or project name changes. It uses these names to match OmniFocus, not ID's. Since *most of the time* we never change the project or task name, this works.
@@ -55,7 +57,7 @@ Click on **Apps** to get your API Key. Click on the **API Key...** link to see i
 
 {% img /images/asana_api_key.png 533 341 %}
 
-Open the [script](https://gist.github.com/hiltmon/9786291) in a text editor and insert your API key and Profile Name at the top.
+Open the [script](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca) in a text editor and insert your API key and Profile Name at the top.
 
 	...
 	class MergeAsanaIntoOmnifocus
@@ -67,7 +69,7 @@ Open the [script](https://gist.github.com/hiltmon/9786291) in a text editor and 
 	  def get_json_data(url_string)
 	  ...
 
-Download: [Gist 9786291](https://gist.github.com/hiltmon/9786291)
+Download: [<del>Gist 9786291</del>Gist "merge_asana_into_omnifocus.rb"](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca)
 
 ### Running It
 
@@ -93,6 +95,6 @@ To update with the latest data from Asana, just run it again.
 
 But if you do use it, let me know in the comments or via Twitter. And if you have any ideas for changes or enhancements, let me know.
 
-Download: [Gist 9786291](https://gist.github.com/hiltmon/9786291)
+Download: [<del>Gist 9786291</del>Gist "merge_asana_into_omnifocus.rb"](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca)
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
