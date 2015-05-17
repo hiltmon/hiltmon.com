@@ -3,7 +3,7 @@ layout: post
 title: "My Mac Indie Writing Workflow"
 date: 2013-05-28 12:39
 comments: true
-categories: [ Macintosh, Writing ]
+categories: [ Macintosh, Writing, Scrivener ]
 ---
 
 Over the past few years, I have been writing more and more on my Mac, whether it be single blog posts, blog series, systems documentation, knowledge bases and other articles. The best part is that all the tools I use are *indie* developed from all over the world, are amazingly great and way better than their mainstream counterparts.

@@ -80,7 +80,7 @@ Page 2 and 3 contain all my third party applications. Yes, in *alphabetical* ord
 * [Pixelmator](http://www.pixelmator.com), installed before I went back to [Photoshop](http://www.adobe.com/products/photoshop.html)
 * [Qt Creator](http://qt-project.org) for legacy code
 * [Remote Desktop Connection](http://www.microsoft.com/mac/remote-desktop-client) so I don't have to get close to the Windows servers
-* [RingCentral](http://www.ringcentral.com) for the work IP Phone
+* R**gCentral for the work IP Phone <span class="light">(They actually emailed me to remove the link, no more business for them!)</span>
 * [Sequel Pro](http://www.sequelpro.com) to access our MySQL database
 * [Screenflow](http://www.telestream.net/screenflow/) to create videos for users, they love these
 * [Scrivener](https://www.literatureandlatte.com) for long form writing

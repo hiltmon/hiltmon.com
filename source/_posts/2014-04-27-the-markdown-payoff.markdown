@@ -3,7 +3,7 @@ layout: post
 title: "The Markdown Payoff"
 date: 2014-04-27 12:33:04 -0400
 comments: true
-categories: Markdown
+categories: [Markdown, Scrivener]
 ---
 
 {% img right /images/markdown.png 208 128 %}

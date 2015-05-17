@@ -3,7 +3,7 @@ layout: post
 title: "Why Microsoft Word must Die"
 date: 2013-10-13 09:57
 comments: true
-categories: 
+categories: Scrivener
 ---
 
 Charles Stross, yes, *that* Charles Stross writes in [Why Microsoft Word must Die](http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html):

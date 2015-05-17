@@ -3,7 +3,7 @@ layout: post
 title: "Rarely Microsoft Office"
 date: 2012-11-07 12:03
 comments: true
-categories: Microsoft
+categories: [Microsoft, Scrivener]
 ---
 
 I rarely use Microsoft Office. There, I said it. And it's true. There are electronic cobwebs on my copy. You may now run out of the room screaming. 

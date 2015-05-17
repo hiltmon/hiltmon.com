@@ -3,7 +3,7 @@ layout: post
 title: "Melding Scrivener and Marked"
 date: 2014-05-05 20:07:17 -0400
 comments: true
-categories: 
+categories: [Markdown, Scrivener]
 ---
 
 If you are a regular reader of this blog, you will know that I do all my writing using [Markdown](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) format, short-form in [Byword](http://bywordapp.com), long-form in [Scrivener](http://www.literatureandlatte.com/scrivener.php) and generate the final document using [Marked](http://marked2app.com).
