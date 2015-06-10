@@ -6,6 +6,8 @@ comments: true
 categories: [ Status Board ]
 ---
 
+<span class="light">Google has finally deprecated their GAPI interface which this used to talk to Google Analytics, sorry folks, it will no longer work. See the [New Google Analytics for Status Board Server Edition]({{ root_url }}/blog/2015/06/07/new-google-analytics-for-status-board-server-edition/) for an updated version. </span>
+
 Reader Brandon Cozart ([@brandoncozart](http://twitter.com/brandoncozart)) asked if it were possible to add **Browser** and **OS** statistics to the [Google Analytics for Status Board]({{ root_url }}/blog/2013/04/10/google-analytics-for-status-board/) scripts. So I gave it a shot.
 
 <span class="light">Update: Download again if you use these scripts, a null value bug and sorting bugs have been fixed.</span>

@@ -4,7 +4,6 @@ title: "Slicy Photoshop Artwork"
 date: 2012-07-11 21:50
 comments: true
 categories: [Reviews]
-alias: /blog/2012/07/11/layer-cake-photoshop-artwork/index.html
 ---
 
 I have been using the same process to export application artwork using [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) *forever*. Most Mac, iOS and Web applications have large numbers of small image files that are used everywhere. They need to be sliced up, scaled and exported into the files and formats needed by the application. Exporting multiple art items in multiple resolutions has been a tedious and time consuming task, a task that had to be repeated manually every time the artwork changed. Until now.

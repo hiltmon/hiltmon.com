@@ -4,6 +4,7 @@ require 'octopress-hooks'
 require 'jekyll-sitemap'
 require 'octopress-date-format'
 require './plugins/raw'
+require 'rubypants'
 
 module OctopressFilters
   def self.pre_filter(page)

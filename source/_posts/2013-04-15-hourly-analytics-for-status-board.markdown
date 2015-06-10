@@ -6,6 +6,8 @@ comments: true
 categories: [ Status Board ]
 ---
 
+<span class="light">Google has finally deprecated their GAPI interface which this used to talk to Google Analytics, sorry folks, it will no longer work. See the [New Google Analytics for Status Board Server Edition]({{ root_url }}/blog/2015/06/07/new-google-analytics-for-status-board-server-edition/) for an updated version. </span>
+
 Following up last week's [Google Analytics for Status Board](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph and [Top Pages](http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/) table on [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894), a reader asked for **hourly stats** instead of daily, so I created it (see the bottom-right graph).
 
 <span class="light">See also [Top Pages in Status Board](http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/), [Daily Stats](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) and [OS and Browser Stats](http://hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>

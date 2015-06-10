@@ -6,6 +6,8 @@ comments: true
 categories: [ Status Board ]
 ---
 
+<span class="light">Google has finally deprecated their GAPI interface which this used to talk to Google Analytics, sorry folks, it will no longer work. See the [New Google Analytics for Status Board Server Edition]({{ root_url }}/blog/2015/06/07/new-google-analytics-for-status-board-server-edition/) for an updated version. </span>
+
 Dropbox went down today, and I found out when my [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894) stopped updating. This spurred me on to migrate my [Google Analytics for Status Board]({{ root_url }}/blog/2013/04/10/google-analytics-for-status-board/) scripts from Ruby and Dropbox over to server based PHP. <span class="light">Huge thanks to [Carl Franzon](http://www.carlfranzon.com/2013/04/google-analytics-panel-for-status-board/) for the starter code.</span>
 
 **Warning: This version of the scripts requires PHP v5.3. It also uses a hacked version of the Google GAPI library that runs against the Google v2.4 API. The current Google API is v3, but that requires complex OAuth2 access, which is a pain in the *gazoot* to implement. <span class="light">Expect Google to deprecate the old API, probably tomorrow and without notice.</span>**

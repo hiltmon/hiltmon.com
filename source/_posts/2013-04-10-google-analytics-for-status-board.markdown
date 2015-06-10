@@ -6,6 +6,8 @@ comments: true
 categories: [ Status Board ]
 ---
 
+<span class="light">Google has finally deprecated their GAPI interface which this used to talk to Google Analytics, sorry folks, it will no longer work. See the [New Google Analytics for Status Board Server Edition]({{ root_url }}/blog/2015/06/07/new-google-analytics-for-status-board-server-edition/) for an updated version. </span>
+
 I wanted to see the 7-day Hiltmon.com web stats from Google Analytics on Panic's new [Status Board app](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894). Here is how I got it to work.
 
 **Update: For a far simpler install that runs on your web server using PHP, see [Google Analytics for Status Board Server Edition]({{ root_url}}/blog/2013/05/30/google-analytics-for-status-board-server-edition/).**
