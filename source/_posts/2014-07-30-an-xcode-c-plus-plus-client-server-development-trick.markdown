@@ -3,7 +3,7 @@ layout: post
 title: "An Xcode C++ Client-Server Development Trick"
 date: 2014-07-30 19:57:01 -0400
 comments: true
-categories: 
+categories: [ c++ ]
 ---
 
 I'm working on a C++ product that has a series of client executables that need to talk to a server executable. And they all share a lot of common code.

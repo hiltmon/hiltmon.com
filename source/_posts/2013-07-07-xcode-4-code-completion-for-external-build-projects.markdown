@@ -3,7 +3,7 @@ layout: post
 title: "Xcode 4 Code Completion for External Build Projects"
 date: 2013-07-07 21:53
 comments: true
-categories: [ programming ]
+categories: [ programming, c++ ]
 ---
 
 In [Xcode and the Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/), I showed how to set up Xcode as your IDE for the [Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).

@@ -3,7 +3,7 @@ layout: post
 title: "Simple C++ Testing with Catch in Xcode"
 date: 2014-10-26 14:34:32 -0400
 comments: true
-categories: [development, programming]
+categories: [development, programming, c++]
 ---
 
 {% img right /images/catch-logo-small.png 300 145 %}

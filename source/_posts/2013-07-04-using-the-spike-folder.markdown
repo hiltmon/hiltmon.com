@@ -3,7 +3,7 @@ layout: post
 title: "Using the Spike Folder"
 date: 2013-07-04 17:48
 comments: true
-categories: [ programming, development ]
+categories: [ programming, development, c++ ]
 ---
 
 In yesterday's post [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/), I mentioned the `spike` folder. In today's post, I'll write more about how I use it.

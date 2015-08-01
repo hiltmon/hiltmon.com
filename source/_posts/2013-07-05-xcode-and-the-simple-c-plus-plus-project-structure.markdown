@@ -3,7 +3,7 @@ layout: post
 title: "Xcode and the Simple C++ Project Structure"
 date: 2013-07-05 11:31
 comments: true
-categories: [ development, programming ]
+categories: [ development, programming, c++ ]
 ---
 
 In a previous post, I talked about a [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) that I am using to create a bunch of high-speed daemons for work.

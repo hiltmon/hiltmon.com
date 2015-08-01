@@ -3,7 +3,7 @@ layout: post
 title: "Reprogramming my Brace Style Mind"
 date: 2013-01-07 13:24
 comments: true
-categories: Programming
+categories: [programming, c++]
 ---
 
 Each and every programmer has their own style of coding, their own preferences for how code should look, and are generally happy to argue the case for their preference. Somehow these discussions became heated, and the most fights happen over **spaces vs tabs** (See [Tabs versus Spaces: An Eternal Holy War.](http://www.jwz.org/doc/tabs-vs-spaces.html) and [Death to the Space Infidels!](http://www.codinghorror.com/blog/2009/04/death-to-the-space-infidels.html)), **the 80 column rule** (See [In defense of the 80-column rule](http://zuzu-curl.blogspot.com/2010/02/in-defense-of-80-column-rule.html)) and **brace indent style**.
