@@ -4,18 +4,27 @@
 
 //$header-bg: #263347;
 $header-bg: #333333;
+//$header-bg: #DDDDDD;
 $subtitle-color: lighten($header-bg, 58);
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5); // Original
 //$nav-bg: desaturate(lighten(#76a9d1, 18), 5); // HIL
-$nav-bg: desaturate(lighten(#4388c4, 18), 5); // HIL
+//$nav-bg: desaturate(lighten(#1389D5,10),0); // HIL
+//$nav-bg-front: image-url('noise.png');
+//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
+$nav-bg: #1389D5;
+$nav-color: lighten($nav-bg, 38);
+$nav-color-hover: darken($nav-color, 75);
+
 $nav-bg-front: image-url('noise.png');
-$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
+$nav-bg-back: linear-gradient(lighten($nav-bg, 0), $nav-bg, darken($nav-bg, 0));
+$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);
 //$sidebar-link-color-hover: darken(#7ab662, 9);
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$title_color: #263347;
+$subtitle-color: #263347;
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */

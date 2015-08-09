@@ -19,7 +19,7 @@ And then I got back into the game.
 
 I have released a whole bunch of free code, bundles and themes for developers to share, see my [code]({{ root_url }}/code/) page.
 
-You can get in touch with me using any of the methods below.<span class="light"> **Note**: If you’re interested in contacting me for business reasons, **don't**, the consulting businness is on hold. If you still just *have* to do it, use the contact information on my business site, [Noverse.com](http://www.noverse.com)).</span>
+You can get in touch with me using any of the methods below.<span class="light"> **Note**: If you’re interested in contacting me for business reasons, **don't**, the consulting businness is on hold. If you still just *have* to do it, use the contact information on my business site, [Noverse.com](http://www.noverse.com).</span>
 
 ## Contact Me
 
@@ -34,6 +34,6 @@ You can get in touch with me using any of the methods below.<span class="light">
 
 ## About this blog
 
-This blog is built and published with the wonderful [Octopress](http://octopress.org) by the magnificent [Brandon Mathis](http://brandonmathis.com), using [Disqus](http://www.disqus.com) for comments. Every article (and indeed almost everything I write) is crafted in [Markdown](http://daringfireball.net/projects/markdown/). My host is [Dreamhost](http://dreamhost.com/). Huge thanks to [Matt Legend Gemmell](http://mattgemmell.com) for pointing out this technology (and inadvertently providing the framework for this about page).
+This blog is built and published with the wonderful [Octopress](http://octopress.org) by the magnificent [Brandon Mathis](http://brandonmathis.com), using [Disqus](http://www.disqus.com) for comments. Every article (and indeed almost everything I write) is crafted in [Markdown](http://daringfireball.net/projects/markdown/). My host is [Dreamhost](http://dreamhost.com/). Huge thanks to [Matt Gemmell](http://mattgemmell.com) for pointing out this technology (and inadvertently providing the framework for this about page).
 
 All of the content on this site is made available at no charge, for the benefit of the community. Please don’t reproduce the entire content (or very substantial portions) of any article without asking first.

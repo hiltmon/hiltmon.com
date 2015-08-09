@@ -14,12 +14,14 @@ h1, h2, h3, h4 {
 
 // Custom Header Image
 body > header {
-  background: $header-bg;
+  
   background: inline-image('hiltmon-logo-174.png') left top no-repeat;
+  background-color: $sidebar-bg; // #f2f2f2;
+  padding-left: 194px;
   h1 {
     display: inline-block;
     margin: 0;
-	text-shadow: lighten($header-bg, 12) 2px 2px;
+//  text-shadow: lighten($title_color, 12) 2px 2px;
 	font-weight: bold;
     a, a:visited, a:hover {
       color: $title_color;
@@ -32,11 +34,15 @@ body > header {
     font-size: 1em;
     color: $subtitle-color;
     font-weight: normal;
-	text-shadow: lighten($header-bg, 12) 1px 1px;
+//  text-shadow: lighten($header-bg, 12) 1px 1px;
   }
 }
 
-#fusion_ad {
+body > nav form .search {
+  background-color: $sidebar-bg;
+}
+
+#fusion_ad, #carbonads {
   width: 160px;
 //  float: right;
   margin: 20px auto;
