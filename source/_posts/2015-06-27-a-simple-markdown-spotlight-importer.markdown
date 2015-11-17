@@ -6,6 +6,8 @@ comments: true
 categories: Markdown
 ---
 
+**Note: This is for Yosemite or before, for El Capitan or later, see [A Yosemite Markdown Spotlight Importer](http://hiltmon.com/blog/2015/11/17/a-yosemite-markdown-spotlight-importer/).**
+
 I noticed recently that Spotlight on Yosemite was no longer indexing my [Markdown](http://hiltmon.com/blog/categories/markdown/) files. Since all my notes are in Markdown format, and Spotlight is how I find my notes, this was a big problem. Reinstalling my current set of Markdown editors did not help.
 
 This did. *Huge thanks to Gereon Sommer for the idea in [Mac OS X Spotlight Enhancement](https://gist.github.com/gereon/3150445).*
