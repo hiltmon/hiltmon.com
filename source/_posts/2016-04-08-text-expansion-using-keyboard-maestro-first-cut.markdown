@@ -29,13 +29,15 @@ Type `;gma` anywhere and Keyboard Maestro makes the replacement.
 
 ## Insert text by typing vs pasting
 
+{% img right /images/te-to-km-8.png 417 427 %}
+
 Almost all the time, **Insert text by typing** is the right way to go. Its fast enough and does not affect the system clipboard. However, for long strings, typing may be too slow.
 
-{% img /images/te-to-km-2.gif 635 346 %}
+{% img /images/te-to-km-2.gif 320 175 %}
 
-In these rare cases, **Insert text by pasting** is way faster, but leaves the pasted text on the system clipboard. <span class="light">In a future post, I expect to have a way to do this without leaving the pasted text on the clipboard.</span>
+In these rare cases, **Insert text by pasting** is way faster. But you need to add another step to the macro. Add a **Set Clipboard to Past Clipboard** step after the paste to reset the clipboard back by 1 in Keyboard Maestro's history. <span class="light">(Thanks to [@TheBaronHimSelf](https://twitter.com/TheBaronHimself) for this tip.)</span>
 
-{% img /images/te-to-km-3.gif 635 165 %}
+{% img /images/te-to-km-3.gif 320 83 %}
 
 ## Limit To Application
 
@@ -76,7 +78,7 @@ To see what variables are available, click the **Insert Token** dropdown on the 
 
 I have managed to replace the majority of my TextExpander snippets using the basic text expansion macro described here, and it's working great.
 
-<span class="light">Next to do these with sounds, no clipboard impact and with more advanced abilities.</span>
+<span class="light">Next to do these with sounds and with more advanced abilities.</span>
 
 Hope this helps.
 
