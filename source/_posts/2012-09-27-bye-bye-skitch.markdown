@@ -32,7 +32,7 @@ So what now? I still need to snap screenshots and the built in Grab application 
 
 Hello [LittleSnapper](http://www.realmacsoftware.com/littlesnapper/).
 
-From [RealMac Software](http://www.realmacsoftware.com). The good folks who make [RapidWeaver](http://www.realmacsoftware.com/rapidweaver/overview/) which I also used to use for ages. LittleSnapper is easy to launch, no nags, sits quietly in the menubar, easy to snap and easy to annotate, just like Skitch used to be. Sharing is not as comprehensive but ftp, sftp and flickr are good enough, and I don’t really need it anyway.
+From [RealMac Software](http://www.realmacsoftware.com). The good folks who make [RapidWeaver](http://realmacsoftware.com/rapidweaver/) which I also used to use for ages. LittleSnapper is easy to launch, no nags, sits quietly in the menubar, easy to snap and easy to annotate, just like Skitch used to be. Sharing is not as comprehensive but ftp, sftp and flickr are good enough, and I don’t really need it anyway.
 
 *But my most common usage pattern works great. Launch LittleSnapper, ⌥⌘4 to go into area snap, drag an area on the screen, click ‘snap’ and the image is snapped to the library. Drag to desktop and off I go.*
 
