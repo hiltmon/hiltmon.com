@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+**Hi Folks, Please do not follow this advice, its an old article that somehow has stayed way past its welcome in the search engines. Use the `RPostgresSQL` package that connects directly using the C drivers, its a lot faster to set up and run. ~Hilton.**
+
 At work, we use [R][rproj] to analyze data and calculate risk. The data is in a [PostgreSQL][postgres] database, so we use the [RODBC][rodbcdl] package to access the database from [R][rproj].
 
 But this does not work under Macintosh OS X.
