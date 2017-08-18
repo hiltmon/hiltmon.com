@@ -8,7 +8,7 @@ categories: [Productivity]
 
 One of the big changes I made in the last year is how I take and store text notes. By text notes, I mean meeting notes, book lists, blog ideas, thoughts, even project estimates. I've finally gone paperless.
 
-tl;dr (too long; didn't read): I write notes in [Markdown](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/), in files named using [TextExpander](http://smilesoftware.com/TextExpander/) macros, using [nvALT](http://brettterpstra.com/project/nvalt/) with [Dropbox](https://www.dropbox.com/) sync on the Mac and [Elements](http://www.secondgearsoftware.com/elements/) or [Byword](http://bywordapp.com/) on iOS sharing the same Dropbox folder. I still keep project development logs in separate Markdown files within each product's folder because I format and deliver them. I don't use [Evernote](http://www.evernote.com/) because I cannot stand it.
+tl;dr (too long; didn't read): I write notes in [Markdown](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/), in files named using [TextExpander](http://smilesoftware.com/TextExpander/) macros, using [nvALT](http://brettterpstra.com/project/nvalt/) with [Dropbox](https://www.dropbox.com/) sync on the Mac and [Elements](http://www.secondgearsoftware.com/elements/) or [Byword](http://bywordapp.com/) on iOS sharing the same Dropbox folder. I still keep project development logs in separate Markdown files within each product's folder because I format and deliver them. I don't use [Evernote](http://www.evernote.com/) because I cannot stand it.
 
 <!--more-->
 

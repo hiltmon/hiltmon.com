@@ -63,7 +63,7 @@ Once work is assigned, each assignee is responsible for getting that work done. 
 
 A Statement of Work (SOW) is a *short* document that defines the objective, tasks and deliverables of a task or project. It can optionally contain assumptions and dependencies, and it may have details added later (designs, appendices, sample data, notes). But in essence, it's a document that defines **what** needs to be done and how we know when it has been done.
 
-My Statement of Work template is a simple [Markdown](http://hiltmon.com/blog/categories/markdown/) text document as follows:
+My Statement of Work template is a simple [Markdown](https://hiltmon.com/blog/categories/markdown/) text document as follows:
 
     Kind: Statement of Work
     Title: <Task or Project Name>
@@ -127,7 +127,7 @@ The weekly meeting never goes beyond an hour. In it, we:
 - Any new assignments are handed out.
 - And with the remaining time, we talk general technology and ideas, this being the part we like the best.
 
-A weekly, semi-formal meeting does not mean we do not talk about work during the week. On the contrary, we are always discussing what tasks, documents and deliverables we are working on. If any issues arise, the team member goes to the people they need (especially me) to discuss, plan and resolve. While this is going on, the rest of the team is free to remain [in the zone](http://hiltmon.com/blog/2011/12/03/the-four-hour-rule/) and continue to deliver on their work.
+A weekly, semi-formal meeting does not mean we do not talk about work during the week. On the contrary, we are always discussing what tasks, documents and deliverables we are working on. If any issues arise, the team member goes to the people they need (especially me) to discuss, plan and resolve. While this is going on, the rest of the team is free to remain [in the zone](https://hiltmon.com/blog/2011/12/03/the-four-hour-rule/) and continue to deliver on their work.
 
 ## Dealing with Change
 

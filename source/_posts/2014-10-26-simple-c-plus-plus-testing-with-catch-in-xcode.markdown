@@ -8,7 +8,7 @@ categories: [development, programming, c++]
 
 {% img right /images/catch-logo-small.png 300 145 %}
 
-[Catch](https://github.com/philsquared/Catch) is a simple, open-source, *dependency-free* unit testing framework for C++ projects. In this post I show you how to use it in a [Simple C++ Project](http://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/) from Xcode.
+[Catch](https://github.com/philsquared/Catch) is a simple, open-source, *dependency-free* unit testing framework for C++ projects. In this post I show you how to use it in a [Simple C++ Project](https://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/) from Xcode.
 
 ### Why Catch?
 
@@ -172,7 +172,7 @@ Correct the failures. Then add more tests. Run. Iterate, iterate, iterate. You k
 
 ### Sample Project
 
-You can download the sample project to see how it works from [here](http://hiltmon.com/files/TestCatch.zip).
+You can download the sample project to see how it works from [here](https://hiltmon.com/files/TestCatch.zip).
 
 ### Experience
 

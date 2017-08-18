@@ -71,5 +71,5 @@ And the result, an "official" looking document while remaining in the [Markdown 
 [markdown]: http://daringfireball.net/projects/markdown/
 [marked]: https://itunes.apple.com/us/app/marked/id448925439?mt=12&uo=4&at=10l894
 [textexpander]: https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894
-[metadata]: http://hiltmon.com/blog/2012/06/18/markdown-metadata/
-[mindset]: http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/
+[metadata]: https://hiltmon.com/blog/2012/06/18/markdown-metadata/
+[mindset]: https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/

@@ -80,12 +80,12 @@ To answer my starting questions, then:
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
-[1]:	http://hiltmon.com/blog/categories/markdown/
-[2]:	http://hiltmon.com/blog/2012/04/15/text-notes-going-electronic
-[3]:	http://hiltmon.com/blog/2012/06/18/markdown-metadata/
-[4]:	http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/
+[1]:	https://hiltmon.com/blog/categories/markdown/
+[2]:	https://hiltmon.com/blog/2012/04/15/text-notes-going-electronic
+[3]:	https://hiltmon.com/blog/2012/06/18/markdown-metadata/
+[4]:	https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/
 [DF]:	http://daringfireball.net/projects/markdown/
-[MD]: 	http://hiltmon.com/blog/2013/10/13/why-microsoft-word-must-die/
+[MD]: 	https://hiltmon.com/blog/2013/10/13/why-microsoft-word-must-die/
 [MW]:	http://office.microsoft.com/en-us/word/
 [IP]:	http://www.apple.com/ipad/
 [BB]:	https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894

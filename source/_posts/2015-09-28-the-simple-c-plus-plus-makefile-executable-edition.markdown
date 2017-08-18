@@ -6,7 +6,7 @@ comments: true
 categories: [C++]
 ---
 
-I develop a lot of applications in C++ using Xcode on OS X and deploy them to CentOS Linux Servers to run. I follow the [Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) (and the [Xcode edition](http://hiltmon.com/blog/2015/08/01/simple-c-plus-plus-from-makefiles-to-xcode-builds/)) to code up each product.
+I develop a lot of applications in C++ using Xcode on OS X and deploy them to CentOS Linux Servers to run. I follow the [Simple C++ Project Structure](https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) (and the [Xcode edition](https://hiltmon.com/blog/2015/08/01/simple-c-plus-plus-from-makefiles-to-xcode-builds/)) to code up each product.
 
 However, Xcode is not available on Linux. To compile and deploy (and to test compiles and deploys), I use standard Unix [Makefiles](https://www.gnu.org/software/make/manual/make.html#Introduction), available almost everywhere.
 

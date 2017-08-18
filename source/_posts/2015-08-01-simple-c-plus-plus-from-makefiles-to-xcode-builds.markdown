@@ -16,7 +16,7 @@ I write a lot of concurrent, complex, real-time C++11 code these days using my M
 
 But the applications I build all run on Linux CentOS 6.6 Servers.
 
-I could do this development on a Linux desktop, as a lot of people do. The tools exist and the Linux desktop sure is maturing. But, in my opinion, the OS X tools, third party productivity products, robustness, ecosystem and my habits make me far more productive on OS X. I can leverage Xcode and its amazing compilers, debuggers and IDE tools to help me build better C++11 products quicker, and then deploy using `git` and `make` to Linux. Since I use only clean C++11 and open source dependencies, all available via [HomeBrew](http://hiltmon.com/blog/2013/09/29/homebrew-happiness/), this model works great.
+I could do this development on a Linux desktop, as a lot of people do. The tools exist and the Linux desktop sure is maturing. But, in my opinion, the OS X tools, third party productivity products, robustness, ecosystem and my habits make me far more productive on OS X. I can leverage Xcode and its amazing compilers, debuggers and IDE tools to help me build better C++11 products quicker, and then deploy using `git` and `make` to Linux. Since I use only clean C++11 and open source dependencies, all available via [HomeBrew](https://hiltmon.com/blog/2013/09/29/homebrew-happiness/), this model works great.
 
 {% pullquote %}
 {" Xcode provides an amazing set of tools over and above the code editor."} The integrated `clang` compiler detects far more potential issues than others. The integrated `llvm` debugger and inspectors make it easy to view the content of objects at breakpoints. The thread, memory and networking panels show exactly what the program is doing and Instruments is pure wizardry. There is no reason not to take advantage of all of these robust and easy to use technologies when developing.
@@ -179,7 +179,7 @@ We now need to add the existing code files to the Xcode project so that it can c
 
 Select all files *except* the `bin` and `build` folders (if they exist). Make sure **Create groups** is selected and **Add to targets** refers to your new project. Click **Add**.
 
-<span class="light">For more information on the folders and files I use, see [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).</span>
+<span class="light">For more information on the folders and files I use, see [A Simple C++ Project Structure](https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).</span>
 
 {% img /images/xbuild-012.png 720 450 %}
 
@@ -306,7 +306,7 @@ You now have a C++ project that compiles both ways, from a Makefile and via the 
 * The Makefile version works cross platform and can be used for production deploys.
 * The Xcode build system gives you access to IDE error checking, inspection, monitors and Instruments.
 
-For more **C++** articles, see my [C++ Category](http://hiltmon.com/blog/categories/c-plus-plus/).
+For more **C++** articles, see my [C++ Category](https://hiltmon.com/blog/categories/c-plus-plus/).
 
 Enjoy
 

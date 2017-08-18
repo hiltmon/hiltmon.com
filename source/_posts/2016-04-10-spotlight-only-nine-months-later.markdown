@@ -26,7 +26,7 @@ Spotlight launches applications just as well as the others, including with abbre
 	
 ### Text/File Finder
 
-Type a few words and it finds matching files and their contents very quickly. Unlike the commercial applications, Spotlight returns far fewer results in the HUD screen, but you rarely need more than the top four to find the file you want. Also, since El-Capitan, it now searches on partial strings. Note that I also needed to add a [Markdown Plugin](http://hiltmon.com/blog/2015/11/17/a-yosemite-markdown-spotlight-importer/) to make it work perfectly for me.
+Type a few words and it finds matching files and their contents very quickly. Unlike the commercial applications, Spotlight returns far fewer results in the HUD screen, but you rarely need more than the top four to find the file you want. Also, since El-Capitan, it now searches on partial strings. Note that I also needed to add a [Markdown Plugin](https://hiltmonn.com/blog/2015/11/17/a-yosemite-markdown-spotlight-importer/) to make it work perfectly for me.
 
 <span class="light">**Result**: Mostly the same, a longer and customizable result list would be nicer. I know you can resize the Spotlight screen, but I want more results per category, not a larger screen showing more categories.</span>
 	

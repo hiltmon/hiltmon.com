@@ -6,7 +6,7 @@ comments: true
 categories: [Apple]
 ---
 
-I published my [WWDC 2012 Keynote Predictions](http://hiltmon.com/blog/2012/06/09/my-wwdc-2012-predictions/) a few days ago, lets see how well I did:
+I published my [WWDC 2012 Keynote Predictions](https://hiltmon.com/blog/2012/06/09/my-wwdc-2012-predictions/) a few days ago, lets see how well I did:
 
 * **Sales**: [0/1] Instead of the boring "we sold a lot", they went emotional, "we helped a lot". Nice, but not worth the 10 minutes as it made them hurry the laptop announcements.
 * **Hardware updates** [2/4]

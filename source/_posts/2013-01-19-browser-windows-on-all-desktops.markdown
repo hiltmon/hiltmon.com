@@ -7,7 +7,7 @@ categories:
 - Productivity
 ---
 
-In [Being Productive With Virtual Desktops](http://hiltmon.com/blog/2013/01/17/being-productive-with-virtual-desktops/), I talked about how I pin certain applications to certain Mission Control virtual desktops to create context specific environments.
+In [Being Productive With Virtual Desktops](https://hiltmon.com/blog/2013/01/17/being-productive-with-virtual-desktops/), I talked about how I pin certain applications to certain Mission Control virtual desktops to create context specific environments.
 
 *Reader “zharmany” asked what I did with the web browser, since it is needed on many of these desktops for different reasons.*
 

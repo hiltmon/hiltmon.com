@@ -14,7 +14,7 @@ Here's why and how it works.
 
 ## Each desktop has a purpose
 
-Desktop 1 is my *work* desktop. I only want the applications I need to perform the current task running on this desktop. So I use my [Application Context Pack](http://hiltmon.com/blog/2012/04/26/application-context-packs/) macros to launch and terminate the application packs I need for the task that I am performing.
+Desktop 1 is my *work* desktop. I only want the applications I need to perform the current task running on this desktop. So I use my [Application Context Pack](https://hiltmon.com/blog/2012/04/26/application-context-packs/) macros to launch and terminate the application packs I need for the task that I am performing.
 
 For example, right now, since I am writing a blog article, Desktop 1 is running:
 

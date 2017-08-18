@@ -26,16 +26,16 @@ The main benefit of this is that it reduces OmniFocus sync time as all the old c
 
 ## Move old Mails
 
-Clean up your inbox so all the email for the project is safely in its client folder, see my [Mischief Managed: Clean Inbox](http://hiltmon.com/blog/2012/08/06/mischief-managed-clean-inbox/) post.
+Clean up your inbox so all the email for the project is safely in its client folder, see my [Mischief Managed: Clean Inbox](https://hiltmon.com/blog/2012/08/06/mischief-managed-clean-inbox/) post.
 
 ## (OLD) Clean Up Documents
 
-Since I moved to a standard [Project Folder Layout](http://hiltmon.com/blog/2012/06/30/project-folder-layout/), I no longer need to do this, but I’m documenting it just in case.
+Since I moved to a standard [Project Folder Layout](https://hiltmon.com/blog/2012/06/30/project-folder-layout/), I no longer need to do this, but I’m documenting it just in case.
 
-I used to have client files, art files, contracts and other documents relating to the project littering my `~/Documents` tree until I started using my standard [Project Folder Layout](http://hiltmon.com/blog/2012/06/30/project-folder-layout/). At the end of each project, I would have to go through all the folders in `~/Documents` and move the required documents to an `Old Documents` folder on the slow drive.
+I used to have client files, art files, contracts and other documents relating to the project littering my `~/Documents` tree until I started using my standard [Project Folder Layout](https://hiltmon.com/blog/2012/06/30/project-folder-layout/). At the end of each project, I would have to go through all the folders in `~/Documents` and move the required documents to an `Old Documents` folder on the slow drive.
 
 ## Archive Notes
 
-The only documents I keep outside the project folder these days are any generic client notes in [nvAlt](http://brettterpstra.com/project/nvalt/). But now that I use [VoodooPad](http://flyingmeat.com/voodoopad/) for all key project info (see [Project Specific Data](http://hiltmon.com/blog/2012/05/27/project-specific-data/)), that too is changing.
+The only documents I keep outside the project folder these days are any generic client notes in [nvAlt](http://brettterpstra.com/project/nvalt/). But now that I use [VoodooPad](http://flyingmeat.com/voodoopad/) for all key project info (see [Project Specific Data](https://hiltmon.com/blog/2012/05/27/project-specific-data/)), that too is changing.
 
 I use a mixture of [OpenMeta](http://code.google.com/p/openmeta/) tags and [Hazel](http://www.noodlesoft.com/hazel.php) rules to tag old notes as `archive` and Hazel moves them out of the Notational Velocity folder and into an archive folder.  I then drag and drop them into the Project Folder in `Old Projects`.

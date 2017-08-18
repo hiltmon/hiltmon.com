@@ -31,7 +31,7 @@ The solution: [Rails migrations][RM] and [Capistrano][CAP] deploys.
 
 <span class="light">Aside: Fortunately I am using Rails for a few of the web servers on the platform which made choosing Rails migrations easy. But I am also running a bunch of [Sinatra][SIN] servers for web services, Python programs for analytics, C++ programs for high-speed work and looking at [Node.js](http://nodejs.org) and [GoLang](http://golang.org) for future projects that all access our databases. And who knows what else will access them in the future.</span>
 
-For the main database, I created a single master [Ruby on Rails](http://rubyonrails.org) project. I then share that model between all my Rails projects, see my [Rails Tricks - Sharing the Model](http://hiltmon.com/blog/2013/10/14/rails-tricks-sharing-the-model/). All other projects just assume the current schema. For other databases, more Rails projects, several of which have no web interface at all, or are in support of a non-Ruby project.
+For the main database, I created a single master [Ruby on Rails](http://rubyonrails.org) project. I then share that model between all my Rails projects, see my [Rails Tricks - Sharing the Model](https://hiltmon.com/blog/2013/10/14/rails-tricks-sharing-the-model/). All other projects just assume the current schema. For other databases, more Rails projects, several of which have no web interface at all, or are in support of a non-Ruby project.
 
 ### Creating and Managing Database Schema Migrations
 

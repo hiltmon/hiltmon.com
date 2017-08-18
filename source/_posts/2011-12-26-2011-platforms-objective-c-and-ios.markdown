@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-*Part 1 of the platforms I used in 2011 to make products. See [Part 2 - Ruby on Rails](http://hiltmon.com/blog/2011/12/26/2011-platforms-ruby-on-rails/).*
+*Part 1 of the platforms I used in 2011 to make products. See [Part 2 - Ruby on Rails](https://hiltmon.com/blog/2011/12/26/2011-platforms-ruby-on-rails/).*
 
 I spent the first half of 2011 writing iOS applications in Objective-C. It's not my first experience with Objective-C, I wrote a Mac app in 2008, and two iOS apps in 2010, so these notes are really about my entire experience with the technology.
 

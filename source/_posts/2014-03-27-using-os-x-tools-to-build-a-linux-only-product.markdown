@@ -18,7 +18,7 @@ I have a new vendor library that does not compile or run on OS X (yet!). As this
 
 The simple solution is to spin up a Linux VM with a GUI or a set of `vim` shells, and code away. With this simple solution I can tune the environment to match production, compile and build the product using this vendor library and know that it works.
 
-But to use this simple solution, I need to learn different keyboard shortcuts, copy and paste are weird, there's no integration with my current platform, and the code is locked inside the VM. It violates my preferred [Develop Locally, Stage Nearby, Production Anywhere](http://hiltmon.com/blog/2014/03/15/develop-locally/) model. In short, doable but sufficiently different to make me pause.
+But to use this simple solution, I need to learn different keyboard shortcuts, copy and paste are weird, there's no integration with my current platform, and the code is locked inside the VM. It violates my preferred [Develop Locally, Stage Nearby, Production Anywhere](https://hiltmon.com/blog/2014/03/15/develop-locally/) model. In short, doable but sufficiently different to make me pause.
 
 {% pullquote %}
 **{" The real issue here is not one of which platform is better or worse, the problem is *me*."}** I am working in parallel on a bunch of other OS X only projects using the same toolset in an environment that I have tuned and practiced on for years. Do I want to build the muscle memory and productivity tools on yet another platform, or can I somehow make the current set work? Can I deal with the frustration of having to switch working contexts, keyboard shortcuts and tools to do this? And do I have the time to set it up and develop the productivity mindset.
@@ -39,7 +39,7 @@ My chosen solution is to do everything as usual on OS X, using the usual tools, 
 Here's how it works. Keep in mind that the source code is local, only compile and run happens on a local micro-VM:
 
 * I launch [VMWare Fusion](http://www.vmware.com/products/fusion) which resumes the minimal [Centos 6.5](http://www.centos.org) VM that matches production (no GUI, minimal Linux install, nothing else running). Then hide it away.
-* I use a shortcut key in [iTerm 2](http://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/) to open a`ssh` session to this VM and use a `bash` alias to`cd` to the mounted, shared folder where the code on my computer can be found.
+* I use a shortcut key in [iTerm 2](https://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/) to open a`ssh` session to this VM and use a `bash` alias to`cd` to the mounted, shared folder where the code on my computer can be found.
 * I launch [Xcode](https://developer.apple.com/xcode/), open the project locally as usual, and start programming.
 * I compile and build in the `ssh` terminal. *This is the only step different to all other projects.*
 * I do everything else using local tools on OS X.
@@ -70,7 +70,7 @@ In iTerm 2, I created a profile with a shortcut key (in this case `⌃⌘W` for 
 
 {% img /images/linux-only-4.png 678 410 %}
 
-And finally, I created the Xcode project using my [Xcode and the Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/) and [Xcode 4 Code Completion for External Build Projects](http://hiltmon.com/blog/2013/07/07/xcode-4-code-completion-for-external-build-projects/) standards.
+And finally, I created the Xcode project using my [Xcode and the Simple C++ Project Structure](https://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/) and [Xcode 4 Code Completion for External Build Projects](https://hiltmon.com/blog/2013/07/07/xcode-4-code-completion-for-external-build-projects/) standards.
 
 Code in Xcode, `⌘⇥` to the shell to compile and run, `⌘⇥` back to code some more. *And if I use the Xcode compiler, well, linking fails as the vendor library is not compatible, but all the other IDE features work just fine so compilation errors are easy to detect.*
 

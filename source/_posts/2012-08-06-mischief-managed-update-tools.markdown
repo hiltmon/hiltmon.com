@@ -22,7 +22,7 @@ Now most Xcode developers usually remain on the same version of OS X and Xcode f
 
 ## Ruby and Rails Work
 
-For Ruby and Rails work, I use [rvm](https://rvm.io). It enables me to have project specific versions of Ruby, Rails and gemsets installed. For example, the [Noverse.com](http://www.noverse.com) website runs `ruby-1.9.2-p320`, [Kifu](http://www.kifuapp.com) runs on `ruby 1.8.7-p358` and [Hiltmon.com](http://hiltmon.com) is on `ruby-1.9.3-p194`. Hmm, now that Kifu is in production, maybe I should update its toolkit.
+For Ruby and Rails work, I use [rvm](https://rvm.io). It enables me to have project specific versions of Ruby, Rails and gemsets installed. For example, the [Noverse.com](http://www.noverse.com) website runs `ruby-1.9.2-p320`, [Kifu](http://www.kifuapp.com) runs on `ruby 1.8.7-p358` and [Hiltmon.com](https://hiltmon.com) is on `ruby-1.9.3-p194`. Hmm, now that Kifu is in production, maybe I should update its toolkit.
 
 With `rvm` I don’t have to worry about platform risk, and can upgrade projects to new versions independently.
 

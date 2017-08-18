@@ -8,7 +8,7 @@ categories:
 
 {% img right /images/asana_to_omnifocus.png 363 130 %}
 
-**Note: Updated the script, see [Merge Asana Projects Into OmniFocus Updated](http://hiltmon.com/blog/2015/03/01/merge-asana-projects-into-omnifocus-updated/).**
+**Note: Updated the script, see [Merge Asana Projects Into OmniFocus Updated](https://hiltmon.com/blog/2015/03/01/merge-asana-projects-into-omnifocus-updated/).**
 
 I use [OmniFocus](https://itunes.apple.com/us/app/omnifocus/id402835630?mt=12&uo=4&at=10l894) to manage my personal tasks and activities, but my company uses [Asana](https://asana.com/) to manage Project tasks and activities amongst the team. I am so used to using OmniFocus that I often forget to check or update Asana, and thus miss tasks assigned to me or progress by the team.
 

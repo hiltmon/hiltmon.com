@@ -8,13 +8,13 @@ categories: [ Status Board ]
 
 <span class="light">Google has finally deprecated their GAPI interface which this used to talk to Google Analytics, sorry folks, it will no longer work. See the [New Google Analytics for Status Board Server Edition]({{ root_url }}/blog/2015/06/07/new-google-analytics-for-status-board-server-edition/) for an updated version. </span>
 
-Following up this morning's [Google Analytics for Status Board](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph on [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894), I also wanted a **top pages for today** view for Hiltmon.com.
+Following up this morning's [Google Analytics for Status Board](https://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/) graph on [Status Board](https://itunes.apple.com/us/app/status-board/id449955536?mt=8&uo=4&at=10l894), I also wanted a **top pages for today** view for Hiltmon.com.
 
-<span class="light">See also [Hourly Stats](http://hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/) and [OS and Browser Stats](http://hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
+<span class="light">See also [Hourly Stats](https://hiltmon.com/blog/2013/04/15/hourly-analytics-for-status-board/) and [OS and Browser Stats](https://hiltmon.com/blog/2013/04/17/add-ga-os-and-browser-to-status-board/).</span>
 
 {% img /images/status-board-pages.jpg 640 480 %}
 
-The steps are all the same as [Google Analytics for Status Board](http://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/), so follow along, only replace those script and the launcher files with these.
+The steps are all the same as [Google Analytics for Status Board](https://hiltmon.com/blog/2013/04/10/google-analytics-for-status-board/), so follow along, only replace those script and the launcher files with these.
 
 The script code is in `status_board_pages.rb`:
 
@@ -24,14 +24,14 @@ The script code is in `status_board_pages.rb`:
 # status_board_pages.rb
 # Hilton Lipschitz
 # Twitter/ADN: @hiltmon 
-# Web: http://hiltmon.com
+# Web: https://hiltmon.com
 # Use and modify freely, attribution appreciated
 #
 # Script to generate @panic status board files for Google Analytics web stats
 #
 # Run this regularly to update status board
 #
-# For how to set up, see http://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/
+# For how to set up, see https://hiltmon.com/blog/2013/04/10/top-pages-in-status-board/
 
 # Include the gem
 require 'rubygems'

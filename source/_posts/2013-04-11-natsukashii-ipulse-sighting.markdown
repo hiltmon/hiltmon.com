@@ -10,7 +10,7 @@ categories: [ Software ]
  
 {% img right /images/ipulse.jpg 156 156 %}
 
-I happened to click on a Mike Zornek ([@zorn](https://twitter.com/zorn)) link today and noticed that he is still running [iPulse](http://iconfactory.com/software/ipulse) on his desktop. I used to run it back in the early days of OS X on my [Titanium Powerbook](http://hiltmon.com/blog/2012/12/31/1ghz-titanium-powerbook/).
+I happened to click on a Mike Zornek ([@zorn](https://twitter.com/zorn)) link today and noticed that he is still running [iPulse](http://iconfactory.com/software/ipulse) on his desktop. I used to run it back in the early days of OS X on my [Titanium Powerbook](https://hiltmon.com/blog/2012/12/31/1ghz-titanium-powerbook/).
 
 Back then, I had already returned to the Mac. But in 2003 or so, OS X was still very buggy and slow. I wanted to know where the bottleneck was, disk, network, CPU or RAM? Also, with PC hardware at the time, they still had the light that flashed when the disk was being accessed, the Mac did not have this.
 

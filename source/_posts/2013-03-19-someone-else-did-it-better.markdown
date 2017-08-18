@@ -12,7 +12,7 @@ Over the past year I have been working on a stealth iPad app to scratch an itch 
 
 As a developer, I have a bunch of old iPhones and iPads. As a writer, I have a blog. The idea was simple: create a dashboard app to run on the old iPad 1 as a second screen to display my site's Google Analytics using tiles so I could rearrange the view.
 
-I had already solved the OAuth 2 issue in [Spike Solutions](http://hiltmon.com/blog/2012/04/06/spike-solutions/), tested a tile UI in [Spike UI Teaser](http://hiltmon.com/blog/2012/04/19/spike-ui-teaser/) and had worked through the Google Analytics API (but did not write about it). In short, I was up to putting it all together and polishing it up.
+I had already solved the OAuth 2 issue in [Spike Solutions](https://hiltmon.com/blog/2012/04/06/spike-solutions/), tested a tile UI in [Spike UI Teaser](https://hiltmon.com/blog/2012/04/19/spike-ui-teaser/) and had worked through the Google Analytics API (but did not write about it). In short, I was up to putting it all together and polishing it up.
 
 {% img right /images/analytics-tiles.jpg 384 281 %}
 

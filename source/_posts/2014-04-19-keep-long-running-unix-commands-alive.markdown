@@ -76,7 +76,7 @@ I won't go into setting up `tmux`, Daniel Miessler wrote a great [tmux Tutorial 
 
 ## iTerm 2
 
-Since I use iTerm 2 profiles to `ssh` to my servers (See [Fast SSH Windows with iTerm 2](http://hiltmon.com/blog/2013/07/18/fast-ssh-windows-with-iterm-2/)), the simple `nohup ... &` version is the one I use all the time to kick off and log long-running UNIX commands.
+Since I use iTerm 2 profiles to `ssh` to my servers (See [Fast SSH Windows with iTerm 2](https://hiltmon.com/blog/2013/07/18/fast-ssh-windows-with-iterm-2/)), the simple `nohup ... &` version is the one I use all the time to kick off and log long-running UNIX commands.
 
 For example, to run a long running command on **Farragut**, I
 

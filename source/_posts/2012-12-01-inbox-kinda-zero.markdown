@@ -28,7 +28,7 @@ As with GTD, one should pick and choose what they want from the process, so here
 * **Respond and File if possible**. If I can respond to an email there and then, I do, then I hit a keyboard shortcut to file it (see below how to set this up). Get it *done*, get it *gone*.
 * **Leave it in the Inbox if I need to get back to it**. That’s right, I leave the email, marked as read, in my inbox (hence “kinda zero inbox”). In this model, emails sitting in the inbox are still begging for attention, act as reminders that I need to deal with them, and make it easy for me to see them on all my devices. And if the list gets too long, I know I need to schedule more time to process them.
 
-Now I use Apple’s Mail.app for email with only my [Reduced Inboxes](http://hiltmon.com/blog/2012/11/06/reducing-inboxes/) available. I work in the combined inbox and hide all other account folders to remove distractions. This means I have a single stream of email to process.
+Now I use Apple’s Mail.app for email with only my [Reduced Inboxes](https://hiltmon.com/blog/2012/11/06/reducing-inboxes/) available. I work in the combined inbox and hide all other account folders to remove distractions. This means I have a single stream of email to process.
 
 The problem is that filing in Mail.app is really painful, especially when you want folders hidden. You need to show and expand the mailboxes on the sidebar, then drag and drop emails from the inbox to them. Message selection and the smallness of the drop targets make this process slow and error prone. There are menu options to help file to the last folder used, but that rarely happens. *Slow filing is no good for productive email processing.*
 
@@ -38,4 +38,4 @@ With [Mail Act-On](http://www.indev.ca/MailActOn.html), when I comes to processi
 
 And if the message is left in the inbox, it’s always there whenever I look, nagging me to do something about it.
 
-*See also [Email Etiquette](http://hiltmon.com/blog/2012/10/24/email-etiquette/). Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*See also [Email Etiquette](https://hiltmon.com/blog/2012/10/24/email-etiquette/). Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

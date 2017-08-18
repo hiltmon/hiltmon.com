@@ -6,7 +6,7 @@ comments: true
 categories: [Text Editors, Productivity]
 ---
 
-I have been using Sublime Text 2 for a month or so now, and I still do *not* love it. Here’s hoping TextMate 2 gets it’s game on. But at least I have it working closer to the way I want it to work and look now. Here are the minor changes I have made to make it work for me and how it compares to TextMate 2  <span class="light">(Updated: See [My TextMate 2 Setup - The Hiltmon](http://hiltmon.com/blog/2013/04/15/my-textmate-2-setup/)).</span>
+I have been using Sublime Text 2 for a month or so now, and I still do *not* love it. Here’s hoping TextMate 2 gets it’s game on. But at least I have it working closer to the way I want it to work and look now. Here are the minor changes I have made to make it work for me and how it compares to TextMate 2  <span class="light">(Updated: See [My TextMate 2 Setup - The Hiltmon](https://hiltmon.com/blog/2013/04/15/my-textmate-2-setup/)).</span>
 
 ## Packages
 
@@ -92,4 +92,4 @@ But there are subtleties that are still driving me nuts:
 
 I’m going to stick with Sublime Text 2 for now, but am keeping an eye out for something better.
 
-See also [Multiple Themes in Sublime Text 2](http://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) and [Multi-Platform Editing Is Sublime](http://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.
+See also [Multiple Themes in Sublime Text 2](https://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) and [Multi-Platform Editing Is Sublime](https://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.

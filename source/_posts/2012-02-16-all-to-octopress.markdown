@@ -6,7 +6,7 @@ comments: true
 categories: [ Octopress ]
 ---
 
-I have moved all of my sites over to [Octopress](http://octopress.org/) by [Brandin Mathis](http://brandonmathis.com/). This means [hiltmon.com](http://hiltmon.com), [noverse.com](http://www.noverse.com) and [shukaico.com](http://www.shukaico.com) are all on the same platform.
+I have moved all of my sites over to [Octopress](http://octopress.org/) by [Brandin Mathis](http://brandonmathis.com/). This means [hiltmon.com](https://hiltmon.com), [noverse.com](http://www.noverse.com) and [shukaico.com](http://www.shukaico.com) are all on the same platform.
 
 Why?
 

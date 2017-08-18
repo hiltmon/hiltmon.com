@@ -6,7 +6,7 @@ comments: true
 categories: [ Ruby, Ruby on Rails, TextMate ]
 ---
 
-*Part 2 of the platforms I used in 2011 to make products. See [Part 1 - Objective-C and iOS](http://hiltmon.com/blog/2011/12/26/2011-platforms-objective-c-and-ios/).*
+*Part 2 of the platforms I used in 2011 to make products. See [Part 1 - Objective-C and iOS](https://hiltmon.com/blog/2011/12/26/2011-platforms-objective-c-and-ios/).*
 
 The second half of 2011 was spent developing two web app products using Ruby on Rails. And what a joy this platform is to use.
 

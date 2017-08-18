@@ -137,11 +137,11 @@ See also: [TextMate 2 Basics]({{ root_url }}/blog/2013/11/09/textmate-2-basics/)
 
 *Follow the author as [@hiltmon][twitter] on Twitter and [@hiltmon][app] on App.Net. Mute `#xpost` on one.*
 
-[1]:	http://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/
-[2]:	http://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/
-[3]:	http://hiltmon.com/files/CombinedCasts.tmTheme
+[1]:	https://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/
+[2]:	https://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/
+[3]:	https://hiltmon.com/files/CombinedCasts.tmTheme
 [4]:	https://github.com/hiltmon/hiltons-bundle
-[5]:	http://hiltmon.com/blog/2013/01/16/rvm-in-textmate-2/
+[5]:	https://hiltmon.com/blog/2013/01/16/rvm-in-textmate-2/
 
 [app]: http://alpha.app.net/hiltmon
 [github]: https://github.com/textmate/textmate

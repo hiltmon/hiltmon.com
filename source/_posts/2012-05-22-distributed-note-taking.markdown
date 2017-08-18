@@ -39,7 +39,7 @@ First, I reconfigured nvAlt to save everything as plain text files using the `.m
 
 {% img /images/nvalt-storage.png 640 512 %}
 
-I then added to the series of snippets in TextExander to help me name the different kinds of files and notes that I take (see [My Blog Writing Workflow](http://hiltmon.com/blog/2012/03/15/my-blog-writing-workflow/)). I have TextExpander installed on all devices too, and set to sync via Dropbox as well, so these are also available everywhere.
+I then added to the series of snippets in TextExander to help me name the different kinds of files and notes that I take (see [My Blog Writing Workflow](https://hiltmon.com/blog/2012/03/15/my-blog-writing-workflow/)). I have TextExpander installed on all devices too, and set to sync via Dropbox as well, so these are also available everywhere.
 
 {% img /images/textexpander-notex.png 640 429 %}
 

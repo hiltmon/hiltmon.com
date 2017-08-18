@@ -32,6 +32,6 @@ Soon, you will no longer be that mysterious IT person, you'll be part of the tea
 
 <span class="light">I spent Friday *on my floor*. I learned that my users had no idea certain features they wanted did actually exist, and showed them how to access them. I found out about several design decisions that missed what they needed (and even corrected a few). I found out about a process I had no idea we had. I improved my domain knowledge immeasurably, and look forward to spending more time with them *on the floor*.</span>
 
-*This article is part of a series on [Hiltmonisms](http://hiltmon.com/blog/categories/hiltmonism/), a series of catch-phrase ideas that I have been learning, developing and using for years to improve my craft and the craft of those around me.*
+*This article is part of a series on [Hiltmonisms](https://hiltmon.com/blog/categories/hiltmonism/), a series of catch-phrase ideas that I have been learning, developing and using for years to improve my craft and the craft of those around me.*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

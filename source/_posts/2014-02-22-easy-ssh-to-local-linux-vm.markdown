@@ -8,7 +8,7 @@ categories:
 
 *TL;DR: Run `avahi` on the VM, `ssh` to the VM name dot local.*
 
-Many of the [Simple C++ Projects](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) I work on, whether [I use Xcode or not](http://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/), land up needing to be recompiled on a Linux Virtual Machine prior to being deployed to the production Linux server. I do this because I want to be sure the I know what needs to be set up in the Linux environment, that the compile succeeds without errors in a production-like environment and the code works properly before deploying.
+Many of the [Simple C++ Projects](https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/) I work on, whether [I use Xcode or not](https://hiltmon.com/blog/2013/07/05/xcode-and-the-simple-c-plus-plus-project-structure/), land up needing to be recompiled on a Linux Virtual Machine prior to being deployed to the production Linux server. I do this because I want to be sure the I know what needs to be set up in the Linux environment, that the compile succeeds without errors in a production-like environment and the code works properly before deploying.
 
 I spin up these virtual machines all the time. But connecting to them to copy the code over and perform these compiles is a hassle because their IP addresses change all the time. <span class="light">Aside: Setting a static IP address does not work because I often clone these virtual machines to try different settings requiring a new IP address to be set up and remembered manually. Also, static IP addresses sometimes conflict on different networks.</span>
 

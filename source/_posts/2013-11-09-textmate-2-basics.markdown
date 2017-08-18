@@ -38,7 +38,7 @@ Or best of all, use `⌘⌃T` to bring up the bundle search dialog to find what'
 
 ## Favorites
 
-I find myself opening the same projects over and over again in TextMate 2. In TextMate 1 we had project files, but I never really used them. So I used to open projects by opening a terminal, `cd` to the project folder and type the command `mate .` to open the project folder (and then created TextExpander scripts to do this, see [TextExpander in Terminal](http://hiltmon.com/blog/2012/07/15/textexpander-in-terminal/)).{% img right /images/tm-basics-4.jpg 272 121 %}
+I find myself opening the same projects over and over again in TextMate 2. In TextMate 1 we had project files, but I never really used them. So I used to open projects by opening a terminal, `cd` to the project folder and type the command `mate .` to open the project folder (and then created TextExpander scripts to do this, see [TextExpander in Terminal](https://hiltmon.com/blog/2012/07/15/textexpander-in-terminal/)).{% img right /images/tm-basics-4.jpg 272 121 %}
 
 In TextMate 2, the Favorites feature works better for me. To set up a favorite, use the file browser in TextMate 2 to navigate to the folder *above* your projects. 
 
@@ -173,7 +173,7 @@ So those the basic TextMate 2 features that I use *all the time*, its only just 
 
 I am quite certain that you can do all of the above in your programmer's editor of choice just as efficiently. But for me, it's the Mac basics and TextMate features and keystroke muscle memory that makes me so productive in TextMate 2.
 
-**Update**: I have written a follow-up post with even [More TextMate 2 Basics](http://hiltmon.com/blog/2014/01/20/more-textmate-2-basics/). Check it out.
+**Update**: I have written a follow-up post with even [More TextMate 2 Basics](https://hiltmon.com/blog/2014/01/20/more-textmate-2-basics/). Check it out.
 
 *If you have any awesome TextMate 2 features or keys you cannot live without, please share them in the comments.*
 

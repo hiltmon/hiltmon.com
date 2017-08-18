@@ -18,7 +18,7 @@ Before you read on, think about your own experiences, the tools you made or used
 
 ## 1984
 
-I was close to ending High School and had a [Sinclair ZX81](http://hiltmon.com/blog/2012/08/01/my-first-computer-sinclair-zx81/). On it, I could create simple [BASIC](http://en.wikipedia.org/wiki/BASIC) programs, mainly utilities and games. There was no [IDE](http://en.wikipedia.org/wiki/Integrated_development_environment), no libraries, no database and the command-line environment was rudimentary. If I needed anything, I had to create it first.
+I was close to ending High School and had a [Sinclair ZX81](https://hiltmon.com/blog/2012/08/01/my-first-computer-sinclair-zx81/). On it, I could create simple [BASIC](http://en.wikipedia.org/wiki/BASIC) programs, mainly utilities and games. There was no [IDE](http://en.wikipedia.org/wiki/Integrated_development_environment), no libraries, no database and the command-line environment was rudimentary. If I needed anything, I had to create it first.
 
 *1 task, 1 platform, 1 language, 0 libraries, 0 IDEs, 0 databases.*
 

@@ -6,7 +6,7 @@ comments: true
 categories: [Markdown, Productivity]
 ---
 
-For as long as it has been available, I have been using [Byword](http://bywordapp.com) for writing in Markdown. All blog posts, all knowledge base notes, all written using Byword. But I really liked the look of [iA Writer](http://www.iawriter.com), so I made Byword’s font look more like iA Writer’s (see [Text Editing Fonts and Colors](http://hiltmon.com/blog/2012/02/23/text-editing-fonts-and-colors/)). Perfect.
+For as long as it has been available, I have been using [Byword](http://bywordapp.com) for writing in Markdown. All blog posts, all knowledge base notes, all written using Byword. But I really liked the look of [iA Writer](http://www.iawriter.com), so I made Byword’s font look more like iA Writer’s (see [Text Editing Fonts and Colors](https://hiltmon.com/blog/2012/02/23/text-editing-fonts-and-colors/)). Perfect.
 
 I even started a “why I prefer one over the other” post, but it only contained one item:
 

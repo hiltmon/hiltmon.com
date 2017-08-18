@@ -6,7 +6,7 @@ comments: true
 categories: [Productivity]
 ---
 
-People come to [hiltmon.com](http://hiltmon.com) to read, and occasionally to comment on the writing found here. Statistics show that no-one uses the social icons to tweet, Facebook or Google+ the articles.
+People come to [hiltmon.com](https://hiltmon.com) to read, and occasionally to comment on the writing found here. Statistics show that no-one uses the social icons to tweet, Facebook or Google+ the articles.
 
 The average page loads in 2.53 seconds and makes 84 requests. Thats a long time for readers to wait, and a lot of requests. So I decided to check out what is going on.
 

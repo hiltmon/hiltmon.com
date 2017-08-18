@@ -58,6 +58,6 @@ The only real bad of this setup depends on your choice in “When switching to a
 
 *I know I have written about this before, but have changed the setup and felt it was better to create a new article than update the old. This truly is one of the best productivity tips, especially since it helps maintain context when switching back to work mode.*
 
-See Also: [Browser Windows on All Desktops](http://hiltmon.com/blog/2013/01/19/browser-windows-on-all-desktops/).
+See Also: [Browser Windows on All Desktops](https://hiltmon.com/blog/2013/01/19/browser-windows-on-all-desktops/).
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

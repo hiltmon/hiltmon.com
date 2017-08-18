@@ -26,9 +26,9 @@ Facebook and Google+ added no new viewers.
 
 My top articles were:
 
-* [The Markdown Mindset](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) - 22,837 views
-* [The Paradox of Choice](http://hiltmon.com/blog/2012/02/01/the-paradox-of-choice/) - 3,396 views
-* [It Should Only Take You a Few Hours...](http://hiltmon.com/blog/2012/01/11/it-should-only-take-you-a-few-hours-dot-dot-dot/) - 629 views (6,322 last month)
+* [The Markdown Mindset](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) - 22,837 views
+* [The Paradox of Choice](https://hiltmon.com/blog/2012/02/01/the-paradox-of-choice/) - 3,396 views
+* [It Should Only Take You a Few Hours...](https://hiltmon.com/blog/2012/01/11/it-should-only-take-you-a-few-hours-dot-dot-dot/) - 629 views (6,322 last month)
 
 Most of these views came via referrals from [reddit programming](http://www.reddit.com/r/programming/) or [Hacker News](http://news.ycombinator.com/news). It was so exciting to watch the simultaneous viewer counts rise using Google Analytics live beta. Also pleasing to see that [Octopress](http://octopress.org/) and [Dreamhost](http://dreamhost.com/) gave no problems and remained very responsive to viewers.
 

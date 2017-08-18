@@ -6,13 +6,13 @@ comments: true
 categories: 
 ---
 
-The problem I have is that I regularly need to open a specific set of [Markdown](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) documents scattered all over my file system while I work and have them available at my fingertips. But I need  a *different* set open when working at home and available the same way. The best solution I have found is to use [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) projects to manage these document sets. Here's why and how to do it.
+The problem I have is that I regularly need to open a specific set of [Markdown](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) documents scattered all over my file system while I work and have them available at my fingertips. But I need  a *different* set open when working at home and available the same way. The best solution I have found is to use [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) projects to manage these document sets. Here's why and how to do it.
 
 ## The Scenario
 
-I work across several projects during the day at work and across a different set of projects at night. I would like to have all their [Assembly Notes](http://hiltmon.com/blog/2013/01/03/assembly-notes/) and TODO documents together in one application for reference and update.
+I work across several projects during the day at work and across a different set of projects at night. I would like to have all their [Assembly Notes](https://hiltmon.com/blog/2013/01/03/assembly-notes/) and TODO documents together in one application for reference and update.
 
-But each project I work on follows my preferred [Project Folder Layout](http://hiltmon.com/blog/2012/06/30/project-folder-layout/) in the file system which means these files are scattered all over the place.  Each project has an [Assembly Notes](http://hiltmon.com/blog/2013/01/03/assembly-notes/) document and a TODO document stored in its `documents` folder but I want to work with them in one place.
+But each project I work on follows my preferred [Project Folder Layout](https://hiltmon.com/blog/2012/06/30/project-folder-layout/) in the file system which means these files are scattered all over the place.  Each project has an [Assembly Notes](https://hiltmon.com/blog/2013/01/03/assembly-notes/) document and a TODO document stored in its `documents` folder but I want to work with them in one place.
 
 The pain point comes in when I switch projects and need to update the assembly notes or TODO for that project, then get back to another project. Finding, opening and closing these scattered files all day is not optimal.
 

@@ -16,7 +16,7 @@ But we are still faced with the problem that remote links to the site may still 
 
 {% img /images/lose-the-www.png 819 145 %}
 
-Welcome to [hiltmon.com](http://hiltmon.com).
+Welcome to [hiltmon.com](https://hiltmon.com).
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
 

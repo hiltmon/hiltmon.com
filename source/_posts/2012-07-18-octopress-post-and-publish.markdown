@@ -37,7 +37,7 @@ rake generate
 rake preview
 ```
 
-Note that I have already hacked the `new_post` function in my Rakefile to also log this to [Day One](http://dayoneapp.com) and launch [Byword](http://bywordapp.com), see my post on [Bread Crumbs in Day One](http://hiltmon.com/blog/2012/01/23/bread-crumbs-in-day-one/), so those steps are not shown.
+Note that I have already hacked the `new_post` function in my Rakefile to also log this to [Day One](http://dayoneapp.com) and launch [Byword](http://bywordapp.com), see my post on [Bread Crumbs in Day One](https://hiltmon.com/blog/2012/01/23/bread-crumbs-in-day-one/), so those steps are not shown.
 
 ### The new way
 
@@ -87,7 +87,7 @@ I created the following ruby script to handle the post function. If you want the
 #! /usr/bin/ruby
 
 # post.rb
-# Hilton Lipschitz (http://hiltmon.com) @hiltmon
+# Hilton Lipschitz (https://hiltmon.com) @hiltmon
 # Use and modify freely, attribution appreciated
 #
 # Create a new Octopress post, isolate it, generate the

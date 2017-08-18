@@ -76,6 +76,6 @@ And so the thinking, spinning and search continues.
 
 Until I find the "right" new things for me, I'll stick with what I have. But I'll keep looking, keep checking things out.
 
-My next project will be a *trusty* Rails project on a trusty Linux platform using my *trusty* Nginx setup against *trusty* PostgreSQL. And my next script will still be in *trusty* Ruby. And I'll still program it all using *trusty* TextMate 2 with my familiar [CombinedCasts](http://hiltmon.com/files/CombinedCasts.tmTheme) theme.
+My next project will be a *trusty* Rails project on a trusty Linux platform using my *trusty* Nginx setup against *trusty* PostgreSQL. And my next script will still be in *trusty* Ruby. And I'll still program it all using *trusty* TextMate 2 with my familiar [CombinedCasts](https://hiltmon.com/files/CombinedCasts.tmTheme) theme.
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

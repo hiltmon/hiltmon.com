@@ -6,7 +6,7 @@ comments: true
 categories: [Productivity, Reviews]
 ---
 
-*Editor's Note: Written six months ago, I've since moved on to using [Glui - a better Skitch](http://hiltmon.com/blog/2013/02/20/glui-a-better-skitch/) to replace Skitch.*
+*Editor's Note: Written six months ago, I've since moved on to using [Glui - a better Skitch](https://hiltmon.com/blog/2013/02/20/glui-a-better-skitch/) to replace Skitch.*
 
 ## Bye bye Skitch
 
@@ -18,7 +18,7 @@ In Skitch 2.0.
 
 Bye bye Skitch.
 
-For the record, I don’t use Evernote, I don’t like it. I tried twice, but still could not like it. See my [Text Notes - Going Electronic](http://hiltmon.com/blog/2012/04/15/text-notes-going-electronic/). I just felt that *my* notes were no longer *mine* in Evernote.
+For the record, I don’t use Evernote, I don’t like it. I tried twice, but still could not like it. See my [Text Notes - Going Electronic](https://hiltmon.com/blog/2012/04/15/text-notes-going-electronic/). I just felt that *my* notes were no longer *mine* in Evernote.
 
 With Skitch 2.0, skitch.com accounts are gone and Evernote is the only way to use it, save and share. There seems to be no way to use the product without an Evernote account. Each time you start it, it nags for an Evernote login. That in itself is a reason to drop the product. All I want to do is capture a part of my screen, possibly annotate it and drag the file to the desktop. I do not want to share the snapshot or log into Evernote at all. Can’t do it in Skitch 2.0.
 

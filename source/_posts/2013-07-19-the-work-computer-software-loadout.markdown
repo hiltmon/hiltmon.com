@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-I got [Back in the Saddle](http://hiltmon.com/blog/2013/06/25/back-in-the-saddle/) over three weeks ago and purchased a new Haswell 13-inch MacBook Air as my primary work computer. I plan to write more about it after at least 30 days use. But with the new computer, my plan was to only install that which I needed *as and when* I needed it. It turns out, I use a lot of different tools for work activities.
+I got [Back in the Saddle](https://hiltmon.com/blog/2013/06/25/back-in-the-saddle/) over three weeks ago and purchased a new Haswell 13-inch MacBook Air as my primary work computer. I plan to write more about it after at least 30 days use. But with the new computer, my plan was to only install that which I needed *as and when* I needed it. It turns out, I use a lot of different tools for work activities.
 
 <span class="light">Note: No affiliate links were hurt in the creation of this post, all links are to the vendor's sites, so it's safe to click through to learn more about each product.</span>
 
@@ -14,7 +14,7 @@ I got [Back in the Saddle](http://hiltmon.com/blog/2013/06/25/back-in-the-saddle
 
 The primary uses for this work computer are:
 
-* **Programming** new systems using a myriad of languages and tools, mostly via terminal, TextMate 2 and Xcode, to be run on Centos Servers against many different database servers. See [A Simple C++ Project Structure](http://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).
+* **Programming** new systems using a myriad of languages and tools, mostly via terminal, TextMate 2 and Xcode, to be run on Centos Servers against many different database servers. See [A Simple C++ Project Structure](https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/).
 * **Designing** the new systems, from mind mapping, through diagramming, through wire-framing and artwork creation and, of course, writing documentation.
 * **Maintaining** a bunch of older web applications and moving them to newer technologies (and creating a bunch of new ones)
 * **Systems administration** of the servers, databases and routers of the business
@@ -58,7 +58,7 @@ Page 2 and 3 contain all my third party applications. Yes, in *alphabetical* ord
 * [Fluid](http://fluidapp.com) for chrome-less web applications, only one so far...
 * [Google Chrome](https://www.google.com/intl/en/chrome/browser/) for flash sites (no flash on Safari)
 * [iStat Menus](http://bjango.com/mac/istatmenus/) to see how hard the computer is working
-* [iTerm 2](http://www.iterm2.com/#/section/home), of course! See [Make iTerm 2 more Mac-like](http://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/).
+* [iTerm 2](http://www.iterm2.com/#/section/home), of course! See [Make iTerm 2 more Mac-like](https://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/).
 * [Join.me](https://join.me) to share screens remotely.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com) for visual diffs and merges
 * [Keyboard Maestro](http://www.keyboardmaestro.com/main/) to speed up all the things

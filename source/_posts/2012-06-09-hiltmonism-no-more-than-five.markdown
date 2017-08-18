@@ -8,7 +8,7 @@ categories: Hiltmonism
 
 We've all seen those interfaces: [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/products/ie/home) windows with racks upon racks of toolbars, forms with hundreds of fields to fill in or applications with menus that run off the bottom of the screen, or worse, have unending levels of sub-menus. They are confusing, messy, hard to use and even harder to navigate.
 
-This [Hiltmonism](http://hiltmon.com/blog/categories/hiltmonism/) is simple. One, *there shall be no more than five* things on an interface element. Ever! No more than five fields in a form section, no more than 5 menu items in a menu section, no more than five things in a toolbar segment, no more than 5 tabs on screen.
+This [Hiltmonism](https://hiltmon.com/blog/categories/hiltmonism/) is simple. One, *there shall be no more than five* things on an interface element. Ever! No more than five fields in a form section, no more than 5 menu items in a menu section, no more than five things in a toolbar segment, no more than 5 tabs on screen.
 
 Two, *there shall be no more than five* elements. No more than 5 sections on a form, no more than 5 menu blocks, no more than 5 segments on a toolbar.
 

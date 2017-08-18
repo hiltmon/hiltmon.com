@@ -63,6 +63,6 @@ Or just use [iTerm 2's](http://www.iterm2.com/#/section/home) profiles.
 
 *Is it not wonderful that we can each find our own way out of an unlimited number of ways to do the same thing, and all be cool about it.*
 
-Related Reading: [Make iTerm 2 more Mac-like](http://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/)
+Related Reading: [Make iTerm 2 more Mac-like](https://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/)
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

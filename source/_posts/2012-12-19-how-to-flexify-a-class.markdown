@@ -6,7 +6,7 @@ comments: true
 categories: [ Software, Design ]
 ---
 
-OK, so you managed months ago to stop yourself from [Premature Flexification](http://hiltmon.com/blog/2012/12/19/premature-flexification/) when creating a class (or someone else did), but now the time has come to add features or flexify the existing feature set of the class.
+OK, so you managed months ago to stop yourself from [Premature Flexification](https://hiltmon.com/blog/2012/12/19/premature-flexification/) when creating a class (or someone else did), but now the time has come to add features or flexify the existing feature set of the class.
 
 There are many **wrong** ways to do this, and I have seen all of them in practice:
 

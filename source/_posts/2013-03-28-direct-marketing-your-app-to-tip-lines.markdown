@@ -6,7 +6,7 @@ comments: true
 categories: [ TimeToCall ]
 ---
 
-In [TimeToCall - After One Month](http://hiltmon.com/blog/2013/03/07/timetocall-after-one-month/), I stated that my next *marketing* experiment would be to send a PR style email to popular press site tip lines to see if they worked. In parallel, and unbeknownst to me, Christian Tietze was doing the same thing, just paying for it  <span class="light">(See [Sales and AppLaunch.us experience for Calendar Paste](http://christiantietze.de/posts/2013/03/calendarpaste-sales-and-applaunch/), worth a read and reminding me to post this).</span>
+In [TimeToCall - After One Month](https://hiltmon.com/blog/2013/03/07/timetocall-after-one-month/), I stated that my next *marketing* experiment would be to send a PR style email to popular press site tip lines to see if they worked. In parallel, and unbeknownst to me, Christian Tietze was doing the same thing, just paying for it  <span class="light">(See [Sales and AppLaunch.us experience for Calendar Paste](http://christiantietze.de/posts/2013/03/calendarpaste-sales-and-applaunch/), worth a read and reminding me to post this).</span>
 
 The results are:
 
@@ -40,7 +40,7 @@ In order to get attention, I also
 
 * Referred to the post series on how it was made, hoping that would interest these writers to learn about what is behind the products they review all the time.
 * Included a [Brett Terpstra](http://brettterpstra.com/2013/02/09/an-ios-development-saga-timetocall/) quote because everybody knows he's a software wizard.
-* I even made a [press kit](http://hiltmon.com/timetocall/press-kit.html), so the art and assets were easily accessible.
+* I even made a [press kit](https://hiltmon.com/timetocall/press-kit.html), so the art and assets were easily accessible.
 
 So here it is, an image of the PR message sent:
 

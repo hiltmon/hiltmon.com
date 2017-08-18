@@ -18,7 +18,7 @@ This has to be the most *puzzling* deal ever!
 
 So here is my *brilliant* offer:
 
-{% blockquote Hilton Lipschitz http://hiltmon.com %}
+{% blockquote Hilton Lipschitz https://hiltmon.com %}
 You can aquihire me for $60 million.
 {% endblockquote %}
 

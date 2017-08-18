@@ -6,7 +6,7 @@ comments: true
 categories: [ Status Board ]
 ---
 
-Last week, Google finally deprecated their non-Oauth APIs, which means that the [Google Analytics for Status Board](http://hiltmon.com/blog/categories/status-board/) code I have been publishing stopped working. Fortunately for us, Github user [erebusnz](https://github.com/erebusnz/gapi-google-analytics-php-interface) updated the PHP API to work with OAuth2 and we can access Google again. I have included it in a new version of the Server Edition Package.
+Last week, Google finally deprecated their non-Oauth APIs, which means that the [Google Analytics for Status Board](https://hiltmon.com/blog/categories/status-board/) code I have been publishing stopped working. Fortunately for us, Github user [erebusnz](https://github.com/erebusnz/gapi-google-analytics-php-interface) updated the PHP API to work with OAuth2 and we can access Google again. I have included it in a new version of the Server Edition Package.
 
 ## Quick Install Instructions
 

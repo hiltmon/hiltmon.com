@@ -6,9 +6,9 @@ comments: true
 categories: [Markdown, Scrivener]
 ---
 
-If you are a regular reader of this blog, you will know that I do all my writing using [Markdown](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) format, short-form in [Byword](http://bywordapp.com), long-form in [Scrivener](http://www.literatureandlatte.com/scrivener.php) and generate the final document using [Marked](http://marked2app.com).
+If you are a regular reader of this blog, you will know that I do all my writing using [Markdown](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) format, short-form in [Byword](http://bywordapp.com), long-form in [Scrivener](http://www.literatureandlatte.com/scrivener.php) and generate the final document using [Marked](http://marked2app.com).
 
-In short: I write all my work documents, including letters, reports and software documentation in Markdown formatted text files and then format them using Marked and a standard stylesheet (See [Letterhead - Markdown Style](http://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/) for how that works). See [The Markdown Payoff](http://hiltmon.com/blog/2014/04/27/the-markdown-payoff/) for why.
+In short: I write all my work documents, including letters, reports and software documentation in Markdown formatted text files and then format them using Marked and a standard stylesheet (See [Letterhead - Markdown Style](https://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/) for how that works). See [The Markdown Payoff](https://hiltmon.com/blog/2014/04/27/the-markdown-payoff/) for why.
 
 In this post, I will share how I set up and use Scrivener and Marked *melded* together for larger, more complex documents **at work** and why.
 

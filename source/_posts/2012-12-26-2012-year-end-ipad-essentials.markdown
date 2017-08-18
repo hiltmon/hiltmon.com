@@ -6,7 +6,7 @@ comments: true
 categories: [iPad]
 ---
 
-I posted my [2012 iPad Essentials](http://hiltmon.com/blog/2012/03/17/2012-ipad-essentials/) (excluding games) in March this year when the iPad 3 came out. Since then, the iPad 4 and the iPad mini have launched. Surprisingly enough, the early 2012 essentials (excluding games) have changed very little:
+I posted my [2012 iPad Essentials](https://hiltmon.com/blog/2012/03/17/2012-ipad-essentials/) (excluding games) in March this year when the iPad 3 came out. Since then, the iPad 4 and the iPad mini have launched. Surprisingly enough, the early 2012 essentials (excluding games) have changed very little:
 
 ## New Additions
 

@@ -89,7 +89,7 @@ Run the following commands as per the trick, one after the other  <span class="l
 	$ sudo apachectl restart
 	$ curl get.pow.cx | sh
 
-If you try your *modern* sites now (in my case, say `http://hiltmon.dev`), they should still work. Pow still takes over the DNS handling of the `.dev` domain, but now it redirects all calls to Apache, which then passes them through to the Pow web server. A smidge slower performance, but it works.
+If you try your *modern* sites now (in my case, say `https://hiltmon.dev`), they should still work. Pow still takes over the DNS handling of the `.dev` domain, but now it redirects all calls to Apache, which then passes them through to the Pow web server. A smidge slower performance, but it works.
 
 Time to set up the legacy sites. We need to tell Apache to serve these and *not* pass them through.
 
@@ -116,7 +116,7 @@ Then start MySQL and restart apache
 	$ sudo /usr/local/mysql/support-files/mysql.server start
 	$ sudo apachectl restart
 	
-If you go to your *legacy* `.dev` path from your browser (in my case `http://testwordpress.dev`), you should get the *legacy* site back. Apache and PHP are happily serving it. Try a *modern* `.dev` path (`http://hiltmon.dev` again), and after a tick, it should come up too as Pow serves it. Brilliant!
+If you go to your *legacy* `.dev` path from your browser (in my case `http://testwordpress.dev`), you should get the *legacy* site back. Apache and PHP are happily serving it. Try a *modern* `.dev` path (`https://hiltmon.dev` again), and after a tick, it should come up too as Pow serves it. Brilliant!
 
 To make this work for me the same as *modern* development, I created a [Keyboard Maestro][linksynergy] macro on ⇧⌃⌥⌘O to start and stop MySQL<a href="#fn:2" id="fnref:2"><sup>[2]</sup></a>. I leave Apache running like Pow, it does not use any resources when not in use.
 

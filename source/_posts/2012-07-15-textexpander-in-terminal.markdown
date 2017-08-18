@@ -44,7 +44,7 @@ As we all do, I spend a lot of time typing in Git commands to manage Source Cont
 * `;gcb` -> `git checkout -b ` *(note the space at the end)*
 * `;gpo` -> `git push origin`
 
-One thing I like to do is log all commits to [Day One](http://dayoneapp.com) - see [Bread Crumbs in Day One](http://hiltmon.com/blog/2012/01/23/bread-crumbs-in-day-one/). In this case I use a TextExpander cursor position marker to set where I type the commit message, then use it to run a bash macro.
+One thing I like to do is log all commits to [Day One](http://dayoneapp.com) - see [Bread Crumbs in Day One](https://hiltmon.com/blog/2012/01/23/bread-crumbs-in-day-one/). In this case I use a TextExpander cursor position marker to set where I type the commit message, then use it to run a bash macro.
 
 * `;gca` -> `gca "%|"`
 

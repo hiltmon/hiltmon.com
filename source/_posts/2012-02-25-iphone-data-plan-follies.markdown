@@ -47,4 +47,4 @@ The camera, of course. Every iPhone after the 3G has shipped with a higher-resol
 
 I can attest to that. I'm a hobby photographer, but the camera I use the most is the one on my phone. It's there, it's convenient, and it's pretty good. So I am more likely to rip the iPhone out, take a shot, [Instagram](http://instagr.am/) it and post it to Facebook and Twitter. In this case I use a lot more data - the 8 megapixel image goes over the data connection with Photo Stream, it goes again in the new larger format to Instagram, a third time to Facebook and again to TwitPic. Since the photo is a lot larger, I use more data that when I was on the iPhone 4 or the 3GS.
 
-Maybe I was wrong in [Bandwidth Caps Never Necessary](http://hiltmon.com/blog/2012/01/06/bandwidth-caps-never-necessary/), the caps and throttles are not an issue for the future, it's a *now* issue that we all face.
+Maybe I was wrong in [Bandwidth Caps Never Necessary](https://hiltmon.com/blog/2012/01/06/bandwidth-caps-never-necessary/), the caps and throttles are not an issue for the future, it's a *now* issue that we all face.

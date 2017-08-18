@@ -8,7 +8,7 @@ categories:
 
 **Assembly Notes** are documentation that a programmer creates to record all the steps they go through when crafting an application, setting up a new server or configuring a new device. The idea is to log all the things they do *and all the commands they type in* so that they can reproduce the process again later. Assembly Notes are personal or project internal, not shared.
 
-I started writing these when I launched [Noverse](http://www.noverse.com), and use them on all projects. I have notes for each step I performed when creating each application, more notes for how all servers are set up and configured and even notes on how the development environments are set up. In my case, I break these up into weekly files by project, store them in my [standard project folder’s](http://hiltmon.com/blog/2012/06/30/project-folder-layout/) Notes folder and use these logs as the source when reporting progress to clients as well.
+I started writing these when I launched [Noverse](http://www.noverse.com), and use them on all projects. I have notes for each step I performed when creating each application, more notes for how all servers are set up and configured and even notes on how the development environments are set up. In my case, I break these up into weekly files by project, store them in my [standard project folder’s](https://hiltmon.com/blog/2012/06/30/project-folder-layout/) Notes folder and use these logs as the source when reporting progress to clients as well.
 
 *By noting everything, you miss nothing. And you have a script to reproduce what you did.*
 
@@ -94,7 +94,7 @@ About these notes:
 
 * They are written as [Markdown](http://daringfireball.net/projects/markdown/) files (using [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) extensions).
 * I have [BBEdit](https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894) running all the time with the current project and week’s Assembly Notes file open.
-* I use [Markdown Metadata](http://hiltmon.com/blog/2012/06/18/markdown-metadata/) headers to record the project, week and date of the notes (always a Friday).
+* I use [Markdown Metadata](https://hiltmon.com/blog/2012/06/18/markdown-metadata/) headers to record the project, week and date of the notes (always a Friday).
 * I often copy and paste command lines in to record what was used. And sometimes the data and output too.
 * I usually log the branch name in case I need to go back.
 * I use [TextExpander](https://itunes.apple.com/us/app/textexpander-for-mac/id405274824?mt=12&uo=4&at=10l894) shortcuts to create the unchecked ☐ and checked ✓ marks against to-do notes. I often create a plan, note it, then check each item off as I go. *These are tactical plans, what I want to achieve in the next few hours.*

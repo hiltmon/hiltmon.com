@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-*If you are running OS X 10.8 or lower, please refer to [SonicWall NetExtender for OS X Mavericks](http://hiltmon.com/blog/2013/09/28/sonicwall-netextender-for-os-x-mavericks/), this only works for 10.9 Mavericks and above.*
+*If you are running OS X 10.8 or lower, please refer to [SonicWall NetExtender for OS X Mavericks](https://hiltmon.com/blog/2013/09/28/sonicwall-netextender-for-os-x-mavericks/), this only works for 10.9 Mavericks and above.*
 
 Step 1: Download from the App Store
 

@@ -74,7 +74,7 @@ That way comes from old habits. I use a person's initials or a company's short n
 
 For example, if I need something from Satai Delenn, I will create a task like "Get TPM report from (SD)". <span class="light">If I assigned the TPM report to her it would have her name as context instead.</span> A search for `SD)` would find all the tasks I need to do or discuss with her.
 
-The reason I bracket the initials of a person is because I use the same [TextExpander](https://smilesoftware.com/TextExpander/index.html) snippets for people as I do for key marks (see the end of [Assembly Notes](http://hiltmon.com/blog/2013/01/03/assembly-notes/)). It's really just a habit now.
+The reason I bracket the initials of a person is because I use the same [TextExpander](https://smilesoftware.com/TextExpander/index.html) snippets for people as I do for key marks (see the end of [Assembly Notes](https://hiltmon.com/blog/2013/01/03/assembly-notes/)). It's really just a habit now.
 
 Another example use of initials would be to track requests from people. If Satai Delenn had asked for feature X, I would create a task in that project called "Implement Feature X (⨍/SD)" to mark it that the feature request came from her. The same search above would remind me to update her on that feature's progress.
 

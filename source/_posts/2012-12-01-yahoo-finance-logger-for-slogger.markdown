@@ -47,6 +47,6 @@ Try
 
 Enjoy.
 
-*See also [Google Analytics Logger for Slogger](http://hiltmon.com/blog/2012/11/14/google-analytics-logger-for-slogger/). Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*See also [Google Analytics Logger for Slogger](https://hiltmon.com/blog/2012/11/14/google-analytics-logger-for-slogger/). Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
 
 

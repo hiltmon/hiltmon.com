@@ -8,7 +8,7 @@ categories:
 
 {% img right /images/asana_to_omnifocus.png 363 130 %}
 
-A long long time ago in a galaxy far far away, I wrote a script to import Asana tasks into Omnifocus. If you ran it again, it would update the tasks in OmniFocus. See [Merge Asana Projects Into OmniFocus](http://hiltmon.com/blog/2013/11/03/merge-asana-projects-into-omnifocus/).
+A long long time ago in a galaxy far far away, I wrote a script to import Asana tasks into Omnifocus. If you ran it again, it would update the tasks in OmniFocus. See [Merge Asana Projects Into OmniFocus](https://hiltmon.com/blog/2013/11/03/merge-asana-projects-into-omnifocus/).
 
 I recently updated the script to work a smidge better with Asana and Omnifocus 2. The main changes are:
 
@@ -17,7 +17,7 @@ I recently updated the script to work a smidge better with Asana and Omnifocus 2
 
 ### Setup
 
-First, follow the instructions from the [original post](http://hiltmon.com/blog/2013/11/03/merge-asana-projects-into-omnifocus/) to set up Omnifocus and get your API keys.
+First, follow the instructions from the [original post](https://hiltmon.com/blog/2013/11/03/merge-asana-projects-into-omnifocus/) to set up Omnifocus and get your API keys.
 
 Download the updated script from [https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca).
 

@@ -32,4 +32,4 @@ This leaves me with four (4) servers to check:
 * **shukaico** for all [Kifu](http://www.kifuapp.com) email
 * **icloud** for all Apple email (and I'm thinking of forwarding these to **gmail** too)
 
-Now that I have reduced the *number* of inboxes, it's a lot easier to process email. And it's easier for people who email me to know *which* account to use (see the need in my [Email Etiquette](http://hiltmon.com/blog/2012/10/24/email-etiquette/) article).
+Now that I have reduced the *number* of inboxes, it's a lot easier to process email. And it's easier for people who email me to know *which* account to use (see the need in my [Email Etiquette](https://hiltmon.com/blog/2012/10/24/email-etiquette/) article).

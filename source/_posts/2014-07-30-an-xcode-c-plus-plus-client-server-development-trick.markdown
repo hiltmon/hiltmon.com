@@ -18,7 +18,7 @@ The traditional approach to build and debug this pattern is to create a library 
 
 It turns out that Xcode *does* support running multiple targets simultaneously, and you can get away without the additional library compile.
 
-Take this [spike](http://hiltmon.com/blog/2012/04/06/spike-solutions/) I am working with. It has two targets, `szp-server` and `szp-client` representing the server and client components.
+Take this [spike](https://hiltmon.com/blog/2012/04/06/spike-solutions/) I am working with. It has two targets, `szp-server` and `szp-client` representing the server and client components.
 
 {% img right /images/xcode-trick-2.png 131 82 %}
 

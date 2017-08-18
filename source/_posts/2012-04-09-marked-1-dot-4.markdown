@@ -6,7 +6,7 @@ comments: true
 categories: [Markdown, Reviews]
 ---
 
-If you are a fans of the [The Markdown Mindset](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/), then the must-have Markdown preview app [Marked](http://markedapp.com/) has just been updated to V1.4 by [Brett Terpstra](http://brettterpstra.com/).
+If you are a fans of the [The Markdown Mindset](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/), then the must-have Markdown preview app [Marked](http://markedapp.com/) has just been updated to V1.4 by [Brett Terpstra](http://brettterpstra.com/).
 
 Marked has gone from a simple preview app that always sits to the right of my writing window to an integral part of my writing, checking, publishing and delivery process. As you know, I already do all my writing in Markdown. I use Marked to preview the results using the formatting I intend to deliver it ([Kifu](http://www.kifuapp.com) format, blog format, report format), and then use it's great export features to generate the HTML or PDFs I send out.
 

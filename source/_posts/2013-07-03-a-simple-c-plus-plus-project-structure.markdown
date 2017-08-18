@@ -8,7 +8,7 @@ categories: [development, programming, c++]
 
 One of the things I need in my new job is a bunch of blazingly fast [daemons][wp1] to capture market information and trade data. I prototyped them in Ruby to see what comes down the line, but **I have the need, the need for speed.** Which means I need a UNIX C or C++ framework.
 
-So I went old-school. Retro even. Plain old C++. [My favorite programmer's editor](http://hiltmon.com/blog/2013/01/14/back-to-textmate-2/). And the good old terminal, er, [iTerm 2, just Mac-like](http://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/).
+So I went old-school. Retro even. Plain old C++. [My favorite programmer's editor](https://hiltmon.com/blog/2013/01/14/back-to-textmate-2/). And the good old terminal, er, [iTerm 2, just Mac-like](https://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/).
 
 Since I am planning on creating a lot of these little projects, developing them on my Mac and deploying them to Linux servers, I decided to create a generic project folder layout and generic Makefile for each. And share it with you.
 

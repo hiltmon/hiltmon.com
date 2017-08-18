@@ -19,7 +19,7 @@ I seem to have a lot of text manipulation tools on my devices. Of course, I don�
 - [Coda 2](https://panic.com/coda/): I use Coda 2 for static web site development to help out my favorite graphic designer.
 - [iA Writer](http://www.iawriter.com): iA Writer sure is pretty, and I occasionally use it instead of Byword in full screen when I do not wish to be distracted. I just wish I could make it’s awesome Nitti Light font a tad smaller. And the blue cursor is cool!
 - [nvAlt](http://brettterpstra.com/project/nvalt/): The way notes should be managed. I use nvAlt for all my common, non-project related text notes and sync it via [DropBox](http://www.dropbox.com) so I can work on the same documents on my iPad.
-- [VoodooPad](http://flyingmeat.com/voodoopad/): Project notes wiki, see my post on [Project Specific Data](http://hiltmon.com/blog/2012/05/27/project-specific-data/).
+- [VoodooPad](http://flyingmeat.com/voodoopad/): Project notes wiki, see my post on [Project Specific Data](https://hiltmon.com/blog/2012/05/27/project-specific-data/).
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php): I use Scrivener for all long form document generation. It’s a great writing and document management experience. This product just plain rocks!
 - [TextEdit](http://support.apple.com/kb/HT2523): Ok, so it came with my Mac and it's still installed, and occasionally it’s useful to see what’s in a file.
 

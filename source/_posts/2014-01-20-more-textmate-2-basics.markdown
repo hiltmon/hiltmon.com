@@ -8,7 +8,7 @@ categories: [Text Editors, TextMate]
 
 {% img right /images/textmate.png 128 128 %}
 
-Previously, I wrote about the [TextMate 2 Basics](http://hiltmon.com/blog/2013/11/09/textmate-2-basics/) that I use all the time, and I recommend you read [that](http://hiltmon.com/blog/2013/11/09/textmate-2-basics/) post first. This post follows up with a *mish-mash* of more tools, ideas and tricks that I also use surprisingly frequently.
+Previously, I wrote about the [TextMate 2 Basics](https://hiltmon.com/blog/2013/11/09/textmate-2-basics/) that I use all the time, and I recommend you read [that](https://hiltmon.com/blog/2013/11/09/textmate-2-basics/) post first. This post follows up with a *mish-mash* of more tools, ideas and tricks that I also use surprisingly frequently.
 
 ## Text Tools
 
@@ -83,7 +83,7 @@ You can also drag a tab out of the tab bar (or double-click on it) to move it to
 
 Since we all have different tastes and preferences, TextMate comes with a lovely set of built-in themes which are fully customizable. You can change the theme from the **View / Theme** menu. 
 
-To install  a new theme, download a `.tmTheme` file and double-click it. Then look for the new theme on the **View / Theme** menu. I use my own [CombinedCasts.tmTheme](http://hiltmon.com/files/CombinedCasts.tmTheme) theme (See [Multiple Themes in TextMate 2 - The Hiltmon](http://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/)) but there are hundreds out there to choose from.
+To install  a new theme, download a `.tmTheme` file and double-click it. Then look for the new theme on the **View / Theme** menu. I use my own [CombinedCasts.tmTheme](https://hiltmon.com/files/CombinedCasts.tmTheme) theme (See [Multiple Themes in TextMate 2 - The Hiltmon](https://hiltmon.com/blog/2013/02/22/multiple-themes-in-textmate-2/)) but there are hundreds out there to choose from.
 
 {% img right /images/tm-2-basics-2-7.jpg 300 189 %}
 
@@ -147,7 +147,7 @@ The SQL bundle is pretty basic, but for quick and dirty views and tests it works
 
 So those are some more TextMate 2 features that I use all the time. Hopefully you found a few more gems in there that could help you out.
 
-If you missed the first post, check out [TextMate 2 Basics](http://hiltmon.com/blog/2013/11/09/textmate-2-basics/).
+If you missed the first post, check out [TextMate 2 Basics](https://hiltmon.com/blog/2013/11/09/textmate-2-basics/).
 
 *If you have any awesome TextMate 2 features or keys you cannot live without, please share them in the comments.*
 

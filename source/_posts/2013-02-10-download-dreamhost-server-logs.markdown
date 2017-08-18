@@ -30,10 +30,10 @@ I use:
 scp hiltmon@hiltmon.com:/home/hiltmon/logs/hiltmon.com/http/* ~/Projects/HiltmonDotCom/data/logs/
 ```
 
-This command downloads all my logs into the correct place in my [standard project folders](http://hiltmon.com/blog/2012/06/30/project-folder-layout/). Note that Dreamhost only keeps about five (5) days of logs, so do this every few days to get it all.
+This command downloads all my logs into the correct place in my [standard project folders](https://hiltmon.com/blog/2012/06/30/project-folder-layout/). Note that Dreamhost only keeps about five (5) days of logs, so do this every few days to get it all.
 
 Lovely!
 
-*Geek Aside: I rarely use this, I get all my stats from Google Analytics, but do occasionally check the `errors.log` file which is how I found that I was missing the [web clip icons](http://hiltmon.com/blog/2013/02/10/add-web-clip-icons-to-octopress/).*
+*Geek Aside: I rarely use this, I get all my stats from Google Analytics, but do occasionally check the `errors.log` file which is how I found that I was missing the [web clip icons](https://hiltmon.com/blog/2013/02/10/add-web-clip-icons-to-octopress/).*
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

@@ -8,7 +8,7 @@ categories: Hiltmonism
 
 If we define operations as "a piece of organized and concerted activity involving a number of people", then all businesses consist of a lot of operations. Back offices, accounting groups, processing units, operations departments, call them what you may, there are departments and departments of operations.
 
-In the [Automate or Die](http://hiltmon.com/blog/2011/12/04/hiltmonism-automate-or-die/) Hiltmonism, I pointed out the need to automate as much of your process flow as you can. This means tackling operations, its hordes of people, its arcane processes, its political hierarchy and its bureaucratic inertia.
+In the [Automate or Die](https://hiltmon.com/blog/2011/12/04/hiltmonism-automate-or-die/) Hiltmonism, I pointed out the need to automate as much of your process flow as you can. This means tackling operations, its hordes of people, its arcane processes, its political hierarchy and its bureaucratic inertia.
 
 This painful area of business is also where technology really shines if done right. Operations are usually rote, rule based and data intensive, everything that software is good at. Automating operations reduces errors, frees up people to work on value-add processes, improves the flexibility and nimbleness of a business and enables you to pump much more work through the process quicker and using fewer resources.
 

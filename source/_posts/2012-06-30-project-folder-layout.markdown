@@ -67,7 +67,7 @@ $ ~/Scripts/new_project NewProjectName
 #! /bin/bash
 
 # new_project.sh
-# Hilton Lipschitz (http://hiltmon.com)
+# Hilton Lipschitz (https://hiltmon.com)
 # Use and modify freely, attribution appreciated
 #
 # Script to create a new project tree with all the folders I need.

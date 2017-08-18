@@ -60,15 +60,15 @@ In short, switching to [Octopress][1] 18 months ago was a brilliant decision for
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	http://octopress.org
-[2]:	http://hiltmon.com
+[2]:	https://hiltmon.com
 [3]:	http://wordpress.org
 [4]:	https://itunes.apple.com/us/app/rapidweaver/id402477569?mt=12&uo=4&at=10l894
-[5]:	http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/
+[5]:	https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/
 [6]:	http://octopress.org/docs/setup/
 [7]:	http://octopress.org/docs/configuring/
 [8]:	http://octopress.org/docs/deploying/
 [9]:	https://github.com/mojombo/jekyll
-[10]:	http://hiltmon.com/blog/2012/07/18/octopress-post-and-publish/
+[10]:	https://hiltmon.com/blog/2012/07/18/octopress-post-and-publish/
 [11]:	https://itunes.apple.com/us/app/marsedit-blog-editor-for-wordpress/id402376225?mt=12&uo=4&at=10l894
 [12]:	https://itunes.apple.com/us/app/byword/id420212497?mt=12&uo=4&at=10l894
 [13]:	https://itunes.apple.com/us/app/marked/id448925439?mt=12&uo=4&at=10l894

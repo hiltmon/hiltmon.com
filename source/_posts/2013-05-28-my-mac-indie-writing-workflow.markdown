@@ -101,13 +101,13 @@ Now I just have to figure out which tools I like on the iPad for writing, I have
 [17]:	http://www.macdrifter.com/2012/04/michael-schechters-writer-workflow.html
 [22]:	http://www.the-soulmen.com
 [27]:	http://metaclassy.com
-[29]:	http://hiltmon.com/blog/2012/07/18/octopress-post-and-publish/
-[30]:	http://hiltmon.com/blog/2012/06/18/markdown-metadata/
+[29]:	https://hiltmon.com/blog/2012/07/18/octopress-post-and-publish/
+[30]:	https://hiltmon.com/blog/2012/06/18/markdown-metadata/
 [36]:	http://octopress.org
 [39]:	http://www.google.com/webfonts/specimen/Cousine
 [41]:	http://www.literatureandlatte.com/about.php
 [44]:	http://brettterpstra.com
-[53]:	http://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/
+[53]:	https://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/
 [56]:	http://flyingmeat.com/about/
 [57]:	http://twitter.com/hiltmon
 [58]:	http://alpha.app.net/hiltmon

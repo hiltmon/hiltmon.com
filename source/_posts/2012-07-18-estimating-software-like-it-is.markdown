@@ -6,7 +6,7 @@ comments: true
 categories: [Business]
 ---
 
-Software estimates are hard. Clients expect things to take little time (see [It Should Only Take You a Few Hours...](http://hiltmon.com/blog/2012/01/11/it-should-only-take-you-a-few-hours-dot-dot-dot/)) and cost little money. But the reality is that software is hard, there is lots to do, lots of work over and above just programming and it takes a lot more time and money to make good product. Most people underestimate the work to be done, or *try to make the estimates look good*, so most projects run over time and over budget because of this.
+Software estimates are hard. Clients expect things to take little time (see [It Should Only Take You a Few Hours...](https://hiltmon.com/blog/2012/01/11/it-should-only-take-you-a-few-hours-dot-dot-dot/)) and cost little money. But the reality is that software is hard, there is lots to do, lots of work over and above just programming and it takes a lot more time and money to make good product. Most people underestimate the work to be done, or *try to make the estimates look good*, so most projects run over time and over budget because of this.
 
 It's bad for clients.
 
@@ -29,7 +29,7 @@ In reality, the product is not yet designed, the art not yet done, the client is
 When estimating *how it is*, at least the following additional work (and hence developer time) is required:
 
 * Design the game scenes and game mechanics to match the nuances of *this* flash card game. This requires several meetings with the client, where you print out wireframes and play the game using paper cutouts to get a feel for the experience you desire.
-* Create the placeholder assets and work with the graphic designer to create the real assets, in the right [Slicy Photoshop](http://hiltmon.com/blog/2012/07/11/slicy-photoshop-artwork/) format so that the developer spends less time generating and regenerating game assets. Include time to create the icon and iTunes store art as well as store text and screenshots. Include more time as artwork changes over the life of the development and more alpha releases need to be made and sent out.
+* Create the placeholder assets and work with the graphic designer to create the real assets, in the right [Slicy Photoshop](https://hiltmon.com/blog/2012/07/11/slicy-photoshop-artwork/) format so that the developer spends less time generating and regenerating game assets. Include time to create the icon and iTunes store art as well as store text and screenshots. Include more time as artwork changes over the life of the development and more alpha releases need to be made and sent out.
 * Double the development time because the first cut of the game with the first cut artwork *never* works, never *feels* right, it's never fluid, the mechanics are wrong, and only by playing the earlier iterations of the product can you get a feel for where the polish and additional animations and interactions are needed, or where to try new ideas, all of which add time and effort.
 * Add time for a proper beta test, sending the product out, answering questions, updating for bugs, and tuning for performance.
 * Add time to finalize the game, install the final artwork, polish the final rough edges and get it ready for App Store release. And create the screencast and the web site and PR and generate buzz on Twitter and Facebook.

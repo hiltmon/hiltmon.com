@@ -95,8 +95,8 @@ If you operate across many social network services in your daily Internet wander
 [facebook]: https://www.facebook.com/hiltmoncom
 [flickr]: http://www.flickr.com
 [foursquare]: https://foursquare.com
-[hiltmon]: http://hiltmon.com/blog/2012/11/14/google-analytics-logger-for-slogger/
-[hiltmon 2]: http://hiltmon.com/blog/2012/12/01/yahoo-finance-logger-for-slogger/
+[hiltmon]: https://hiltmon.com/blog/2012/11/14/google-analytics-logger-for-slogger/
+[hiltmon 2]: https://hiltmon.com/blog/2012/12/01/yahoo-finance-logger-for-slogger/
 [ifttt]: https://ifttt.com
 [instagram]: http://instagram.com/hiltmon
 [instapaper]: http://www.instapaper.com

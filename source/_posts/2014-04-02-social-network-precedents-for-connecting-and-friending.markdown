@@ -20,13 +20,13 @@ So, for the record, here are *my precedents*:
 
 * {% img right /images/twitter-logo.png 75 75 %}[Twitter](https://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon), [Pinboard](https://pinboard.in/u:hiltmon), and Game Center (as Hiltmon) are our public networks, and I will connect with anyone, anytime on any of these services. I am most active on [Twitter](https://twitter.com/hiltmon), and I find it's a great way to get news, interesting articles, and get in touch with folks anytime. I have met and conversed with some amazing people on [Twitter](https://twitter.com/hiltmon) and look forward to new conversations on it.
 
-* Although this site is not a true social network, I use [Disqus](http://disqus.com) comments here, and it alerts me via email when a new comment is posted. I am happy to talk to anyone via the comments here, but prefer to take longer discussions offline onto Twitter or [email](http://hiltmon.com/about/).
+* Although this site is not a true social network, I use [Disqus](http://disqus.com) comments here, and it alerts me via email when a new comment is posted. I am happy to talk to anyone via the comments here, but prefer to take longer discussions offline onto Twitter or [email](https://hiltmon.com/about/).
 
 * {% img right /images/instagram.jpg 75 75 %}I am also somewhat active on [Flickr](https://www.flickr.com/photos/hiltmon) and [Instagram](http://instagram.com/hiltmon), and I have a [Skype](http://www.skype.com/) account. The *precedent* for connecting on these is that I have a connection with you on another service first, and have had at least one conversation before we connect on these networks.
 
 * {% img right /images/google.png 75 75 %}Since we all have to, I too have a [Google+](https://plus.google.com/+HiltonLipschitz/posts) account, but no one else seems to use it. So far I have connected to all who request, but so few do. I still have no idea how, when, where or why to use it, but it's there, in case.
 
-* And then there is email, old school, anywhere, anytime with anyone. I am always up for a good email. But there's no guarantee of a response. See my [about page](http://hiltmon.com/about/) on where to email me.
+* And then there is email, old school, anywhere, anytime with anyone. I am always up for a good email. But there's no guarantee of a response. See my [about page](https://hiltmon.com/about/) on where to email me.
 
 Of course, there are folks I never agree to connect with, including recruiters, spammers, cold callers, advertisers, anonymous users and the like. **I wish to engage and converse on social networks, not be sold to, advertised to or hassled on them.** I get enough of that elsewhere. I'm sure you all feel the same way.
 

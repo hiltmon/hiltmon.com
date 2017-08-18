@@ -10,7 +10,7 @@ The quick code cleanup is a process whereby you run through some or all of the f
 
 Quick code cleanups can and do include some minor refactoring, but they are mostly about renaming items, reformatting code and commenting on or cleaning up messy sections. No features are added or changed.
 
-So why do quick code cleanups? **Because they save tremendous time as the project progresses.** And the best part is, you do not need to do much thinking or need the zone (See the [Four Hour Rule](http://hiltmon.com/blog/2011/12/03/the-four-hour-rule/)). For example, I just spent the last few hours doing a quick code cleanup while watching the US Open tennis!
+So why do quick code cleanups? **Because they save tremendous time as the project progresses.** And the best part is, you do not need to do much thinking or need the zone (See the [Four Hour Rule](https://hiltmon.com/blog/2011/12/03/the-four-hour-rule/)). For example, I just spent the last few hours doing a quick code cleanup while watching the US Open tennis!
 
 Here are some of the things to do in a quick code cleanup:
 
@@ -60,7 +60,7 @@ Other than renaming classes and variables, a quick code cleanup also usually ent
 
 ## When to run a quick code cleanup?
 
-I *try* to do this every few weeks on current projects, when the code is still fresh in my mind and when I have some time. This often coincides with a minor release or the few hours at the end of the week when I know I will not have enough time to enter the [zone](http://hiltmon.com/blog/2011/12/03/the-four-hour-rule/) and work on a new feature.
+I *try* to do this every few weeks on current projects, when the code is still fresh in my mind and when I have some time. This often coincides with a minor release or the few hours at the end of the week when I know I will not have enough time to enter the [zone](https://hiltmon.com/blog/2011/12/03/the-four-hour-rule/) and work on a new feature.
 
 The quick code cleanup may not seem to be a productive use of your time, but it pays off tremendously as the software grows in size and complexity. As the code-base expands, it yet remains understandable, readable, maintainable, simpler and with fewer bugs, enabling you to spend *more* time crafting new code and *less* time figuring out what the hell happened in the past and untangling a knotted mess.
 

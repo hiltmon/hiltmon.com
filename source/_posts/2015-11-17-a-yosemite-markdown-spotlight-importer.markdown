@@ -6,9 +6,9 @@ comments: true
 categories: Markdown
 ---
 
-All my text and writing is in [Markdown](http://hiltmon.com/blog/categories/markdown/) formatted files and I would like to search them using Spotlight. The editors I use do not have an importer (they have Quicklook only), so this is not available directly.
+All my text and writing is in [Markdown](https://hiltmon.com/blog/categories/markdown/) formatted files and I would like to search them using Spotlight. The editors I use do not have an importer (they have Quicklook only), so this is not available directly.
 
-Changing the `RichText` Spotlight importer trick worked in previous versions of OS X (see how in [A Simple Markdown Spotlight Importer](http://hiltmon.com/blog/2015/06/27/a-simple-markdown-spotlight-importer/)), but since System Integrity Protection in OS X El Capitan, this no longer works.
+Changing the `RichText` Spotlight importer trick worked in previous versions of OS X (see how in [A Simple Markdown Spotlight Importer](https://hiltmon.com/blog/2015/06/27/a-simple-markdown-spotlight-importer/)), but since System Integrity Protection in OS X El Capitan, this no longer works.
 
 Never fear, there is another way.
 

@@ -8,7 +8,7 @@ categories:
 
 I'm not a keyboard snob. But I love using my current keyboards now. 
 
-Background: I was very happy with the Apple "chicklet" style keyboards and even wrote about it in [Not the Clicky Keyboard](http://hiltmon.com/blog/2013/09/05/not-the-clicky-keyboard/). There I declared that clicky keyboards were not for me.
+Background: I was very happy with the Apple "chicklet" style keyboards and even wrote about it in [Not the Clicky Keyboard](https://hiltmon.com/blog/2013/09/05/not-the-clicky-keyboard/). There I declared that clicky keyboards were not for me.
 
 I was wrong. But I did not know it at the time.
 

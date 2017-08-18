@@ -17,7 +17,7 @@ $ ~/Scripts/cfile.rb ~/Projects/Kifu/code/kifu log tmp doc versions
 The output is
 
 ```
-Project File Counter v0.1 ©hiltmon.com 2012 http://hiltmon.com
+Project File Counter v0.1 ©hiltmon.com 2012 https://hiltmon.com
 
 Project: kifu
 -------------------------------------------------------
@@ -210,7 +210,7 @@ process_folder source
 merge_keys
 
 puts
-puts "Project File Counter v0.1 ©hiltmon.com 2012 http://hiltmon.com"
+puts "Project File Counter v0.1 ©hiltmon.com 2012 https://hiltmon.com"
 puts
 puts "Project: #{File.basename(source)}"
 

@@ -6,7 +6,7 @@ comments: true
 categories: [Text Editors, Productivity]
 ---
 
-In [The Markdown Mindset](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) I described how I use a variety of different editors to write Markdown in different contexts. I also use different fonts and color schemes to help me differentiate as I go along.
+In [The Markdown Mindset](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/) I described how I use a variety of different editors to write Markdown in different contexts. I also use different fonts and color schemes to help me differentiate as I go along.
 
 For the record, everything *was* done in **Monaco** a few years ago.
 

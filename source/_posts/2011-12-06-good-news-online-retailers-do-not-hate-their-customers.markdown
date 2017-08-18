@@ -15,7 +15,7 @@ Now for the bad news. Despite the increases in tablet traffic, many retailers ar
 
 She is completely wrong because the iPad web browser is a fully featured standards compliant web browser. You don't need to 'optimize' for it, or replace it with an app.
 
-Instead, Sarah has given me two more reasons to add to my [You hate your Customers](http://hiltmon.com/blog/2011/11/27/you-hate-your-customers/) post:
+Instead, Sarah has given me two more reasons to add to my [You hate your Customers](https://hiltmon.com/blog/2011/11/27/you-hate-your-customers/) post:
 
 * *If your site* provides an iPad optimized website for a device that has full web fidelity, like the iPad, *you hate your customers.*
 * *If your site* requires iPad users to download an application to use your site, *you hate your customers.*

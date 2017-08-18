@@ -6,7 +6,7 @@ comments: true
 categories: [Productivity, Markdown]
 ---
 
-As you all know, I write everything in [Markdown](http://daringfireball.net/projects/markdown/), see my [The Markdown Mindset](http://hiltmon.com/blog/2012/02/20/the-markdown-mindset/). It would be nice, though, to also save metadata - information *about* the document - in the document, to make it searchable, but not to have it appear in the final output.
+As you all know, I write everything in [Markdown](http://daringfireball.net/projects/markdown/), see my [The Markdown Mindset](https://hiltmon.com/blog/2012/02/20/the-markdown-mindset/). It would be nice, though, to also save metadata - information *about* the document - in the document, to make it searchable, but not to have it appear in the final output.
 
 Turns out, [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) (and other new Markdown processors) do support this. It's easy.
 
