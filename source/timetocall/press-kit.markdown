@@ -40,7 +40,7 @@ The demo video is [hosted on YouTube](http://youtu.be/84EvUGKoTyQ) and may be em
 ## Details
 
 * Author: **Hilton Lipschitz**
-* Author Web: [https://hiltmonn.com]https://hiltmonon.com)
+* Author Web: [https://hiltmon.com]https://hiltmon.com)
 * Twitter: [@hiltmon](http://twitter.com/hiltmon)
 * App.Net: [@hiltmon](http://alpha.app.net/hiltmon)
 * Facebook Page: [Hiltmon.com](http://www.facebook.com/hiltmoncom)

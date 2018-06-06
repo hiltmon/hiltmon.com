@@ -92,10 +92,10 @@ And how to deal with them.
 
 **To talk to Drivers *as Drivers*, not Mechanics**.
 
-I use this [Hiltmonism](https://hiltmonn.com/blog/categories/hiltmonism/), “Talk to Drivers, not Mechanics”, to remind me and my team how to listen and communicate with those we design software for and how to build better product in the future. After all, great product is what they want and need too. We all need to be somewhere.
+I use this [Hiltmonism](https://hiltmon.com/blog/categories/hiltmonism/), “Talk to Drivers, not Mechanics”, to remind me and my team how to listen and communicate with those we design software for and how to build better product in the future. After all, great product is what they want and need too. We all need to be somewhere.
 
 Oh, and to make the tech team seem a little less weird, strange and alien.
 
-<span class="light">Click to see other [Hiltmonisms]https://hiltmonon.com/blog/categories/hiltmonism/) in the ongoing series.</span>
+<span class="light">Click to see other [Hiltmonisms]https://hiltmon.com/blog/categories/hiltmonism/) in the ongoing series.</span>
 
 *Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*

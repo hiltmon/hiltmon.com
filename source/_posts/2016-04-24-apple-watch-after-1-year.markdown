@@ -30,7 +30,7 @@ The Apple Watch has quietly encouraged me to move and exercise in ways that I ha
 
 I can easily replace the Apple Watch with a dedicated fitness device to replace the rings that rule them all, but nothing saves me more time than having notifications on my wrist.
 
-As described in last year's [How the Apple Watch Has Changed My Behavior for the Better](https://hiltmonn.com/blog/2015/08/23/how-the-apple-watch-has-changed-my-behavior-for-the-better/), the process to view notifications is much faster (and less error-prone) and the need I feel to react to them is much smaller when viewing them on the watch.
+As described in last year's [How the Apple Watch Has Changed My Behavior for the Better](https://hiltmon.com/blog/2015/08/23/how-the-apple-watch-has-changed-my-behavior-for-the-better/), the process to view notifications is much faster (and less error-prone) and the need I feel to react to them is much smaller when viewing them on the watch.
 
 But over the year I have done something few people have. I have added new notification sources to my world, without noticeably increasing my notification volume. Most of the new notification sources are internal to work, notifying me when systems fail or have issues. I feel these vibrations on my wrist and know — just know — whether to interrupt what I am doing and respond. The result, fewer business issues and faster response when they do occur.
 

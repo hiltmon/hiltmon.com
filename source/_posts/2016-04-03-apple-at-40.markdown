@@ -60,7 +60,7 @@ And more. [OS X](https://en.wikipedia.org/wiki/OS_X) was introduced and blossome
 
 **Apple's products became Apple's again.** They had found their bliss. And the market found it with them. Apple changed to doing what it wanted to do, what it loved and that showed. It found its market wanted the same and shared their love of great design, music, experience and reliability.
 
-In parallel, so did I. I replaced the suit and meetings and Windows PC with jeans, an IDE and a [Titanium PowerBook G4](https://hiltmonn.com/blog/2012/12/31/1ghz-titanium-powerbook/). I changed countries (twice) and worked on the products that I wanted to work on and make great. 
+In parallel, so did I. I replaced the suit and meetings and Windows PC with jeans, an IDE and a [Titanium PowerBook G4](https://hiltmon.com/blog/2012/12/31/1ghz-titanium-powerbook/). I changed countries (twice) and worked on the products that I wanted to work on and make great. 
 
 {% img right /images/apple-at-40-7.png 230 347 %}
 

@@ -46,7 +46,7 @@ Long term, the benefits are amazing. We can try new platforms with ease. Our cod
 
 Many of the projects we want to take on become possible after the annual upgrade. That’s why we do it.
 
-[If it ain’t broke, break it.](https://hiltmonn.com/blog/2011/12/17/hiltmonism-if-it-aint-broke/)
+[If it ain’t broke, break it.](https://hiltmon.com/blog/2011/12/17/hiltmonism-if-it-aint-broke/)
 
 And it really is not that much work!
 
