@@ -42,4 +42,4 @@ The result is that I got to create and test these mockups quickly and easily in 
 [panic]: http://www.panic.com
 [coda]: https://itunes.apple.com/us/app/coda-2/id499340368?mt=12&uo=4&at=10l894
 [bbedit]: https://itunes.apple.com/us/app/bbedit/id404009241?mt=12&uo=4&at=10l894
-[twitter]: http://twitter.com/hiltmon
+[twitter]: http://https://twitter.com/hiltmon

@@ -22,4 +22,4 @@ Then again, anyone know how long Apple provides support for iOS versions? Or Goo
 
 Source: [Engadget](http://www.engadget.com/2013/03/18/microsoft-windows-phone-8-mango-support/) via [TechCrunch](http://techcrunch.com/2013/03/18/microsoft-says-windows-phone-8-support-ends-july-2014-still-no-official-successor-announced/?ncid=tcdaily).
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

@@ -23,4 +23,4 @@ All these installs have the same [setup](https://hiltmon.com/blog/2012/08/14/my-
 
 Vim users have had this kind of portability for a while, but now us GUI editing fiends can have the same.
 
-See also [My Sublime Text 2 Setup](https://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multiple Themes in Sublime Text 2](https://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/). And follow me at [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.
+See also [My Sublime Text 2 Setup](https://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multiple Themes in Sublime Text 2](https://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/). And follow me at [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.

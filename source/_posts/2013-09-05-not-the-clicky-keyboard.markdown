@@ -44,4 +44,4 @@ So go on using your big, heavy, reliable, great-feeling, seriously productive me
 
 I'll stay with perfectly matched "not the clicky keyboard" for now.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

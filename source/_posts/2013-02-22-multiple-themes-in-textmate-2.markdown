@@ -51,4 +51,4 @@ I have also included scripts to generate stand-alone `tmTheme` files from `tmcsv
 
 Enjoy.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

@@ -93,4 +93,4 @@ You may have noticed that the two most popular productivity tools, [LaunchBar](h
 Consider the amount of time you spend performing menial tasks on your computer, launching the same windows, typing in the same commands and text, filing, tidying up, doing the same thing over and over again. Computers are awesome at this, and these productivity tools make it easy to set up and do. {" The money invested in buying these tools and the time invested in setting them up pays off tremendously. "} To the point that the OS X experience without them seems slow and cumbersome.
 {% endpullquote %}
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

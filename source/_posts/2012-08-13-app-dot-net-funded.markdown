@@ -14,4 +14,4 @@ Today, [App.Net](https://join.app.net) got funded. Not many of us expected that 
 
 If you want to reserve your twitter handle, better back App.Net today before funding closes at [join.app.net](http://join.app.net).
 
-You can find me on Twitter at [@hiltmon](http://twitter.com/hiltmon) and App.Net at [@hiltmon](https://alpha.app.net/hiltmon).
+You can find me on Twitter at [@hiltmon](http://https://twitter.com/hiltmon) and App.Net at [@hiltmon](https://alpha.app.net/hiltmon).

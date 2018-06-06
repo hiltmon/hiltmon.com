@@ -24,4 +24,4 @@ Clothes make the man. Naked people have little or no influence on society.
 
 We should go back to judging people by clothes, because devices tell us nothing.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

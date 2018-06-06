@@ -12,4 +12,4 @@ categories:
 
 And before anyone points me at Google's excellent [Go](https://golang.org) language, I am already looking into it to speed up, parallelize and replace a ton of Ruby and Python code on the server side.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

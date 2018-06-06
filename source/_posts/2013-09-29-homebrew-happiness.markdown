@@ -107,7 +107,7 @@ With [Homebrew][brew], I have an OCD clean Mac OS X installation running all my 
 
 [Homebrew][brew] is yet another indispensable tool in my Mac toolbox.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [LSB]: http://www.linuxfoundation.org/collaborate/workgroups/lsb
 [Macports]:	http://www.macports.org

@@ -142,7 +142,7 @@ Let me know if this works for you too.
 
 Off to write some database queries now.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [rproj]:	http://www.r-project.org
 [postgres]:	http://www.postgresql.org

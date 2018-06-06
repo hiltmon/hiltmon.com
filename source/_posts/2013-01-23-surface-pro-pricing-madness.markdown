@@ -16,4 +16,4 @@ It does not make sense to me. I guess Surface Pro buyers must be affected by the
 
 *Update: Looks like I'm not the only one, [MG Siegler also does not understand the pricing](http://parislemon.com/post/41226160979/so-i-can-buy-an-entry-level-microsoft-surface-pro). Thanks for pointing it out folks.*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

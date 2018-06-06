@@ -180,5 +180,5 @@ I have been using [Catch](https://github.com/philsquared/Catch) for several week
  
 My thanks to [Phil Nash](http://www.levelofindirection.com) ([@phil_nash](https://twitter.com/phil_nash)) for creating and maintaining this wonderful tool.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
 

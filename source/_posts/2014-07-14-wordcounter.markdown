@@ -18,4 +18,4 @@ Most writers I know use several different software tools while writing, like [nv
 
 Available direct at [http://wordcounterapp.com](http://wordcounterapp.com).
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

@@ -120,4 +120,4 @@ There is no downside to nearby (or even local) staging. The upside is also huge.
 
 Welcome to the 21<sup>st</sup> century. **Develop Locally, Stage Nearby, Production Anywhere.** Remote development's time has passed.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

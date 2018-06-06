@@ -18,4 +18,4 @@ The least important question you can ask about Engelbart is, "What did he build?
 The most important question you can ask about Engelbart is, "What world was he trying to create?" By asking that question, you put yourself in a position to create that world yourself.
 {% endblockquote %}
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

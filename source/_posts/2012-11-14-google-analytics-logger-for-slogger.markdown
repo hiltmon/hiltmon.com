@@ -11,7 +11,7 @@ This article explains how to set up Brett Terpstra's [Slogger](http://ttscoff.gi
 * Multiple web properties as long as they are under the same Google login.
 * Multiple dates so you can skip a few Slogger run days and catch up (or back fill).
 * Only logs a full day's worth of stats, so if it runs now, it logs up to yesterday's stats.
-* Captures page views, visitors, top 5 sources and top 10 popular pages. If you want different stats, let me know in the comments or via App.net [@hiltmon](http://alpha.app.net/hiltmon) or Twitter [@hiltmon](http://twitter.com/hiltmon).
+* Captures page views, visitors, top 5 sources and top 10 popular pages. If you want different stats, let me know in the comments or via App.net [@hiltmon](http://alpha.app.net/hiltmon) or Twitter [@hiltmon](http://https://twitter.com/hiltmon).
 
 **Warning: This plugin is *alpha* code, so assume the usual no warranty legalize, basically proceed at your own peril.**
 
@@ -300,7 +300,7 @@ So just in case, here's how to create your own Google API client keys:
 
 You should now see a Client ID and Secret for Installed Applications. Copy and paste these into your `slogger_config`.
 
-As always, feel free to comment below on this post, or follow me on App.Net as [@hiltmon](http://alpha.app.net/hiltmon) or Twitter as [@hiltmon](http://twitter.com/hiltmon).
+As always, feel free to comment below on this post, or follow me on App.Net as [@hiltmon](http://alpha.app.net/hiltmon) or Twitter as [@hiltmon](http://https://twitter.com/hiltmon).
 
 Enjoy.
 

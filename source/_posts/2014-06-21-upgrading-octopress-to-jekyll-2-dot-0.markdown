@@ -52,4 +52,4 @@ The site now generates just fine.
 
 <span class="light">Once again, my utmost respect and thanks to [Brandon Mathis](http://brandonmathis.com) for creating and maintaining this lovely [Octopress](http://octopress.org) blog wrapper on top of the excellent work by [Tom Preston Werner](http://tom.preston-werner.com) and the team who create and maintain [Jekyll](http://jekyllrb.com).</span>
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

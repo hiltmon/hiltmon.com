@@ -43,4 +43,4 @@ Version 1.0.1 hit the App Store last night after a week in review. It contains b
 
 Now that sales have stabilized, and the video is up, time for the next experiment. I intend to create a PR style email over the next few days and send it off to some press site's *public tip lines* to see if any of them will run it. This is a learning experiment for all of us, so lets see how well this works before I try something else.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

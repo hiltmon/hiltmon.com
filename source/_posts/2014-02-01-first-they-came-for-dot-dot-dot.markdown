@@ -48,4 +48,4 @@ Then they came for the Jews, and I did not speak out<br/>Because I was not a Jew
 Then they came for me<br/>and there was no one left to speak for me.
 {% endblockquote %}
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

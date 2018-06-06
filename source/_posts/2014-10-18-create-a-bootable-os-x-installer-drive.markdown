@@ -14,4 +14,4 @@ Link: [How to make a bootable OS X 10.10 Yosemite installer drive](http://danfra
 
 <span class="light">Yep, mine is a R2D2 8GB USB Drive (called a Star Wars MIMOBOT) I found at the checkout at Kinokuniya in New York several years ago.</span>
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

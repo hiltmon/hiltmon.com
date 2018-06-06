@@ -18,4 +18,4 @@ And that's the key, the file format is a disaster. If you use Word, these days y
 
 Like Charles, I use [Scrivener](http://www.literatureandlatte.com) for the big stuff and plain old Markdown files for everything else. Like Charles, I'm not worried about being able to read my documents 5 years or 50 years into the future anymore. And like Charles, if someone wants a file in Word format, I'll deliver a copy and keep the original in a manageable format.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

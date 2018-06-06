@@ -20,4 +20,4 @@ Instead, I jump over to [CodeRunner](https://coderunnerapp.com), select my langu
 
 Highly recommended. 
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

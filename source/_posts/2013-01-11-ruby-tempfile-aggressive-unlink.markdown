@@ -32,4 +32,4 @@ It turns out, the `temp.unlink` is not necessary any more. As long as you close 
 
 So, remove the `temp.unlink` line in Rails 3.2.11 projects, and ignore the documentation. You can now generate and send files from Rails again.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

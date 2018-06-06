@@ -18,7 +18,7 @@ Great stats for February: **22,080** visitors to Hiltmon.com.
 
 However, very very few read an additional article over the one they were looking for. I guess they found what they were looking for and moved on. Good to see the number of repeat visitors growing, but again it seems this is more people coming back to re-read the same article, not browse for more content.
 
-Retweets do create minor spikes, but most retweets did not attribute the article to me or tag my twitter id [@hiltmon](https://twitter.com/hiltmon). I used an article title search on Twitter to find these retweets. I only gained 10 new twitter followers this month.
+Retweets do create minor spikes, but most retweets did not attribute the article to me or tag my twitter id [@hiltmon](https://https://twitter.com/hiltmon). I used an article title search on Twitter to find these retweets. I only gained 10 new twitter followers this month.
 
 Facebook and Google+ added no new viewers.
 

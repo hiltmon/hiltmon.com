@@ -23,4 +23,4 @@ The truth is this: Google destroyed the RSS feed reader ecosystem with a subsidi
 * Luxottica → Eyewear
 * LVMH → Luxury goods
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

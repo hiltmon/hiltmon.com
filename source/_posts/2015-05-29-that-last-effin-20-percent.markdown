@@ -20,4 +20,4 @@ Over the past few months I have been buried in the last effin 20% (or remaining 
 
 Today, the product passed its first certification, which means I'm almost ready to ship. Today is a good day. The effin 20% is almost over.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

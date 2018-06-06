@@ -78,4 +78,4 @@ I also could have used `git` submodules to provide a common repository for the c
 
 As a result of sharing (ok, copying) the models this way, I have several Rails applications running off different servers providing different services to different users all running off the same back-end database. Each application is smaller, simpler, easier to manage and easier to code and maintain. As long as discipline is maintained in that the models and migrations are only performed in the *Master* project, this trick works great.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

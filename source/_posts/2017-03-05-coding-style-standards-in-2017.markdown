@@ -81,4 +81,4 @@ But, each team  member knows that if they *ever* need to touch, change or fix ol
 - All new code is written to the latest standard, all code committed is to the new standard, all old code is refactored on touch.
 - Coding style guidelines are just as important in 2017 as they were when we rode dinosaurs to work.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

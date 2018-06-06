@@ -62,4 +62,4 @@ That's why I subscribed. Great mixes, full access to quality recordings, no inte
 
 And with that, my current mix just ended. Oooh, that one looks interesting. Gotta go, pressing play...
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

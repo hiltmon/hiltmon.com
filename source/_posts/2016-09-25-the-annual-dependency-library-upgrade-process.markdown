@@ -32,7 +32,7 @@ So, once in a while, generally once a year, we update the platform. Update the l
 
 And we do it right.
 
-Firstly we try the new libraries on our development machines. [Homebrew](http://brew.sh/) installs make that easy for the dependencies. [Rake](http://rake.rubyforge.org/) tasks make it easy to upgrade our [Ruby](http://www.ruby-lang.org/en/) dependencies and [Rails](http://rubyonrails.org/) versions. We build and test our code in a migration branch and make sure it all works, changing to new interfaces and formats where necessary.
+Firstly we try the new libraries on our development machines. [Homebrew](https://brew.sh/) installs make that easy for the dependencies. [Rake](http://rake.rubyforge.org/) tasks make it easy to upgrade our [Ruby](http://www.ruby-lang.org/en/) dependencies and [Rails](https://rubyonrails.org/) versions. We build and test our code in a migration branch and make sure it all works, changing to new interfaces and formats where necessary.
 
 We then spin up a virtual machine on our production operating system ([CentOS 7](https://www.centos.org/) now), install the new compiler and dependencies, and rebuild all there. Given that issues are mostly resolved in development, we only find `g++` quirks in this test.
 
@@ -50,4 +50,4 @@ Many of the projects we want to take on become possible after the annual upgrade
 
 And it really is not that much work!
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

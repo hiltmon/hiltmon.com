@@ -38,5 +38,5 @@ The restores are in progress, and there are the odd Day One crashes as it restor
 
 In short, the black-box nature of iCloud sucks when trying to troubleshoot or fix sync errors. The developer of Day One does not pick sides between iCloud and Dropbox sync. I for one, do recommend you sync your Day One data using Dropbox.
 
-*Follow the author as [@hiltmon](http : //twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http : //https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
 

@@ -16,4 +16,4 @@ The only change I seem to need was to change the Google Fonts URLs to `https` as
 
 <span class="light">Note: Since the Let's Encrypt root certificates have not yet been deployed to all browsers (especially older ones), you may get a browser message that this site cannot be trusted or verified. Hang in there, and let me know via the comments (with screenshot and date).</span>
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

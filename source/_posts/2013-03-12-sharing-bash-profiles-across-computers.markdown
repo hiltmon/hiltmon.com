@@ -35,4 +35,4 @@ Boom, edit *dotfiles* once, shared on all computers automatically.
 
 *Bonus Tip: Plonk all your other common scripts in the same shared folder and add it to your PATH.*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

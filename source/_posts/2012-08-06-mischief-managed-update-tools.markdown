@@ -10,7 +10,7 @@ categories: Mischief-Managed
 
 Most of us do not update our operating systems or toolkits while a project is ongoing. It increases the time to produce the product, adds risk that things will stop working, it’s just not worth doing. But once the project is over, it’s time to update the tools and study new ones.
 
-Since most of my work these days is in [Xcode](https://developer.apple.com/xcode/) or [Rails](http://rubyonrails.org), here’s what I do for them and what I am learning now.
+Since most of my work these days is in [Xcode](https://developer.apple.com/xcode/) or [Rails](https://rubyonrails.org/), here’s what I do for them and what I am learning now.
 
 ## Xcode Work
 

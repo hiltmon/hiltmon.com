@@ -50,4 +50,4 @@ There is always a bigger fish.
 
 Go out and buy [Analytics Tiles](https://itunes.apple.com/us/app/analytics-tiles-app/id527147208?mt=8&uo=4&at=10l894) if it scratches your itch too. <span class="light">(Affiliate link so I may get a few pennies if you do).</span> And I'll go off and work other ideas (or yours if you [hire me](http://www.noverse.com/hire-us/)).
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

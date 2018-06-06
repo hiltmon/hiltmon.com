@@ -48,4 +48,4 @@ I get
 
 After a long while, all my Markdown files were once again searchable in Spotlight. Thanks Brett!
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

@@ -38,4 +38,4 @@ On Nov 22, 2012, the revamped [hiltmon.com](https://hiltmon.com) turned one year
 
 Once again, thank you all for reading [hiltmon.com](https://hiltmon.com) and sharing this site with your friends.  I intend to continue writing here on the topics that interest us all, especially software design, productivity ideas and about awesome tools that I love to use.
 
-Please follow me on App.Net at [@hiltmon](http://alpha.app.net/hiltmon) or Twitter at [@hiltmon](http://twitter.com/hiltmon) or  "Like" this site on the [Hiltmon.com Facebook Page](http://www.facebook.com/hiltmoncom).
+Please follow me on App.Net at [@hiltmon](http://alpha.app.net/hiltmon) or Twitter at [@hiltmon](http://https://twitter.com/hiltmon) or  "Like" this site on the [Hiltmon.com Facebook Page](http://www.facebook.com/hiltmoncom).

@@ -23,4 +23,4 @@ I'd love to hear what you think of my demo video.
 
 [TimeToCall]({{ root_url }}/timetocall/) is available on the [App Store](https://itunes.apple.com/us/app/timetocall/id596429979?ls=1&mt=8) for just 99c (USA). *Buying it supports this site.*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

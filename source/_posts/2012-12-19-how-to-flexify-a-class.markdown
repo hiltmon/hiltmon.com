@@ -46,4 +46,4 @@ But you are not done yet. Invariably adding flexibility adds dependencies, eithe
 
 If you flex your classes properly, your code-base remains maintainable, your product does not become fragile and it becomes easier and easier to add features and flexibility in the future.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

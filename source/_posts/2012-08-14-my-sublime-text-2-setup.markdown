@@ -92,4 +92,4 @@ But there are subtleties that are still driving me nuts:
 
 I’m going to stick with Sublime Text 2 for now, but am keeping an eye out for something better.
 
-See also [Multiple Themes in Sublime Text 2](https://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) and [Multi-Platform Editing Is Sublime](https://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.
+See also [Multiple Themes in Sublime Text 2](https://hiltmon.com/blog/2012/11/07/multiple-themes-in-sublime-text-2/) and [Multi-Platform Editing Is Sublime](https://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.

@@ -52,4 +52,4 @@ So next time you see a tweet or review complaining about the price of software, 
 
 If we all know what our entitlements are at the start, our expectations and relationships will be that much easier and smoother.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

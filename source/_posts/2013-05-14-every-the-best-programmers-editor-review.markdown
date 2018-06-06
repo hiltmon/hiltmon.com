@@ -55,4 +55,4 @@ Look, I am most productive in <span class="editor-span">EDITOR</span>. All the c
 
 **So I highly recommend you use <span class="editor-span">EDITOR</span> as your primary programmer's editor. I cannot imagine programming without it.**
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

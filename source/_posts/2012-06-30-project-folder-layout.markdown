@@ -107,6 +107,6 @@ echo "Tree for $PROJECT_NAME created at $PROJECT_PATH"
 
 So, right now I have 9 active projects in my **Projects** folder. All of them are using this folder structure. It's new, and it seems to be working well.
 
-How do you structure your project folders, product files and client files? I'd love to know, and improve on this structure. Send me a link in the discussion below or catch me on twitter [@hiltmon](https://twitter.com/hiltmon).
+How do you structure your project folders, product files and client files? I'd love to know, and improve on this structure. Send me a link in the discussion below or catch me on twitter [@hiltmon](https://https://twitter.com/hiltmon).
 
  

@@ -29,4 +29,4 @@ For TextMate 2 users, you can do the same in TextMate 2. Just open a `.cpp` file
 Nowadays, whenever I get stuck or need a scratchpad to see how to do things without affecting the application's code, I just spin up 
 [Code Runner](https://itunes.apple.com/us/app/coderunner/id433335799?mt=12&uo=4&at=10l894). If the code is any good, I save these spike programs in the `spike` folder for later when I will need that working code.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

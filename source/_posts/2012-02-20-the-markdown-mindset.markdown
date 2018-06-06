@@ -78,4 +78,4 @@ You'll be surprised how productive you will be.
 * [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) by Fletcher Penney, which adds new exports, syntax features and document metadata which I love.
 * [Byword MultiMarkdown Guide](http://bywordapp.com/markdown/guide.html), a great one page reference by the makers of [Byword](http://bywordapp.com/).
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

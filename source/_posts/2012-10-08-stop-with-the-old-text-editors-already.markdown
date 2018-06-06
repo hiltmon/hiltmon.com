@@ -32,4 +32,4 @@ That a new generation of programmers flocking to these old tools is concerning, 
 
 I, for one, want text editors to get even better than what we have and would purchase and use that leap forward product in an instant. Anything that makes text editors *better* and *me more productive* is a good thing. [BBEdit](http://www.barebones.com/products/bbedit/index.html), [TextMate 2](https://github.com/textmate/textmate) and [Sublime Text 2](http://www.sublimetext.com/2) are currently the leaders, but I want to know what’s next and who is working on this next leap forward. I’ll happily switch to it.
 
-*I’m [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](https://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.*
+*I’m [@hiltmon](https://https://twitter.com/hiltmon) on Twitter and [@hiltmon](https://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.*

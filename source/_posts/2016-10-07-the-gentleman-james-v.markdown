@@ -119,4 +119,4 @@ For those of you who got this far and do not know who I am talking about, allow 
 
 TL;DR: Thanks for the Whiskey Tumblers, Jay.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

@@ -14,4 +14,4 @@ Michael created a shim to fake Ruby 1.8 until such time as the code base moves t
 
 You can get the source at [GitHub](https://github.com/hiltmon/Gist.tmbundle) or just wait until it gets propagates via TextMate 2's bundle update process.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

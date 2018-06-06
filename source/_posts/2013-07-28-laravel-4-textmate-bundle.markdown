@@ -18,4 +18,4 @@ Enjoy.
 
 **Disclaimer: I don't use Laravel, I just use TextMate 2. All the good work in this bundle was done by [@medalink7](https://twitter.com/medalink7), thank you,  I just packaged it into a TextMate bundle format.**
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

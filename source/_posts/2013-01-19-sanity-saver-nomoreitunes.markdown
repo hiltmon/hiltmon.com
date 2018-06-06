@@ -18,4 +18,4 @@ The [NoMoreiTunes Safari Extension](http://nomoreitunes.einserver.de) prevents t
 
 I also advise you to open Safari **Preferences**, go to the **Extensions** Tab, click on **Updates** and ensure that “Install Updates Automatically” is checked.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

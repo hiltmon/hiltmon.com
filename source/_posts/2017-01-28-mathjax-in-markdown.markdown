@@ -27,7 +27,7 @@ Or we can go inline where the code `\\( ax^2 + \sqrt{bx} + c = 0 \\)` renders as
 
 ### Preview: iA Writer, Byword, Ulysses
 
-Most Markdown Editors have a Preview function, but do not include MathJax by default. To add MathJax rendering in [iA Writer](https://ia.net/writer/), [Byword](https://www.bywordapp.com), [Ulysses](https://ulyssesapp.com) and most others, you need to create a custom template to render the document (I assume you have done this already - see [Letterhead - Markdown Style]https://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/) for an example).
+Most Markdown Editors have a Preview function, but do not include MathJax by default. To add MathJax rendering in [iA Writer](https://ia.net/writer), [Byword](https://www.bywordapp.com), [Ulysses](https://ulyssesapp.com) and most others, you need to create a custom template to render the document (I assume you have done this already - see [Letterhead - Markdown Style]https://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/) for an example).
 
 For iA Writer, for example, go to **Preferences**, select the **Templates** tab and click the plus below **Custom Templates**, and choose **Open Documentation** to learn how to create your own template. Or copy an existing one and rename it.
 
@@ -69,4 +69,4 @@ On the other hand, if you use the magnificent [Marked 2](http://marked2app.com) 
 <br/>
 So there it is, simply add the MathJax using delimiters to your Markdown file and update the previewer to render it.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

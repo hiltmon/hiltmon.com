@@ -18,7 +18,7 @@ So, for the record, here are *my precedents*:
 
 * {% img right /images/facebook.png 75 75 %}I use [Facebook](https://www.facebook.com/hiltmon) and [Foursquare](https://foursquare.com/hiltmon) for social friends and family only. No business allowed, this one is for fun. I share my personal experiences, make silly jokes and stay in touch with far flung family and friends. In order to make the cut here, we need to have enjoyed at least one social occasion, at least one drink, or be blood relatives.
 
-* {% img right /images/twitter-logo.png 75 75 %}[Twitter](https://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon), [Pinboard](https://pinboard.in/u:hiltmon), and Game Center (as Hiltmon) are our public networks, and I will connect with anyone, anytime on any of these services. I am most active on [Twitter](https://twitter.com/hiltmon), and I find it's a great way to get news, interesting articles, and get in touch with folks anytime. I have met and conversed with some amazing people on [Twitter](https://twitter.com/hiltmon) and look forward to new conversations on it.
+* {% img right /images/twitter-logo.png 75 75 %}[Twitter](https://https://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon), [Pinboard](https://pinboard.in/u:hiltmon), and Game Center (as Hiltmon) are our public networks, and I will connect with anyone, anytime on any of these services. I am most active on [Twitter](https://https://twitter.com/hiltmon), and I find it's a great way to get news, interesting articles, and get in touch with folks anytime. I have met and conversed with some amazing people on [Twitter](https://https://twitter.com/hiltmon) and look forward to new conversations on it.
 
 * Although this site is not a true social network, I use [Disqus](http://disqus.com) comments here, and it alerts me via email when a new comment is posted. I am happy to talk to anyone via the comments here, but prefer to take longer discussions offline onto Twitter or [email](https://hiltmon.com/about/).
 
@@ -34,4 +34,4 @@ So there they are, *the precedents* I use to select who I connect with on which 
 
 You, dear reader, you I do want to connect with. Pick a social network where *our precedents* meet, send a message, and say hello. And if there is a network I am not on, and I fit *your precedents* to connect there, let me know about it and I will sign up.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

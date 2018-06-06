@@ -109,7 +109,7 @@ Now I just have to figure out which tools I like on the iPad for writing, I have
 [44]:	http://brettterpstra.com
 [53]:	https://hiltmon.com/blog/2013/05/23/letterhead-markdown-style/
 [56]:	http://flyingmeat.com/about/
-[57]:	http://twitter.com/hiltmon
+[57]:	http://https://twitter.com/hiltmon
 [58]:	http://alpha.app.net/hiltmon
 [guy]:	http://kickingbear.com/blog/
 

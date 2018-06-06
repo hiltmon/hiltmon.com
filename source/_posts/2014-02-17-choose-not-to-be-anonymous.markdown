@@ -11,7 +11,7 @@ categories:
 > 1. I always post from my own domains or accounts, all of which are traceable back to me.
 2. I sign and add my true byline, which is me, to all my work.
 3. I always use my name, [hiltmon][hc], when commenting or responding on other sites or services.
-4. Anyone can always get in touch with me via this [web site][hc], [email](https://hiltmon.com/about/), [Twitter](http://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon), [Facebook](https://www.facebook.com/hiltmoncom), [Google+](https://plus.google.com/+Hiltmon), [Linked-In](www.linkedin.com/in/hiltmon) and other services, I am not hiding.
+4. Anyone can always get in touch with me via this [web site][hc], [email](https://hiltmon.com/about/), [Twitter](http://https://twitter.com/hiltmon), [App.Net](http://alpha.app.net/hiltmon), [Facebook](https://www.facebook.com/hiltmoncom), [Google+](https://plus.google.com/+Hiltmon), [Linked-In](www.linkedin.com/in/hiltmon) and other services, I am not hiding.
 5. There is only one [hiltmon][hc], and it is I. [Google me](http://www.google.com/search?q=hiltmon).
 
 I choose not to be anonymous. Here's why.
@@ -34,6 +34,6 @@ I cannot (and have no right to) tell folks what to do on the internet, but maybe
 
 I choose not to be anonymous.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [hc]: https://hiltmon.com

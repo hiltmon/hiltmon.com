@@ -41,4 +41,4 @@ On update days, things cannot be easier, I:
 
 Since Numbers produces high-resolution vector PDF art, I am able to generate quality high-DPI charts in no time and get the books and pages out on time without losing fidelity.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

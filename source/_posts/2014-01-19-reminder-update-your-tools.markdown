@@ -28,4 +28,4 @@ What did I get out of all of this work? On the surface, nothing much. The same o
 
 There is no good time to do this, so do it now. Get it over with for the year. Update your tools now. Or you never will.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

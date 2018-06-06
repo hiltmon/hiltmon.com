@@ -58,7 +58,7 @@ Then again, I am not part of the Microsoft customer majority. I seek innovation 
 
 <span class="light">And thustly begins the end of Microsoft.</span>
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [^1]: The Five Stages of Business Growth, Churchill and Lewis, Harvard Business Review, May-June 1983.
 

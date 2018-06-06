@@ -44,4 +44,4 @@ Yum!
 
 Happy Aussie Thanksgiving everyone.
 
-You can follow me on App.Net at [@hiltmon](http://alpha.app.net/hiltmon) or Twitter at [@hiltmon](http://twitter.com/hiltmon).
+You can follow me on App.Net at [@hiltmon](http://alpha.app.net/hiltmon) or Twitter at [@hiltmon](http://https://twitter.com/hiltmon).

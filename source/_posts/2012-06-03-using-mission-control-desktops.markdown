@@ -24,7 +24,7 @@ For example, right now, since I am writing a blog article, Desktop 1 is running:
 * [Safari](http://www.apple.com/safari/) - to preview the site
 * [Pixelmator](http://www.pixelmator.com/) - to crop and export any article images
 
-A little later today, I'm going to be doing some [Ruby on Rails](http://rubyonrails.org/) programming, so I'll switch to the *Rails Context* pack, closing everything on Desktop 1 and opening [TextMate](http://macromates.com/), [BBEdit](http://www.barebones.com/products/bbedit/index.html) and a Terminal for that *on this desktop*.
+A little later today, I'm going to be doing some [Ruby on Rails](https://rubyonrails.org/) programming, so I'll switch to the *Rails Context* pack, closing everything on Desktop 1 and opening [TextMate](http://macromates.com/), [BBEdit](http://www.barebones.com/products/bbedit/index.html) and a Terminal for that *on this desktop*.
 
 The most common activity I perform when *not* directly working is checking on and responding to email. So that goes on Desktop 2. On the laptop, Desktop 2 is just full-screen email. To check email, I use either `⌃→` or `⌘2` and viola, my work goes away and my email comes into view as Desktop 2 slides in. Check, read, respond, then `⌃←` or `⌘1` and Desktop 1, my work, slides back in ready to continue.
 

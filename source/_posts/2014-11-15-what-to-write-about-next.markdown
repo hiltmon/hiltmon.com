@@ -189,4 +189,4 @@ But almost all of my writings all started as ideas in notes. They survived the c
 
 Now, what to write about next? Let's look in the ideas folder again.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

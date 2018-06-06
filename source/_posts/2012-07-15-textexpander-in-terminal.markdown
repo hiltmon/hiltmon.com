@@ -120,4 +120,4 @@ Launching an editor, then opening a recent folder or file takes too much effort 
 
 ## Looking for more ideas
 
-If you use TextExpander to speed up your use of Terminal, I'd love to hear about it. Link in the comments or DM me on Twitter [@hiltmon](http://twitter.com/hiltmon).
+If you use TextExpander to speed up your use of Terminal, I'd love to hear about it. Link in the comments or DM me on Twitter [@hiltmon](http://https://twitter.com/hiltmon).

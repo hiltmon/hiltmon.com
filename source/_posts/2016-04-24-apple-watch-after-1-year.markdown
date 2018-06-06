@@ -94,4 +94,4 @@ It also sold more than all swiss watches in [Q4 2015](https://www.strategyanalyt
 
 I am very happy with my Apple Watch, as much with the device as with how it has immeasurably improved my quality of life and behavior. No other device, including the iPhone, has hacked my ways as quickly, efficiently and unobtrusively as the Apple Watch. And this is just at version one in year one. *Failure, my arse!*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

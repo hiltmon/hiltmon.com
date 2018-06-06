@@ -107,7 +107,7 @@ I guess anything you do *does* remain on the Internet somewhere.  **What's the o
 
 [app]: http://alpha.app.net/hiltmon
 [internetprovidersqld]: http://www.internetprovidersqld.com.au/news/1998/5/26/hard-drive/
-[twitter]: http://twitter.com/hiltmon
+[twitter]: http://https://twitter.com/hiltmon
 [wikipedia]: http://en.wikipedia.org/wiki/UUCP
 [wikipedia 2]: http://en.wikipedia.org/wiki/Donald_Knuth
 [wikipedia 3]: http://en.wikipedia.org/wiki/Bulletin_board_system

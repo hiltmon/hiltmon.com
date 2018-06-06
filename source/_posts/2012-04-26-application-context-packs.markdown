@@ -12,7 +12,7 @@ When developing in Rails, I use a certain pack of applications; when coding for 
 
 After a clean reboot, I would then have to go through the same dance every time, launch the regular applications manually. Start Mail.app, [OmniFocus](http://www.omnigroup.com/products/omnifocus/), [Billings](http://www.marketcircle.com/billings/), [nvAlt](http://brettterpstra.com/project/nvalt/), [Twitterrific](http://iconfactory.com/software/twitterrific), [Reeder](http://reederapp.com/), iChat and [Skype](http://www.skype.com/), waiting for each to launch before clicking the next one.
 
-Then I would choose what to do next and start the application pack for that context. If I were to be programming in [Rails](http://rubyonrails.org/), that means two terminal sessions, [TextMate](http://macromates.com/), [BBEdit](http://www.barebones.com/products/bbedit/index.html) and Safari. If iOS, then it's Xcode, [BBEdit](http://www.barebones.com/products/bbedit/index.html) and [Photoshop](http://www.photoshop.com/), blogging, [MarsEdit](http://www.red-sweater.com/marsedit/) and Safari.
+Then I would choose what to do next and start the application pack for that context. If I were to be programming in [Rails](https://rubyonrails.org/), that means two terminal sessions, [TextMate](http://macromates.com/), [BBEdit](http://www.barebones.com/products/bbedit/index.html) and Safari. If iOS, then it's Xcode, [BBEdit](http://www.barebones.com/products/bbedit/index.html) and [Photoshop](http://www.photoshop.com/), blogging, [MarsEdit](http://www.red-sweater.com/marsedit/) and Safari.
 
 To switch contexts, I would manually close the unnecessary applications, and then manually launch the new ones. And then configure them for the project I was working on.
 

@@ -74,4 +74,4 @@ When compiled, the resulting string is:
 
 **Legible. Easy to maintain. Easy to read. Simple to copy and paste. Very maintainable.**
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*

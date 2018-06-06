@@ -54,4 +54,4 @@ Thank you all for inspiring, entertaining, informing and sharing. You may never 
 
 <span class="light">Note: I wanted to keep the list short, being part of a long list makes it less special. And I wanted to focus on individuals or small businesses (except for one), doing what they love, not what they are being paid to do.</span>
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

@@ -12,4 +12,4 @@ In sum and once again: Amazon is not your friend. Neither is any other corporati
 
 Replace **Amazon** with any company name of your choice and this remains 100% true.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

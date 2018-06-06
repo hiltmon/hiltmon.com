@@ -40,6 +40,6 @@ class MergeAsanaIntoOmnifocus
 
 But if you do use it, let me know in the comments or via Twitter. And if you have any ideas for changes or enhancements, let me know.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
  
  

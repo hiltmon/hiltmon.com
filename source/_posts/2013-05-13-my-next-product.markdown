@@ -34,5 +34,5 @@ Never stop learning. Never stop growing. Never stop improving.
 
 *Follow the author as [@hiltmon][1] on Twitter and [@hiltmon][2] on App.Net. Mute `#xpost` on one.*
 
-[1]:	http://twitter.com/hiltmon
+[1]:	http://https://twitter.com/hiltmon
 [2]:	http://alpha.app.net/hiltmon

@@ -18,4 +18,4 @@ Lucky for us we live in an apartment where water and heating are included in the
 
 **My Take:** Either consumers are facing some serious inflation here in the USA or the utility monopolies have won. I’m voting the latter as costs have doubled yet service levels have remained dismal.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

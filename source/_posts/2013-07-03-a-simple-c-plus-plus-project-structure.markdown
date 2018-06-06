@@ -119,6 +119,6 @@ So the retro `code-compile-run` loop looks like this:
 
 There is nothing fancy about this setup, *but that is the whole point*. A simple, retro environment for simple retro C++ programs.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [wp1]:	http://en.wikipedia.org/wiki/Daemon_(computing)

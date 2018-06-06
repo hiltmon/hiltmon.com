@@ -36,4 +36,4 @@ In the end, we chose the [GMA-5212](http://item.rakuten.co.jp/la-park/gma-5212/)
 
 *Aside: In order to meet Japanese garbage requirements, we also have to saw our old suitcase into quarters in order to fit it into the local bins. That's going to be fun as my in-laws have a handheld electric band-saw. A boy, a toy and something to destroy, what could possibly go wrong!*
 
-I’m [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](https://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.
+I’m [@hiltmon](https://https://twitter.com/hiltmon) on Twitter and [@hiltmon](https://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.

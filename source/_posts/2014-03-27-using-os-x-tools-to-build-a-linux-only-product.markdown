@@ -98,4 +98,4 @@ So I found a way to use my OS X tools and shortcuts and productivity aids to bui
 
 Maybe some of the ideas and tricks in this post can help you with your second platform development.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

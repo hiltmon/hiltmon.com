@@ -22,7 +22,7 @@ This site represents me, and I’m random and eccentric and interested in a wide
 
 I don't make any money from this. I don't get any new business from this (as yet, still hoping).
 
-I do care about my readers. I like to engage with you, and get very excited every time I get an email from [Disqus](https://disqus.com) to say a new comment has been posted. Or a [Twitter](http://twitter.com/hiltmon) or [App.Net](http://alpha.app.net/hiltmon) mention. Or a [Facebook](https://www.facebook.com/hiltmoncom) page like. And the best is when another blogger links to my work.
+I do care about my readers. I like to engage with you, and get very excited every time I get an email from [Disqus](https://disqus.com) to say a new comment has been posted. Or a [Twitter](http://https://twitter.com/hiltmon) or [App.Net](http://alpha.app.net/hiltmon) mention. Or a [Facebook](https://www.facebook.com/hiltmoncom) page like. And the best is when another blogger links to my work.
 
 I like to write. And I intend to continue writing. Maybe I'll even get better at it.
 
@@ -30,4 +30,4 @@ But most importantly, **thank you** for reading **Hiltmon.com** and coming along
 
 "Good Journey."
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

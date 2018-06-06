@@ -97,4 +97,4 @@ But if you do use it, let me know in the comments or via Twitter. And if you hav
 
 Download: [<del>Gist 9786291</del>Gist "merge_asana_into_omnifocus.rb"](https://gist.github.com/hiltmon/d1f79e95dd11252ce6ca)
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

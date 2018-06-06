@@ -26,7 +26,7 @@ I also prefer my footnotes a tad smaller, lighter and closer together, so I adde
 
 If you prefer popover style footnotes (which I do not), try the [Footnotes Popover](https://github.com/mattgemmell/footnotes-popover) by [Matt Gemmell](http://mattgemmell.com).
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [^1]: This is a footnote.
 [^2]: If you had changed Markdown processors, you would have gotten footnotes sooner, but at the cost of significantly slower site generation speed. `rdiscount` is fast C code, the others are slower interpreted code.

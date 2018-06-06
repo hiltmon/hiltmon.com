@@ -211,7 +211,7 @@ Some tips and tricks I use a lot in these scripts:
 
 There are a lot of reasons for writing scripts, but I feel there is no reason not to do them properly and in a maintainable way. It does not take more than a few moments more to name them properly, code the structure and self-document the script, which will save you hours later on when things change. *And they always do.*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [^1]: excess, overfill, abundance, bellyful, bucketload, glut -- a lot!
 [^2]: No matter how good or smart you are, there is no way you can keep all of the file names, functions and purposes in your head over the long haul. Especially as things change often. Knowing you can forget something yet find it again later is far more valuable.

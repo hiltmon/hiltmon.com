@@ -48,4 +48,4 @@ You may need to restart Sublime Text 2 after this.
 
 Next time you open a file where you have set type-specific user settings, the theme specified will be used. Nice!
 
-See also [My Sublime Text 2 Setup](https://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multi-Platform Editing Is Sublime](https://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.
+See also [My Sublime Text 2 Setup](https://hiltmon.com/blog/2012/08/14/my-sublime-text-2-setup/) and [Multi-Platform Editing Is Sublime](https://hiltmon.com/blog/2012/11/26/multi-platform-editing-is-sublime/). And follow me at [@hiltmon](https://https://twitter.com/hiltmon) on Twitter or [@hiltmon](https://alpha.app.net/hiltmon) on App.Net.

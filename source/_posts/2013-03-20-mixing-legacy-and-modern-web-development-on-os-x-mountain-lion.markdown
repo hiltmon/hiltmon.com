@@ -169,8 +169,8 @@ Now to see if I remember any PHP!
 [postgresql]: http://www.postgresql.org
 [pow]: http://pow.cx
 [redis]: http://redis.io
-[rubyonrails]: http://rubyonrails.org
+[rubyonrails]: https://rubyonrails.org/
 [rvm]: https://rvm.io
 [sinatrarb]: http://www.sinatrarb.com
-[twitter]: http://twitter.com/hiltmon
+[twitter]: http://https://twitter.com/hiltmon
 [wordpress]: http://wordpress.org

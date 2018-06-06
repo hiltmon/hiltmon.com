@@ -32,4 +32,4 @@ So shame on the WSJ for priming the pump. You’re better than that!
 
 ***Update 3**: Jim Dalrymple points out [Apple can’t respond to rumors of iPhone 5 cuts even if it wanted to](http://www.loopinsight.com/2013/01/14/apple-cant-respond-to-rumors-of-iphone-5-cuts-even-if-it-wanted-to/) because of a mandated SEC quiet period leading up to the earnings call. Something WSJ also knows, and they still published! That’s even more despicable.*
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

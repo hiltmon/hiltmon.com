@@ -40,7 +40,7 @@ But the day after there was a message. It had come back through this ad-hoc netw
 
 [Donald Knuth][6] himself had replied to my Professor's first emailed question.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	http://info.cern.ch
 [2]:	http://www.uct.ac.za

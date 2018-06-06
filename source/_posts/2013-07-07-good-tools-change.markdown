@@ -38,4 +38,4 @@ If you are in a stable job working on a stable platform where there is little ch
 
 But if you change as much as I have, I believe it's more important to invest in your ability to design and program better, to adapt to change, and pick up and discard platforms and tools as you go. Whatever you invest your learning time in now, whether it be tools or programming skills, know that this learning will not be wasted, it will make it easier to transition to the next tools or languages if and when that happens, and it will pay dividends until then.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

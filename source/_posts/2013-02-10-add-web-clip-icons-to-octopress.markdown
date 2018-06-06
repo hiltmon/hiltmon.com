@@ -38,4 +38,4 @@ Make sure the image files are in the root of your site (same place as the favico
 
 The next time a user adds your site as a web clip, the phone will download the appropriate image file, add the shine, round the corners and make that the custom icon.
 
-*Follow the author as [@hiltmon](http://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

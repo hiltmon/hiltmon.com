@@ -54,7 +54,7 @@ I’ll stay on Twitter until it dies, or all those that I follow have moved to a
 
 “*Nice plumage.*”
 
-I’m [@hiltmon](http://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.
+I’m [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Follow me and let me know what you think.
 
 *[1] Twitter’s own apps are woefully out of date.*  
 *[2] When Loren Brichter worked there, their Tweetie app was excellent, but that died years ago.*

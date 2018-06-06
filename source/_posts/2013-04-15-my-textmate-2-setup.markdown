@@ -147,4 +147,4 @@ See also: [TextMate 2 Basics]({{ root_url }}/blog/2013/11/09/textmate-2-basics/)
 [github]: https://github.com/textmate/textmate
 [kifuapp]: http://www.kifuapp.com
 [sublimetext]: http://www.sublimetext.com/2
-[twitter]: http://twitter.com/hiltmon
+[twitter]: http://https://twitter.com/hiltmon
