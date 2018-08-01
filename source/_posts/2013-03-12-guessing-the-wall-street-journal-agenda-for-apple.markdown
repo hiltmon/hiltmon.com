@@ -41,4 +41,4 @@ Is there any doubt that the WSJ has its own agenda, and pumping out anti-Apple w
 
 Come on, friends, it's not serious or insidious, the WSJ agenda is simply to sell more papers and get more clicks. Nothing does that more than any article with the word Apple in its headline, and reporting and fairness and truth have nothing to do with making money for the WSJ.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

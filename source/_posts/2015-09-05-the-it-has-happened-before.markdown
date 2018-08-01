@@ -38,5 +38,5 @@ And then they will announce "one more thing".
 
 The modern grown-up Apple will slip away, the gleeful teenage Apple will stand tall on the stage, and maybe, just maybe, will change the world again.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 

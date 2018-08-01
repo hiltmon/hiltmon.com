@@ -43,7 +43,7 @@ You see, even if I submitted it to Apple today, it will be a week to 10 days bef
 
 Since there are glaring bug fixes already completed, and I want these annoyances out of my users' way, I think it's best to get these fixes out there. So I'm pulling the trigger. TimeToCall v1.0.1 has been submitted to the App Store for review.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 
 

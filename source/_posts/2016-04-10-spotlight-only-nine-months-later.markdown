@@ -56,4 +56,4 @@ I rarely use Spotlight to search for a stock price, weather, sports score or loc
 
 I am sure there is a lot of functionality that I could be missing out on, but since I am pretty much all-in on Keyboard Maestro, Apple's built-in Spotlight works just fine for my launching and searching needs. Anything more complex gets a keystroke macro in Keyboard Maestro.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

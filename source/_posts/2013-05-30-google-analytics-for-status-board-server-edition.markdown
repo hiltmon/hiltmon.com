@@ -53,4 +53,4 @@ Why choose these technologies?
 
 If you'd prefer a more modern and robust approach, stick to the previous Ruby and Dropbox workflow at [Google Analytics for Status Board]({{ root_url }}/blog/2013/04/10/google-analytics-for-status-board/).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

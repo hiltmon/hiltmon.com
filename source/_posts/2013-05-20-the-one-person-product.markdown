@@ -20,4 +20,4 @@ However, **I also know** of many founders who love to *think* they are great vis
 
 We can't all be Steve Jobs or David Karp. But we sure can try to emulate their strengths.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

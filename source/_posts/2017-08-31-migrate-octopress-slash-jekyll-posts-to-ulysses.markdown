@@ -71,4 +71,4 @@ The result:
 
 {% img /images/blog-in-ulysses.jpg 550 278 %}
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -36,4 +36,4 @@ I can select the `szp-client` scheme, edit, compile and run it as well. **Xcode 
 
 And the best part. One window, easy on the small screen and no switching windows.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

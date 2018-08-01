@@ -28,4 +28,4 @@ It does *seem* wonderful to have software that does everything you want and prov
 
 It's really hard, though, to identify that which you need versus that which you just *have to have just to have it*. Especially if the business, task or process has been in place for a long time. Using a consultant, like me, with a fresh mind and different outlook to help you think through these questions while designing your next product will result in a simpler, more focussed product. And in a more flexible, nimble, happier and productive team.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

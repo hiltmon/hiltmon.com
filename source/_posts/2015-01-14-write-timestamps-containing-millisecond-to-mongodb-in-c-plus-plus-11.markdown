@@ -54,6 +54,6 @@ The MongoDB c++ code also changes to:
 
 And now we have [MongoDB](http://www.mongodb.org) ISODates with milliseconds that work perfectly.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 
 [^1]: Yes, I know MongoDB uses Boost, but all I do is link to MongoDB's precompiled library, so my app remains *plausibly* independent. And I do not need to deal with matching MongoDB's boost version with my own.

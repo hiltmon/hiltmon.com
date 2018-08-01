@@ -29,4 +29,4 @@ If you, like us, are living far away from your blood relatives, I hope you too t
 
 For global drifters like my wife and I, it grounds and completes us.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

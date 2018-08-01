@@ -201,7 +201,7 @@ I get a lot of benefits from using [Rails migrations][RM] and [Capistrano][CAP] 
 
 So here we are, I'm running one of these right now that is significantly changing the core architecture of my firm's platform and instead of manually doing the work, or staring helpless at the process, or even having to worry if it fails, I'm writing this post.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [RM]: https://guides.rubyonrails.org/migrations.html
 [CAP]: http://capistranorb.com

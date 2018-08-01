@@ -177,4 +177,4 @@ I will use the same task recording and prioritization tools as before. I will ho
 
 Yet we’ll remain the fast, nimble, and exceptionally productive tech team as always, doing what we do best, delivering systems that multiply our firm’s capabilities and competitive edges.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

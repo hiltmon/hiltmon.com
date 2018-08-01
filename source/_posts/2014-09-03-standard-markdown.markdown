@@ -28,4 +28,4 @@ It seems John Gruber, the creator of Markdown, was not in the loop on [this]([ht
 
 Knowing this now, I'll wait to see if and how he responds first.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -52,4 +52,4 @@ And lets not forget all those developers who took the opportunity when updating 
 
 When Apple's Phil Schiller said that on stage at WWDC, he was taking a poke at the tech press and the memes that scream innovation is dead. The only place innovation is truly dead is where they have published its obituary.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

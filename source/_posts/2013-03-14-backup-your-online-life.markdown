@@ -34,7 +34,7 @@ I am not saying Gmail or Twitter is going to go away tomorrow, but these are fre
 
 **You've been told to backup you computer, you should also backup your online life.**
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 ## The Geeky Part
 

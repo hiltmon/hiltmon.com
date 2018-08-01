@@ -38,4 +38,4 @@ Many a product has failed to materialize because the process took over. Look for
 
 *See also the other [Hiltmonisms]({{ root_url }}/blog/categories/hiltmonism/) in the ongoing series.*
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

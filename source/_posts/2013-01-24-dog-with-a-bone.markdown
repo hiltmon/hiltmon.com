@@ -24,4 +24,4 @@ To check, I took it to the next level. I wrote a script to take every date in th
 
 I cannot say whether being a perfectionist is a good or a bad thing in life, but it is a necessity when crafting great products. So if there is something in your code-base that irks you, go after it like a dog with a bone and work on it until it is done and done right.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

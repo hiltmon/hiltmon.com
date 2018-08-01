@@ -43,6 +43,6 @@ Go ahead, read them.
 
 I have updated my Google Analytics filters and am waiting to see if the changes work. I have also created the segment as directed and that seems to work great, but only for some reports.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 
 [^1]: Still running [Status Board](https://panic.com/statusboard/) by the seriously handsome folks at [Panic](https://panic.com) on the original iPad.

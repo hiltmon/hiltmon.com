@@ -172,4 +172,4 @@ A lot of companies are moving their servers off Microsoft Windows and on to Linu
 
 I think it's in Microsoft and Oracle's interest to release public libraries to access their databases from anywhere, including other platforms, in order to stay relevant and in the game.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

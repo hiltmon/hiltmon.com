@@ -89,7 +89,7 @@ For `ssh`, make sure the home computer has **Remote Login** enabled and the comm
 
 Happy remoting.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [cs1]: http://www.econtechnologies.com/pages/cs/chrono_overview.html
 [ca1]: http://www.econtechnologies.com/pages/ca/agent_overview.html

@@ -42,4 +42,4 @@ Who would you rather deal with?
 
 <span class="light">Note: Marco quotes transcribed manually by me without permission, punctuation added, all errors are my own.</span>
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

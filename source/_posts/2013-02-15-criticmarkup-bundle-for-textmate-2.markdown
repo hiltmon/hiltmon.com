@@ -22,10 +22,10 @@ Currently, the bundle implements the usual `Markdown` functionality, plus the fi
 
 <del>It also contains the Critic theme used in the demo.</del>
 
-<del>You can download and install the bundle from [https://github.com/hiltmon/Critic-Markup.tmbundle](https://github.com/hiltmon/Critic-Markup.tmbundle). Let me know what you think via [GitHub](https://github.com/hiltmon/Critic-Markup.tmbundle/issues) or [Twitter](http://https://twitter.com/hiltmon).</del>
+<del>You can download and install the bundle from [https://github.com/hiltmon/Critic-Markup.tmbundle](https://github.com/hiltmon/Critic-Markup.tmbundle). Let me know what you think via [GitHub](https://github.com/hiltmon/Critic-Markup.tmbundle/issues) or [Twitter](https://twitter.com/hiltmon).</del>
 
 <del>**This is at best beta-level software (my first public bundle) and has been tested and run on one and only one machine, mine with one version of TextMate, TM2! You takes your chances by installing it.**</del>
 
 Enjoy.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

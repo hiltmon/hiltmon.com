@@ -111,4 +111,4 @@ When we hear or get a notification, we know that the situation is exceptional, a
 
 **Our Sonya has been quiet today, all is well.**
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -19,7 +19,7 @@ Revenue | $4.17 | $3.49 | $41.71 | $39.06 | $9.28 | $2.86 | $2.16 | **$102.74**
 
 {% img left /images/timetocall-week1-sales.jpg 359 159 %}
 
-Day 1 and 2 sales were family and friends, mostly via my [Facebook Page](http://facebook.com/hiltmoncom) (*you know you want to ‘like’ it*) and [Twitter](http://https://twitter.com/hiltmon). Not surprising as no-one else knew about it then.
+Day 1 and 2 sales were family and friends, mostly via my [Facebook Page](http://facebook.com/hiltmoncom) (*you know you want to ‘like’ it*) and [Twitter](https://twitter.com/hiltmon). Not surprising as no-one else knew about it then.
 
 On Day 3, I sent out a six *fumbling* emails to some of my favorite tech bloggers to see if any of them would try the product out and read the series I wrote (and hoping they would write about it). Two responded via email. Honestly, I did not expect *any* responses, these folks get bombarded with emails from people saying “Try my Product” and “Here is a Promo” and   “Could You...” type messages. They have better things to do than to respond to all of these messages. And I sure am not famous.
 
@@ -63,5 +63,5 @@ Thank You. **Guess what I did with the profits.**
 
 *For those of you wonderfully anal readers who added up the numbers in the data table above and came out 1 penny short, remember, not all sales are in US dollars, so there is some rounding going on.*
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
 

@@ -39,4 +39,4 @@ Whereas, in the situations where the big picture and context is communicated fir
 
 Next time you set a task for someone else, start with the big picture and explain to them how the task fits in, how, where and by whom the deliverables will be used, and how it will make things better for others. Then, and only then, explain the work needed to be done. You will find that they will understand the task better, deliver better solutions, enjoy what they do more, and most importantly, give feedback insight into ways of doing it better.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -36,4 +36,4 @@ The other issue, the level of detail to be written, is also being resolved throu
 
 The result of the change to [Minimal Project Managementhttps://hiltmon.com/blog/2016/03/05/minimal-project-management/) is easy to see. More projects getting shipped correctly and quicker, with better discussion and problem solving up front and faster coding to the finish line. And our communications and prioritization processes run smoother.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

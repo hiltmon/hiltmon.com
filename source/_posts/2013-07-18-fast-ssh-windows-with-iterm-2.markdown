@@ -65,4 +65,4 @@ Or just use [iTerm 2's](http://www.iterm2.com/#/section/home) profiles.
 
 Related Reading: [Make iTerm 2 more Mac-like](https://hiltmon.com/blog/2013/02/13/make-iterm-2-more-mac-like/)
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

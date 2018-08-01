@@ -78,4 +78,4 @@ Until I find the "right" new things for me, I'll stick with what I have. But I'l
 
 My next project will be a *trusty* Rails project on a trusty Linux platform using my *trusty* Nginx setup against *trusty* PostgreSQL. And my next script will still be in *trusty* Ruby. And I'll still program it all using *trusty* TextMate 2 with my familiar [CombinedCasts](https://hiltmon.com/files/CombinedCasts.tmTheme) theme.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

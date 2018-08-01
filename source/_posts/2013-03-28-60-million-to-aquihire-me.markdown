@@ -33,4 +33,4 @@ And for that ridiculously **cheap** bargain-basement price, I'll give you a bett
 
 I cannot imagine anyone **not** taking this *amazing* cut-price deal up.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

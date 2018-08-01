@@ -15,5 +15,5 @@ I wanted the same for **Mac** apps. Turns out, it's a one word change to Brett's
 
 **Usual disclaimer: It works for me, should work for you, and no bunnies were harmed.**
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

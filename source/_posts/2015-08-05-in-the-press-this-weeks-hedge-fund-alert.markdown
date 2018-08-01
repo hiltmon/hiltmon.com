@@ -27,4 +27,4 @@ categories:
 
 > The rapid build-up of Maritime’s asset base followed the arrival in January of **Christine Egan**, the firm’s first full-time marketer. She previously worked at fund-administration shop **Kaufman Rossin Fund Services**.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

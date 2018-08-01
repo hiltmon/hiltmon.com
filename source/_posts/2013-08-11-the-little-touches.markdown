@@ -36,5 +36,5 @@ Two additional batteries. Such a little touch. Such amazing benefit.
 
 Only $29.99 on the [Apple Store](http://store.apple.com/us/product/MC500LL/A/apple-battery-charger) <span class="light">(not affiliate link)</span>.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

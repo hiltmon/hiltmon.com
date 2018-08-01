@@ -34,4 +34,4 @@ So there they are, *the precedents* I use to select who I connect with on which 
 
 You, dear reader, you I do want to connect with. Pick a social network where *our precedents* meet, send a message, and say hello. And if there is a network I am not on, and I fit *your precedents* to connect there, let me know about it and I will sign up.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

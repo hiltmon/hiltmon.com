@@ -36,4 +36,4 @@ So check out [BuyReply](http://www.buyreply.com/) on the web, sign up as a merch
 
 <span class="light">*Disclaimer*: I am not an investor in [BuyReply](http://www.buyreply.com/). **I wish I was.** I am just a friend of Brad's who loves the idea and the product, uses it and wants you all to know about it and use it too.</span>
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

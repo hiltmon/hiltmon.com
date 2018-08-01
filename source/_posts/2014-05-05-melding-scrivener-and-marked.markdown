@@ -169,4 +169,4 @@ It sure looks like a lot of work to get this set up and working, but when you do
 
 I create a lot of larger, complex business documents this way in [Scrivener](http://www.literatureandlatte.com/scrivener.php). It allows me to focus on the content and structure and yet generate a consistent document format each time using [Marked](http://marked2app.com).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. `Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. `Mute `#xpost` on one.*

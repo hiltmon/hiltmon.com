@@ -22,4 +22,4 @@ Quit and restart Mail.app. Copy an email address and you get an email address:
 
 This is one of those simple annoyances on OS X that I wish Apple would just change the default by default.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

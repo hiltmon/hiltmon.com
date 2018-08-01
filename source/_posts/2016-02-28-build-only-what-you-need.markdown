@@ -30,4 +30,4 @@ Code what you need, design it well, and if a new use-case ever emerges, deal wit
 
 “Keep It Simple Stupid”, all day long.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

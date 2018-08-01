@@ -52,4 +52,4 @@ To see if this worked, click on the **Format** / **Formatting** / **Apply Preset
 
 So now you can focus on writing in Scrivener and format paragraphs without leaving the keyboard.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

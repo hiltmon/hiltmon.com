@@ -57,7 +57,7 @@ Brandon Mathis ([@imathis][15]), the developer behind [Octopress][1], has really
 
 In short, switching to [Octopress][1] 18 months ago was a brilliant decision for me and I still love the platform, the look and writing workflow. If you are looking to replace your outdated, heavy blog with something technical and beautiful, I cannot recommend [Octopress][1] more.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	http://octopress.org
 [2]:	https://hiltmon.com

@@ -46,5 +46,5 @@ To test this I created a new Markdown file in [BBEdit](http://www.barebones.com/
 
 Good to go.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 

@@ -20,4 +20,4 @@ In this release, Mikael has gotten down to spotlighting the key uses of the appl
 
 If you use Pinboard, [Pinbrowser for Pinboard on the App Store](https://itunes.apple.com/us/app/pinbrowser-for-pinboard/id611736066?mt=8&uo=4&at=10l894) for the iPhone or iPad is a lovely *one-thing-well* app that you should consider.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

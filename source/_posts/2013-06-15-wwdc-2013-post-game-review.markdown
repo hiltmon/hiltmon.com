@@ -139,6 +139,6 @@ I don't really care that WWDC 2013 sold out in 71 seconds, there's no chance I w
 
 I really do think that the 2013 WWDC announcements are awesome, the best in years. Both operating systems get huge updates, new Air's, and the new Mac Pro show that Tim Cook's Apple is still at the very top of its game in design, focus, innovation and delivery. I am really excited to use the new hardware and software as my daily drivers.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	https://developer.apple.com/osx/whats-new/

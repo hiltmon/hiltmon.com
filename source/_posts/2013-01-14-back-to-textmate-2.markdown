@@ -28,4 +28,4 @@ And to confirm it to myself, today I reset all my code file associations back to
 
 See also [My TextMate 2 Setup]({{ root_url }}/blog/2013/04/15/my-textmate-2-setup/) and [TextMate 2 Basics]({{ root_url }}/blog/2013/11/09/textmate-2-basics/).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

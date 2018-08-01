@@ -35,4 +35,4 @@ I was sitting down to design an iOS widget to display an analogue clock face for
 
 *Follow up: [How to Flexify a Class](https://hiltmon.com/blog/2012/12/19/how-to-flexify-a-class/) tells you what to do when the day comes that you do need to add features or flexibility to a class.*
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

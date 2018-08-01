@@ -126,4 +126,4 @@ OmniFocus and this *my way* workflow ensures that I never forget a task, a commi
 
 Without it, I could not manage the myriad of projects, tasks, actions, commitments and reminders I deal with every day. And to make things even better, OmniFocus 2 evolved towards *my way* and added ease of use and features where *my way* needed it the most. I am sure that for many of you of you, the GTD way works well. For others, you have your own ways to use OmniFocus. This was mine.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

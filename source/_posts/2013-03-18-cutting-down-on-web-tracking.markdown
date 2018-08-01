@@ -18,7 +18,7 @@ To install  <span class="light">(OS X instructions, others in the file)</span>, 
 
 I can't *prove* that this works for *all* sites, and it does not feel as if browsing is much faster (because I am running a local web server<a href="#fn:1" id="fnref:1"><sup>[1]</sup></a>), but it does seem to work against the most common tracking sites. So much so that I have disabled [Ghostery](http://www.ghostery.com) and rely on this to cut down on being tracked.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 ---
 <div class="footnotes">

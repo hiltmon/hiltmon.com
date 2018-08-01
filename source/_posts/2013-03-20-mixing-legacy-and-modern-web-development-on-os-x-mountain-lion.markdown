@@ -172,5 +172,5 @@ Now to see if I remember any PHP!
 [rubyonrails]: https://rubyonrails.org/
 [rvm]: https://rvm.io
 [sinatrarb]: http://www.sinatrarb.com
-[twitter]: http://https://twitter.com/hiltmon
+[twitter]: https://twitter.com/hiltmon
 [wordpress]: http://wordpress.org

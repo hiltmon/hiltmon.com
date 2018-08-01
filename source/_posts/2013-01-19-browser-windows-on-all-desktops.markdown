@@ -36,4 +36,4 @@ I usually just leave blank Safari windows open on each Desktop, and as I work an
 
 The main benefit is that a context switch back to work means that the browser on *Desktop 1 / Work* is not cluttered with mail or social tabs, and remains displaying the last page browsed for work.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

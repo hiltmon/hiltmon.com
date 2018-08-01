@@ -18,6 +18,6 @@ But we are still faced with the problem that remote links to the site may still 
 
 Welcome to [hiltmon.com](https://hiltmon.com).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 
 [^1]:	Warning: Affiliate link.

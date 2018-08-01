@@ -59,4 +59,4 @@ And my password to switch environments.
 
 With both environments installed and a quick command, you too can work on old code using the old `g++` compiler, and switch back to Xcode 5 and `llvm/clang` for newer projects.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

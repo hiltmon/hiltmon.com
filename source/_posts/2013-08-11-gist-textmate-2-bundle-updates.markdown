@@ -13,4 +13,4 @@ New updates to the [Gist.tmbundle](https://github.com/hiltmon/Gist.tmbundle) for
 
 The update should flow through the TextMate 2 updates process in due time.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

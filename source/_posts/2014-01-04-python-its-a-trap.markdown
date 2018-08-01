@@ -59,6 +59,6 @@ Unfortunately, no real alternative exists for quantitative *scripting*. R is way
 
 Or, if someone could make a numpy and pandas for Ruby (or even Go or Javascript), I'd use that in a New York minute.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [^1]: "Looking at download statistics for the Python Package Index, we can see that Python 3 represents under 2% of package downloads. Worse still, almost no code is written for Python 3." in [About Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)

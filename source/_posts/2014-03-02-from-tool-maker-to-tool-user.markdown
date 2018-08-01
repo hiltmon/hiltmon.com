@@ -76,7 +76,7 @@ And because we *use* these tools, we can do a lot more every day and create a lo
 
 Back then, as tool-makers the work we do now was not possible. Now as tool-users, it is what we do all the time.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [PLANE]:	http://en.wikipedia.org/wiki/Plane_(tool)
 [CPGM]:	http://en.wikipedia.org/wiki/C_(programming_language)

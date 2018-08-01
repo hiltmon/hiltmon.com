@@ -70,4 +70,4 @@ I believe the technology exists to do this, but sadly, we cannot make it happen.
 
 Here's hoping it will happen for regular users in 2014. It cannot happen soon enough for those that work with and support them. Then maybe "I cannot find a file" can go the way of the floppy disk.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

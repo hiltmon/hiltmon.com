@@ -38,6 +38,6 @@ That does not mean that it should remain good enough for us. We do care. And eve
 
 They may think "Experience Shmecsperience", we know better. And I am glad we do.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [^1]: **R**ead **T**he **F**erblenzende **M**anual

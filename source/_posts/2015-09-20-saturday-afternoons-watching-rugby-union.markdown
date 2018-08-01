@@ -26,4 +26,4 @@ The love of watching Rugby taught us a lot as we grew up. It taught us to think,
 
 Saturday afternoons were for watching Rugby with family and friends. Decades later, we're still watching Rugby as eagerly as ever. Even though we are thousands of miles away from each-other, we're not alone in our love for each other or the game that drew is in.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

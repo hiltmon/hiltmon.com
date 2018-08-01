@@ -32,4 +32,4 @@ Lets get back to being who we are, to the real discussion, to sharing our intere
 
 Maybe, just maybe, if we set a better example, as we have done in the past, they will find us implacable, unruffled, united and not worth messing with.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

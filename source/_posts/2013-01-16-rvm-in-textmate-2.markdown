@@ -108,4 +108,4 @@ If you want Sublime Text 2’s runner `⌘B` to use `rvm`, you need to open `~/L
 
 *Note* that this will probably get overwritten when the Ruby package gets updated. *Note* also that neither `$HOME` or `~` work here, you need the full path.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

@@ -92,5 +92,5 @@ Also, don't forget to commit these changes when done.
 
 Now we have a Simple C++ Project that can and will compile under Linux using command-line tools, and a GUI IDE environment to develop and test it on the Mac.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

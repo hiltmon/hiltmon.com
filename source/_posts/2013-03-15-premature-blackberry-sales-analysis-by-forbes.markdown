@@ -34,4 +34,4 @@ But lets give the author the benefit of the doubt and assume their source has T-
 
 There's no point reading the rest of this Forbes link-bait, too bad it had over 30,000 views when I posted this.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

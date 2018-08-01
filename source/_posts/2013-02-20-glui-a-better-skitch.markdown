@@ -28,4 +28,4 @@ In comparison, I’ve tried, and still use:
 
 But for quick image capture, annotate and share, I’ll be using [Glui](https://itunes.apple.com/us/app/glui/id601359958?mt=12&uo=4&at=10l894).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

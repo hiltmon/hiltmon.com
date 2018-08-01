@@ -22,4 +22,4 @@ Which means you only need to run it once, to set up and test the VPN connection.
 
 I have also been told that some older SonicWall's may not be supported, so I cannot guarantee this will work for you.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

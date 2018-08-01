@@ -14,4 +14,4 @@ I just pushed a few small updates to my [Gists bundle](https://github.com/hiltmo
 
 This Gists bundle is now part of the standard TextMate Bundle distribution. You can find this bundle in **TextMate → Preferences → Bundles → Gist** where it can be enabled.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

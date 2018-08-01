@@ -50,4 +50,4 @@ Many of the projects we want to take on become possible after the annual upgrade
 
 And it really is not that much work!
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

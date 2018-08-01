@@ -105,4 +105,4 @@ If you operate across many social network services in your daily Internet wander
 [omnigroup]: http://www.omnigroup.com/products/omnifocus/
 [pinboard]: https://pinboard.in
 [twitter]: http://twitter.com/ttscoff
-[twitter 2]: http://https://twitter.com/hiltmon
+[twitter 2]: https://twitter.com/hiltmon

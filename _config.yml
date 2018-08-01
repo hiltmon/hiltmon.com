@@ -71,38 +71,38 @@ default_asides: [custom/asides/fusion.html, custom/asides/about.html, asides/rec
 # ----------------------- #
 
 # Github repositories
-github_user: hiltmon
-github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
+# github_user: hiltmon
+# github_repo_count: 0
+# github_show_profile_link: true
+# github_skip_forks: true
 
 # Twitter
-twitter_user: hiltmon
-twitter_tweet_button: false
+# twitter_user: hiltmon
+# twitter_tweet_button: false
 
 # Google +1
-google_plus_one: false
-google_plus_one_size: medium
+# google_plus_one: false
+# google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: hiltmon@gmail.com
-googleplus_hidden: false
+# googleplus_user: hiltmon@gmail.com
+# googleplus_hidden: false
 
 # Pinboard
-pinboard_user: hiltmon
-pinboard_count: 3
+# pinboard_user: hiltmon
+# pinboard_count: 3
 
 # Delicious
-delicious_user:
-delicious_count: 3
+# delicious_user:
+# delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: hiltmon
-disqus_show_comment_count: false
+# disqus_short_name: hiltmon
+# disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-4573209-1
 
 # Facebook Like
-facebook_like: false
+# facebook_like: false

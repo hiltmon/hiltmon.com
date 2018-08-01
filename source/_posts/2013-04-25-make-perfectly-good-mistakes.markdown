@@ -22,4 +22,4 @@ So go ahead, try things out as I do. And make a lot of *perfectly good mistakes*
 
 **Think of it this way: One needs to make a lot of *perfectly good mistakes* in order to learn new things, grow and develop.**
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

@@ -42,6 +42,6 @@ I love how people, myself included, have contributed to StackOverflow. And it ha
 
 This way, we'll all get more. Better applications made by better programmers. And better examples on StackOverflow from better programmers for existing questions.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 
 [^1]: Names and details withheld, and the story adjusted, to protect the innocent.

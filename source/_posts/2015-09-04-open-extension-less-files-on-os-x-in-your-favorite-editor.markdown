@@ -24,5 +24,5 @@ Once its installed, open **Default Apps** from **System Preferences**, go to **A
 
 <span class="light">I figured out the necessary UTI using the command `mdls Makefile` and seeing that the system had it as "public.data". Many other sites say using "public.text" is the correct mapping but that did *not* work for me on OS X 10.10 Yosemite.</span>
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*
 

@@ -32,4 +32,4 @@ Any time you add a new file to the main project, make sure you add it's source t
 
 Now we have a cross-platform external build C++ project that also takes advantage of Xcode's autocomplete and jump to definition features.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

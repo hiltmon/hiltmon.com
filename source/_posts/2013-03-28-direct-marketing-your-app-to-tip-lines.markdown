@@ -27,7 +27,7 @@ Unfortunately, Christian paid for his PR. I think that if one is *paying*, one s
 
 I guess it's time to step away from the screen and start getting to know the good folks in the press *personally*. First drink is on me.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 ## Aside: The message that was sent
 

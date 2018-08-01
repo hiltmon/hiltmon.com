@@ -26,4 +26,4 @@ This is yet another step in the great American process of taking away the rights
 
 *I’ve had this note on the boil for a while since I tried to ‘opt out’ of illegal credit card fees last year and they gave me two choices: accept the fees or lose all credit cards with the bank. Recently, PayPal changed its terms and conditions to force arbitration, and after seeing the many PayPal horror stories, well, I do not want to be yet another victim of theirs. Fortunately, there are other payment services. Unfortunately, no other credit card providers or mobile phone services.*
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

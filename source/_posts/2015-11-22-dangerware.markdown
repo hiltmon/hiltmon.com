@@ -71,4 +71,4 @@ A professional programmer will check their code. A professional programmer who u
 
 And you, you can focus on building a better business instead of being distracted by the huge number of problems dangerware causes.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

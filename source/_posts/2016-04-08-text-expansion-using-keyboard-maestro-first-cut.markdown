@@ -82,4 +82,4 @@ I have managed to replace the majority of my TextExpander snippets using the bas
 
 Hope this helps.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -37,5 +37,5 @@ I am expecting this scenario to play out tonight at the Apple earnings call, and
 *Follow the author as [@hiltmon][1] on Twitter and [@hiltmon][2] on App.Net. Mute `#xpost` on one.*
 
 
-[1]:	http://https://twitter.com/hiltmon
+[1]:	https://twitter.com/hiltmon
 [2]:	http://alpha.app.net/hiltmon

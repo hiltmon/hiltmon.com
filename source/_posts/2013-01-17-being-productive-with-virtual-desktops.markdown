@@ -60,4 +60,4 @@ The only real bad of this setup depends on your choice in “When switching to a
 
 See Also: [Browser Windows on All Desktops](https://hiltmon.com/blog/2013/01/19/browser-windows-on-all-desktops/).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

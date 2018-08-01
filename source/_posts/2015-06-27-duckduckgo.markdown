@@ -36,4 +36,4 @@ In **iOS**, In **Settings** / **Safari**:
 
 I strongly recommend you switch to [DuckDuckGo](https://duckduckgo.com) for your search needs now. And if you are web smart, feel free to give them [feedback](https://duckduckgo.com/feedback) or [get involved](http://duckduckhack.com) in making it better.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -110,4 +110,4 @@ We need to realize that we do not do things that much differently to everyone el
 
 Unlike Occam's Razor, the simplest solution may not be the best, but the most intentionally complex one is certainly always the worst.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

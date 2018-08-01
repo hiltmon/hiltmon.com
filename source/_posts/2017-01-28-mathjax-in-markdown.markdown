@@ -69,4 +69,4 @@ On the other hand, if you use the magnificent [Marked 2](http://marked2app.com) 
 <br/>
 So there it is, simply add the MathJax using delimiters to your Markdown file and update the previewer to render it.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

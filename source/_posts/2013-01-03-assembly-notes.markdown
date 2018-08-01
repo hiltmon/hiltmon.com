@@ -256,4 +256,4 @@ Creating Assembly Notes and keeping them up to date requires discipline and habi
 
 Try creating Assembly Notes from now on, one file a week, and ensure you ALT-TAB to this file when you are between tasks, or thinking or planning or running commands and write what you do. Before you know it, it will become habit and you will have an excellent log to work with.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

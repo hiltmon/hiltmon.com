@@ -41,7 +41,7 @@ The demo video is [hosted on YouTube](http://youtu.be/84EvUGKoTyQ) and may be em
 
 * Author: **Hilton Lipschitz**
 * Author Web: [https://hiltmon.com]https://hiltmon.com)
-* Twitter: [@hiltmon](http://https://twitter.com/hiltmon)
+* Twitter: [@hiltmon](https://twitter.com/hiltmon)
 * App.Net: [@hiltmon](http://alpha.app.net/hiltmon)
 * Facebook Page: [Hiltmon.com](http://www.facebook.com/hiltmoncom)
 * Author Company: **Noverse LLC**

@@ -35,4 +35,4 @@ More on [Ulysses III][linksynergy] will follow as I continue to test out the pro
 [dropbox]: https://www.dropbox.com
 [hiltmon]: https://hiltmon.com/blog/2012/04/15/text-notes-going-electronic/
 [linksynergy]: https://itunes.apple.com/us/app/ulysses-iii/id623795237?mt=12&uo=4&at=10l894
-[twitter]: http://https://twitter.com/hiltmon
+[twitter]: https://twitter.com/hiltmon

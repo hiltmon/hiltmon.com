@@ -40,4 +40,4 @@ I also think that Apple, Microsoft and Google are all being frustrated by Intel,
 
 Until then, I intend to enjoy the beautiful new MacBook Pro and its productivity improvements when it arrives, and use a few adapters to replace the ports I need to keep going. But I also will look closely at the 2017 MacBook Pros when they come out. And keep an eye on the pro-level iOS/Pencil/Keyboard solution in case it becomes part of a better solution for my needs.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

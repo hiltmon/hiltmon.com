@@ -37,4 +37,4 @@ All new shells you create will use the new tools.
 
 Enjoy.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

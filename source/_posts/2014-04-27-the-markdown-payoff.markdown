@@ -78,7 +78,7 @@ To answer my starting questions, then:
 
 **I write more, I write better, and I *have* the information I need available at my fingertips.** I also spend less time writing, almost no time formatting (thanks to [Marked][MA]), and am more productive because I always know what is (or was) going on.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 
 [1]:	https://hiltmon.com/blog/categories/markdown/
 [2]:	https://hiltmon.com/blog/2012/04/15/text-notes-going-electronic

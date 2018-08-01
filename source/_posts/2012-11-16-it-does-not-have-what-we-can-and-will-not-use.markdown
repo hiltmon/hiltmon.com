@@ -23,5 +23,5 @@ I was always taught to talk about the benefits of a product, and to be honest ab
 
 *Rant over*.
 
-Follow me on App.net as [@hiltmon](http://alpha.app.net/hiltmon) or Twitter [@hiltmon](http://https://twitter.com/hiltmon) and share your war stories.
+Follow me on App.net as [@hiltmon](http://alpha.app.net/hiltmon) or Twitter [@hiltmon](https://twitter.com/hiltmon) and share your war stories.
 

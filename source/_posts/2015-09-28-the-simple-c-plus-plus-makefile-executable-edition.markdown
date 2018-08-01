@@ -317,4 +317,4 @@ And that's all there is to it.
 
 I am using this same Makefile pattern across many, many projects and it works well for me. I hope it can help you compile and deploy your C++ projects with ease.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

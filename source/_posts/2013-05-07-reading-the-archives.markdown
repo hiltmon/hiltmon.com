@@ -21,4 +21,4 @@ I used to just *bounce* around the internet, reading one piece here, one piece t
 
 I'm not saying you should do this too, but chances are that your analytics has me logged as an arrival by link, followed by a click on the archives. Not a bounce.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*

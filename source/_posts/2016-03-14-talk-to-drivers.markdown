@@ -98,4 +98,4 @@ Oh, and to make the tech team seem a little less weird, strange and alien.
 
 <span class="light">Click to see other [Hiltmonisms]https://hiltmon.com/blog/categories/hiltmonism/) in the ongoing series.</span>
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

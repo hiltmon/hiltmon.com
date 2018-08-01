@@ -42,4 +42,4 @@ There are many who will correctly point out that $150 (each) on keyboards is qui
 
 I therefore highly recommend the WASD keyboards (CODE or regular, 102 or 87 key) but not for snobby reasons. I just prefer the layout, size and feel. I seem to make fewer mistakes and enjoy the typing experience more because my hands seem to be in the right place. I have not found that experience on any other keyboards. They work best for me.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -68,4 +68,4 @@ Economically speaking, developers really need upgrade pricing as the initial sal
 
 So, unless Apple changes the store, we have no buyer information, no access to reviews, no trials, and no upgrades. If you buy [TimeToCall]({{ root_url }}/timetocall/), I’ll never know it was you (but feel free to tweet me when you do).
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*

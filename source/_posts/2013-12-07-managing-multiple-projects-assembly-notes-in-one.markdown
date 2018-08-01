@@ -32,5 +32,5 @@ At the start of the work day, open the *work* BBEdit project and all your projec
 
 In my case, BBEdit is always running, with one window containing the current set of assembly notes and the other being used as my hammer tool for file and data processing.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter and [@hiltmon](http://alpha.app.net/hiltmon) on App.Net. Mute `#xpost` on one.*
 

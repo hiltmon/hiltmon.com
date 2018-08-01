@@ -94,4 +94,4 @@ For the 'hourly' "and 'views' graphs, create a new Status Board chart panel and 
 
 Enjoy.
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter.*

@@ -45,4 +45,4 @@ Surprise dropouts (applications I though I would have loaded but did not):
 
 *Note: The links above to the App Store are affiliate links, so if you purchase any of these products, I get a few pennies.*
 
-*Follow the author as [@hiltmon](http://https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
+*Follow the author as [@hiltmon](https://twitter.com/hiltmon) on Twitter or [@hiltmon](http://alpha.app.net/hiltmon) on App.Net.*
