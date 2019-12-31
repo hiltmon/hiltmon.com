@@ -19,7 +19,7 @@ And then I got back into the game.
 
 I have released a whole bunch of free code, bundles and themes for developers to share, see my [code]({{ root_url }}/code/) page.
 
-You can get in touch with me using any of the methods below.<span class="light"> **Note**: If you’re interested in contacting me for business reasons, **don't**, the consulting businness is on hold. If you still just *have* to do it, use the contact information on my business site, [Noverse.com](http://www.noverse.com).</span>
+You can get in touch with me using any of the methods below.<span class="light"> **Note**: If you’re interested in contacting me for business reasons, **don't**, the consulting business is on hold. If you still just *have* to do it, use the contact information on my business site, [Noverse.com](http://www.noverse.com).</span>
 
 ## Contact Me
 
